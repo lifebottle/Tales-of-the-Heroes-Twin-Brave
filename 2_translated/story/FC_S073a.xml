@@ -1,0 +1,201 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リオン</JapaneseText>
+      <EnglishText>Leon</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>セネル</JapaneseText>
+      <EnglishText>Senel</EnglishText>
+      <Notes/>
+      <Id>14</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スタン</JapaneseText>
+      <EnglishText>Stahn</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>クロエ</JapaneseText>
+      <EnglishText>Chloe</EnglishText>
+      <Notes/>
+      <Id>15</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>奪われたエターナルソードの奪還は
+僕達の役目だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>関係のない一般人はもう手を引け</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんだと！？
+急に出てきて、なんのつもりだ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あ〜もう、リオン。
+そんな言い方したら
+怒らせるに決まってるだろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>うるさい！
+僕は回りくどい言い方は嫌いなんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まったく、これだから……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>えっと、セネルとクロエだっけ？
+ごめんな、乱暴な言い方して</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>でもエターナルソードは
+強力すぎて危険なんだ。
+個人が持っていいものじゃない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だからヒューネガルドが国を挙げて
+責任を持って管理する。
+これは決定事項だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>勝手な！
+私達には、どうしても
+エターナルソードが必要なんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……そうか。
+おとなしく言うことを聞く気はないんだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ない！
+特にお前みたいな
+生意気な奴の言うことはな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>はぁ、しょうがないか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>でも、やるからには手加減しないぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>望むところ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG04a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

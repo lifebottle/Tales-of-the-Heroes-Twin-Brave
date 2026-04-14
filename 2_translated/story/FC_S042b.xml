@@ -1,0 +1,229 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>クレス</JapaneseText>
+      <EnglishText>Cless</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リアラ</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Notes/>
+      <Id>9</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>チェスター</JapaneseText>
+      <EnglishText>Chester</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>カイル</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……そうだったのか。
+今のエターナルソードには
+時を越える力はないんだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>はい。
+聖剣エターナルソードは、エルレインにだけは
+扱えないように抑止力が施されていました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>しかしそれを知らなかった
+エルレインが無理やりに使おうとしたせいで
+エターナルソードは変貌してしまった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>時を越える聖剣から、呪われし魔剣へと……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>一人の人間を犠牲にして
+自分の思い通りの人間を作り出す力か</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>確かに、そんなものは使うべきじゃない……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんだよ……
+それならそうと最初っから言ってくれりゃいいじゃねぇか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>言おうとしたのに
+聞いてくれなかったんじゃないか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>う、うるせぇ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>迷惑をかけてしまったね。
+すまない、カイルにリアラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ところで、カイルってなんとなく
+スタンに似てるね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え！？　父さんを知ってるの！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>と、父さん！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スタンにはなんどか
+村の羊の世話を手伝ってもらったりしたけど
+子どもがいるなんて聞いた事ないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いや、ありえねぇだろ。
+こんなデッカイ子どもいるとか
+歳いくつだよって話だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>言われてみればそうだね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうか。
+この世界には父さんがいるんだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>カイル？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG06b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,206 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>クレス</JapaneseText>
+      <EnglishText>Cless</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スタン</JapaneseText>
+      <EnglishText>Stahn</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>チェスター</JapaneseText>
+      <EnglishText>Chester</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リオン</JapaneseText>
+      <EnglishText>Leon</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>パスカルがいるとタスカル！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エステルも通うエステ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ユーリの方が有利！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>モーゼスの攻撃はモーレツ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>メルディの奏でるメロディ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ディムロスのタイムロス！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんかこいつら……楽しそうだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ、そうだな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレ、このままほっといても
+いい気がしてきたぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>僕もだ。
+なんというか……この領域には触れたくない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アニーに兄はいない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>コレット、これとって！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……行くか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……そうだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>クレス……頑張れよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG07a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

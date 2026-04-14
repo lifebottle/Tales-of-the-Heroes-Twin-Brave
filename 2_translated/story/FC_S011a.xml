@@ -1,0 +1,523 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>クレス</JapaneseText>
+      <EnglishText>Cless</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>チェスター</JapaneseText>
+      <EnglishText>Chester</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ジュード</JapaneseText>
+      <EnglishText>Jude</EnglishText>
+      <Notes/>
+      <Id>30</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ミラ</JapaneseText>
+      <EnglishText>Milla</EnglishText>
+      <Notes/>
+      <Id>31</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードさえあれば
+父さんや母さん、村のみんなを
+蘇らせることが出来る</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いや、死ななくてすむんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わけわかんねぇうちに
+すべてを奪われるなんて
+こんなことあっていいはずがねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレは絶対に手に入れてみせるぞ。
+エターナルソードを……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>妹の……アミィのためにも！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>その人形は、アミィの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ、形見だ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お前に似せて作ったんだってよ。
+下手くそだろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あいつ、ずっとお前のことが
+好きだったんだ。
+でも言えなくてよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>最後にようやく言えたんだよな。
+クレスさん、大好きです、って……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……そうだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>最後の言葉がそれなんて、バカみたいだよな。
+そんなもん、クレスを苦しめるだけだっての</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ホント……あいつはバカだよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>チェスター！！
+絶対にエターナルソードを手に入れよう！
+アミィのためにも！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ！
+もちろんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードは
+ここから北にある遺跡に
+封印されているらしいね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>かなり距離があるみたいだから
+まずはこの街で列車に乗って近くまで行こう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>おっ、ちょうど駅員さんがいるぜ。
+おーい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>すみませーん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>切符２枚頼む</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>切符２枚お願いします</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あん？
+なんだよ、お前？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あっ、ごめんなさい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ん？　どうやら空席はふたつしかないようだぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>その次の列車はいつ発車になるのかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>その次は、もう明日ですね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>明日か……困ったな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なに悩んでるんだよ、クレス。
+２席あるってなら、オレ達で乗ろうぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>切符買おうとしたのは
+オレ達の方が早かったんだしよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ちょっと待ってくれ。
+私には、ジュードの方が
+早かったように見えた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ちょ、ちょっとミラ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんだよ？
+言いがかりつけようってのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>悪いが私達には
+やらなければならないことがあるんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>行くぞ、ジュード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>待てよ！
+列車に乗るのはオレ達だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>チェスター、落ち着くんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>これが落ち着いてられるか！
+やらなきゃなんねぇことがあるのは
+オレ達だって一緒だろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうか。
+お前達にも使命があるのだな。
+だが、私は譲るつもりはない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だったら……やるか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>仕方ないな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>おい、チェスター、よすんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ミラも、落ち着いてよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ん？　私は落ち着いているぞ？
+ジュードも落ち着いて、冷静に戦うことだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうじゃなくって！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いくぜ！
+女だからって手加減しねぇからな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>のぞむところだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>はぁ……。
+どうしてこんなことに……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG02a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG01b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

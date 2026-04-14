@@ -1,0 +1,121 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルビア</JapaneseText>
+      <EnglishText>Rubia</EnglishText>
+      <Notes/>
+      <Id>19</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>カイウス</JapaneseText>
+      <EnglishText>Caius</EnglishText>
+      <Notes/>
+      <Id>18</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ティトレイ</JapaneseText>
+      <EnglishText>Tytree</EnglishText>
+      <Notes/>
+      <Id>13</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ヴェイグ</JapaneseText>
+      <EnglishText>Veigue</EnglishText>
+      <Notes/>
+      <Id>12</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だからケンカなんてしてないんだってば。
+あたし達はこれが普通なの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まあたしかにケンカに見えるかもしれないな。
+ルビア、すぐ怒鳴るし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>カイウスがわかってくれないからでしょ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>信じられねぇ。
+この言い合いがケンカじゃねぇってのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ケンカって言えなくもないかもしれないけど
+オレ達はこれでなんとかやっていけてる。
+だから心配してくれなくていいよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わかった。
+普通とはちょっとちがうけど
+おまえらの絆は星五つだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ピーチパイ、もう半分しかないぞ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG05b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

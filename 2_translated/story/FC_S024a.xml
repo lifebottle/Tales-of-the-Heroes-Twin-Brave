@@ -1,0 +1,67 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スタン</JapaneseText>
+      <EnglishText>Stahn</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>こんなことになるなんて……。
+俺がリオンを信じた事が間違いだったのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……いいや、まだだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>信じるって決めたんだ。
+だったら最後の最後まで
+俺はリオンを信じ抜いてみせる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リオン、お前の本当の心を
+俺に聞かせてくれ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG04a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,65 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルビア</JapaneseText>
+      <EnglishText>Rubia</EnglishText>
+      <Notes/>
+      <Id>19</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>カイウス</JapaneseText>
+      <EnglishText>Caius</EnglishText>
+      <Notes/>
+      <Id>18</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なによ！
+あたし達野菜泥棒なんてやってないのに！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ごめん。
+オレが獣人だから疑われてるんだよな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんな事今はどうでもいいってば！
+早く逃げましょう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG03b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

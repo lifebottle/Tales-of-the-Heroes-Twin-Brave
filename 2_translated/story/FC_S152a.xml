@@ -1,0 +1,63 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ジュード</JapaneseText>
+      <EnglishText>Jude</EnglishText>
+      <Notes/>
+      <Id>30</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ミラ</JapaneseText>
+      <EnglishText>Milla</EnglishText>
+      <Notes/>
+      <Id>31</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹を壊すなんて、どうしてそんな事を……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんな事をさせるわけにはいかない。
+奴は私が止めてみせる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>僕にだって、出来る事があるはずだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG04a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

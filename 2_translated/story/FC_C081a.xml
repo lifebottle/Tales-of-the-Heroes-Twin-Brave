@@ -1,0 +1,130 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルーク</JapaneseText>
+      <EnglishText>Luke</EnglishText>
+      <Notes/>
+      <Id>16</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>カイウス</JapaneseText>
+      <EnglishText>Caius</EnglishText>
+      <Notes/>
+      <Id>18</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルビア</JapaneseText>
+      <EnglishText>Rubia</EnglishText>
+      <Notes/>
+      <Id>19</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ガイ</JapaneseText>
+      <EnglishText>Guy</EnglishText>
+      <Notes/>
+      <Id>17</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんつうかお前って
+戦ってる時とか犬みてぇだよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんだと！？
+オレが獣人だから、バカにしてるのか！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ちょ、ちょっとカイウス。
+落ち着きなさいよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルーク、あまりそういう事を言うな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんでだよ？
+犬っぽく見えたからそう言って
+なにがいけねぇんだよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>犬、犬って、いい加減にしろよ！
+今すぐ勝負だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>はぁ？　なに怒ってんだよ。
+マジ意味わかんねーし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>はぁ……そりゃ怒るだろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG02a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

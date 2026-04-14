@@ -1,0 +1,172 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ガイ</JapaneseText>
+      <EnglishText>Guy</EnglishText>
+      <Notes/>
+      <Id>17</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルーク</JapaneseText>
+      <EnglishText>Luke</EnglishText>
+      <Notes/>
+      <Id>16</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルーク、ようやく見つけたぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>おう、ガイ。
+どうしたんだよ、そんなに慌てて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お前を追ってきたに決まってるだろ。
+誰にもなんにも言わずに家を出るなんて
+いったいなにがあったんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>呼ばれたんだよ、頭の中の不思議な声に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>頭の中の声？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あぁ。　すげぇんだぜ。
+その声が教えてくれたんだ。
+この遺跡に眠る伝説の聖剣の事</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードって
+名前くらい聞いた事あんだろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>その剣を使えば
+世界中のマナ不足が解消されるらしいんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんだって……！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>声が言うんだ。
+聖剣を使うべきなのは俺だって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺、世界を救う救世主になれるんだぜ？
+選ばれたんだよ、俺は！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードでマナの枯渇が……。
+そんな事がありえるのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺は救世主だ！
+世界なんて俺が救ってやるっつーの！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お、おい！　待て、ルーク！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG06a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

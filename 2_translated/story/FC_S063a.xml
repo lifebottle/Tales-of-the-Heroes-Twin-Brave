@@ -1,0 +1,203 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ティトレイ</JapaneseText>
+      <EnglishText>Tytree</EnglishText>
+      <Notes/>
+      <Id>13</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ゼロス</JapaneseText>
+      <EnglishText>Zelos</EnglishText>
+      <Notes/>
+      <Id>11</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ヴェイグ</JapaneseText>
+      <EnglishText>Veigue</EnglishText>
+      <Notes/>
+      <Id>12</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>引き返せってどういう事だよ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹ちゃんはご機嫌斜めなんでね。
+おたくらみたいな
+庶民には会いたくないってさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹が、そう言ってるのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あったりまえでしょ〜。
+俺さまを誰だと思ってんの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹の声を聞き取れる
+神子ゼロスさまだぜ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……そうか。
+だが、それが本当だとしても
+世界樹がオレ達を拒絶しようとも……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレには世界樹の力が必要なんだ……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>へぇ、クールそうに見えて
+あんた意外と熱いんだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だけど、熱血だけじゃ
+世界は変えられないんだぜ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>うるせぇ！
+大切な人達救う為に必死になるのが
+いけない事かよ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>頼む、ゼロス。
+世界樹の力があれば、村を救えるんだろ？
+その方法を教えてくれ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんな方法ないよ。
+まあ、あったとしても教えないけどね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんでだよ！！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>じゃあそういう事だからさ
+諦めて帰んなよ。
+気をつけてね〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>待ちやがれ！！
+くそっ、追うぞ、ヴェイグ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG04a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

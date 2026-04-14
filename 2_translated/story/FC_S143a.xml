@@ -1,0 +1,74 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アスベル</JapaneseText>
+      <EnglishText>Asbel</EnglishText>
+      <Notes/>
+      <Id>28</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シェリア</JapaneseText>
+      <EnglishText>Cheria</EnglishText>
+      <Notes/>
+      <Id>29</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>聖女エルレイン……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>奴もエターナルソードの力を利用するつもりか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>奪った犯人はもちろん
+エルレインにも渡せないわ、聖剣の力は</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それにエルレインからは
+なにか危険な力を感じる。
+今ここで、奴の野望を食い止めるぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG06b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

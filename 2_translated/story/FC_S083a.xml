@@ -1,0 +1,191 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ガイ</JapaneseText>
+      <EnglishText>Guy</EnglishText>
+      <Notes/>
+      <Id>17</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エルレイン</JapaneseText>
+      <EnglishText>Elraine</EnglishText>
+      <Notes/>
+      <Id>34</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>今度はヒューネガルドの騎士団か。
+ルーク……無事でいてくれ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうですね。
+今はまだ彼の無事を祈るべきなのかもしれない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>またお前か！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なぜなら
+彼を殺すのはあなたの役目だから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私は、ルークに代わり
+あなたにエターナルソードを
+預けてもいいと考えています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>以前も話したとおり、
+今のこの剣の力は
+穢れた命の抹消と新たなる命の精製</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あなたの手でルークを消し去りなさい。
+そして穢れた命の代わりに
+愛すべき家族を蘇らせるのです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なっ……そんな事出来るか！！
+俺はエターナル-ソードなんていらない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なぜ出来ないのですか？
+ルークはそもそも、あなたにとって仇の息子</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードを使えば
+仇討ちと同時に蘇らせる事が出来るのですよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あなたをかばって殺された最愛の姉上を……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>しかし、そんな事は……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>迷う理由はないはずです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それでも……それでも俺は……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG02a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

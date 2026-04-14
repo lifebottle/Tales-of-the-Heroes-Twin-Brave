@@ -1,0 +1,143 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リッド</JapaneseText>
+      <EnglishText>Reid</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ファラ</JapaneseText>
+      <EnglishText>Farah</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>離せよ、ファラ。
+オレは村に戻るんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だ〜め。
+ちゃんと新しい仕事を見つけるまで
+帰らせてあげないんだから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレは今の生活で十分なんだ。
+新しい仕事なんて必要ねぇよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わたしね、リッドには
+もっとふさわしい仕事があると思うの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレは思わないぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんな事ないって。
+たとえばほら、リッドって
+剣の腕だけはたつじゃない？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だから騎士なんて適職じゃないかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ということで
+今から現職の騎士に決闘を申し込もう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>はぁ！？　なんでそうなるんだよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>現職の騎士に勝てれば
+リッドも自分の才能を認めるしかないでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>大丈夫！　イケる、イケる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG05a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

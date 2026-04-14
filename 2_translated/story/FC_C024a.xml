@@ -1,0 +1,66 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スタン</JapaneseText>
+      <EnglishText>Stahn</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リオン</JapaneseText>
+      <EnglishText>Leon</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>一日１０個しか焼かないパンかぁ〜。
+この時間じゃもう
+売り切れてるんじゃないかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>行くぞ、スタン。
+無駄口を叩いている暇はない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>たとえ限定１個だろうと
+僕は必ず手に入れてみせる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG02b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

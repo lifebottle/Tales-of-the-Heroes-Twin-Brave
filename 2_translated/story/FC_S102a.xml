@@ -1,0 +1,150 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スパーダ</JapaneseText>
+      <EnglishText>Spada</EnglishText>
+      <Notes/>
+      <Id>21</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ミラ</JapaneseText>
+      <EnglishText>Milla</EnglishText>
+      <Notes/>
+      <Id>31</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルカ</JapaneseText>
+      <EnglishText>Ruca</EnglishText>
+      <Notes/>
+      <Id>20</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ジュード</JapaneseText>
+      <EnglishText>Jude</EnglishText>
+      <Notes/>
+      <Id>30</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あぁ！？
+どういう意味だよ、ソリャ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>言葉の通りの意味だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹には私達が向かう。
+お前達は引き返せ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え、で、でも……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ミラ、もうちょっと言い方が……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>気に入らねェなぁ。
+まるでオレ達じゃ
+世界樹に辿り着けねェみたいに聞こえんぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ、そう言ったつもりだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>上等だ！
+だったらそれが思い上がりだって事
+お前に教えてやるよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私達と戦うつもりか？
+いいだろう。
+その代わり、負けたら諦めるんだぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>やってやろうじゃねぇか！
+んな事にはなんねぇけどな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG02a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

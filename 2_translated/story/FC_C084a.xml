@@ -1,0 +1,177 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ロイド</JapaneseText>
+      <EnglishText>Lloyd</EnglishText>
+      <Notes/>
+      <Id>10</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シング</JapaneseText>
+      <EnglishText>Shing</EnglishText>
+      <Notes/>
+      <Id>26</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルーク</JapaneseText>
+      <EnglishText>Luke</EnglishText>
+      <Notes/>
+      <Id>16</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ガイ</JapaneseText>
+      <EnglishText>Guy</EnglishText>
+      <Notes/>
+      <Id>17</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>くそっ。
+もう体力が……ない……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>けどオレ達
+アイテムもお金もすっからかんだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>これじゃアップルグミも買えない……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あー、うっめぇ！
+やっぱおやつはミラクルグミに限るよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ミ、ミラクルグミだって！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんだ、お前ら？
+腹減ってんのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>うん。
+でももうアップルグミも切らしちゃってて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なにくだらねぇ事言ってんだよ。
+アップルグミがねぇなら
+ミラクルグミでも食えばいいじゃねぇか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>な、なんだと！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アップルグミも買えないのに
+ミラクルグミなんか買えるわけないだろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんて酷い事言う奴だ！
+許せない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あ？　なんで怒ってんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>今のは……怒るよなぁ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG03b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

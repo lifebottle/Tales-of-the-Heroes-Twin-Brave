@@ -1,0 +1,66 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>カイウス</JapaneseText>
+      <EnglishText>Caius</EnglishText>
+      <Notes/>
+      <Id>18</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルビア</JapaneseText>
+      <EnglishText>Rubia</EnglishText>
+      <Notes/>
+      <Id>19</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹か。
+ここにあいつがいるんだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>早く行きましょう、カイウス！
+エターナルソードをあんな奴に
+使わせたら、大変な事になるわ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうだな。
+取り戻すぞ、エターナルソードを！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG13b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,120 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リオン</JapaneseText>
+      <EnglishText>Leon</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ユーリ</JapaneseText>
+      <EnglishText>Yuri</EnglishText>
+      <Notes/>
+      <Id>24</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スタン</JapaneseText>
+      <EnglishText>Stahn</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ユーリ・ローウェル！
+貴様には殺人の容疑がかかっている。
+おとなしく僕達と共に来てもらおうか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>こいつはヒューネガルドの騎士だな。
+あっちの国にまで手配書が出回ってんのか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お偉いさん
+よっぽどオレの事が憎いらしいな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なにを言ってるんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>こっちの話だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>悪いが、捕まってやる気はないんでね。
+突破させてもらうぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>一人で僕達に挑もうというのか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いいだろう！　受けて立つ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG02a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,176 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リアラ</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Notes/>
+      <Id>9</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エルレイン</JapaneseText>
+      <EnglishText>Elraine</EnglishText>
+      <Notes/>
+      <Id>34</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>はあ、はあ、はあ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そこまでだ。
+私から逃げ切れるとでも思ったのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お前は所詮私の作り出した“人形”
+素直に私の指示に従い
+エターナルソードを振るえばよい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>確かに……わたしは
+あなたによって生み出された存在……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>でもわたしは人形じゃない！
+自分で道を選ぶ意志があり
+怒りを感じる心もある！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だからわたしはあなたに従わないわ。
+自分勝手な世界を作る為に
+エターナルソードを使うなんて、間違ってる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そう、それは残念なことだ。
+リアラ。
+私の世界にお前はいらない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わたしは、やられるわけにはいかない。
+わたしが倒れれば、あなたは次の
+使用者を求めるだけだから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ではどうする？
+お前が私に勝てるとでも？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わたしでは、あなたには勝てない……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だけどわたしの身体には
+あなたから受け継いだ奇跡の力が残っている。
+この力で……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わたしは英雄を召喚します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なに……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お願い……応えて……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG03a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,93 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルビア</JapaneseText>
+      <EnglishText>Rubia</EnglishText>
+      <Notes/>
+      <Id>19</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>カイウス</JapaneseText>
+      <EnglishText>Caius</EnglishText>
+      <Notes/>
+      <Id>18</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>もう！
+カイウスがちゃんとしないから
+みんなに勘違いされるんじゃない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お、オレのせいなのか！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうよ！
+ぜーーんぶ、カイウスが悪いの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ひでぇな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>諦めなさいよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あたし達、これからもずっと
+このままなんだから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG08a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

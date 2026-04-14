@@ -1,0 +1,257 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルカ</JapaneseText>
+      <EnglishText>Ruca</EnglishText>
+      <Notes/>
+      <Id>20</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スパーダ</JapaneseText>
+      <EnglishText>Spada</EnglishText>
+      <Notes/>
+      <Id>21</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ゼロス</JapaneseText>
+      <EnglishText>Zelos</EnglishText>
+      <Notes/>
+      <Id>11</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シュヴァルツ</JapaneseText>
+      <EnglishText>Schwartz</EnglishText>
+      <Notes/>
+      <Id>36</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんな……世界樹が……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>枯れてやがる……
+なんだよ、なんでこんな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺達、人間のせいだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>人間のせい！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>人間は世界樹に頼りすぎたのさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界を守護する世界樹様。
+みんなの幸せを守ってくれる世界樹様</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうやって祭り上げて、
+みんなして世界樹に自分の願いを託す。
+世界樹様、どうか〜ってな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>けどな、願いや祈りっていうのは
+べつの言い方をすれば
+身勝手な欲望にすぎないわけよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹は願いや祈りっていう形で
+何百年もずっと人間の身勝手な
+欲望を浴びせられてきた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>自分に置き換えてみなよ。
+そんなの、おかしくなって当然だと思わない？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それは……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だから世界樹は力を失っちまった。
+今じゃ、声も聞こえねぇ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>もしかして
+あなたが世界樹を破壊しようとしたのは
+見ていられなかったから？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……さぁね。　俺さまがそんなお人好しに見える？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>でもマジどうすんだよ。
+これじゃ疫病治すどころじゃねェぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんだ！？
+世界樹から声が聞こえる？
+いや、ちがう。　これは……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え、なに！？
+世界樹から黒い光が……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>んだよ、これ？
+光が……人の形になってくだと？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>こいつは……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG13b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

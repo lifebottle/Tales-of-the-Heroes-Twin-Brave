@@ -1,0 +1,133 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ヴェイグ</JapaneseText>
+      <EnglishText>Veigue</EnglishText>
+      <Notes/>
+      <Id>12</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>フレン</JapaneseText>
+      <EnglishText>Flynn</EnglishText>
+      <Notes/>
+      <Id>25</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ユーリ</JapaneseText>
+      <EnglishText>Yuri</EnglishText>
+      <Notes/>
+      <Id>24</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>農作物が育たなくなっていたオレの故郷は
+ある人の援助によって
+なんとか生き長らえてきた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>みんなが生きていけるだけの
+資材を送ってくれたその人は村の出身で
+今は別の村の役人を務めていた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まさかそれは……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレ達の村の恩人を
+お前が殺したんだ……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あの人はずっとオレ達を支えてくれた。
+それだけじゃない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレの……オレのせいで
+氷に包まれてしまった村のみんなを
+救い出す方法も、考えてくれると言った</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんな人を、お前は……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレはお前を許さない。
+許す事は出来ない……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG04a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,175 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>コハク</JapaneseText>
+      <EnglishText>Kohaku</EnglishText>
+      <Notes/>
+      <Id>27</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シング</JapaneseText>
+      <EnglishText>Shing</EnglishText>
+      <Notes/>
+      <Id>26</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リッド</JapaneseText>
+      <EnglishText>Reid</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ファラ</JapaneseText>
+      <EnglishText>Farah</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あなた達のおかげであいつらも撤退して
+村のみんなが助かったよ。
+どうもありがとう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>27</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>人質さえいなきゃこっちのものだからね。
+あとで乗り込んでぶっ潰してやる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ほどほどにしとけよ。
+そういう奴はちょっと痛い目見れば
+もう手を出して来ねぇからさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうだね。
+正拳突き一発くらいで勘弁してあげなよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ねぇ、ファラ。
+見ず知らずのわたし達や村の為に
+どうして戦ってくれたの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>27</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>癖っていうか性分ていうか……
+昔から、困ってる人見ると
+放っておけないんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>誰かを助けられる事や
+誰かの力になれる事が
+わたしにとっては一番嬉しいの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>自分の事よりも
+他人の力になる方が嬉しいって事？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>27</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>すっげー！
+それってすごい事だよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんなあ。すごくなんてないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あーぜんぜんすごくねぇ。
+人助けの為に無茶しまくるのは勝手だけどよ
+尻ぬぐいさせられる方は大変なんだぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リッド！　余計な事言わないでよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG03a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

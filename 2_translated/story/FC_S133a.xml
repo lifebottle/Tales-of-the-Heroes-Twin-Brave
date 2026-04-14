@@ -1,0 +1,92 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シング</JapaneseText>
+      <EnglishText>Shing</EnglishText>
+      <Notes/>
+      <Id>26</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エルレイン</JapaneseText>
+      <EnglishText>Elraine</EnglishText>
+      <Notes/>
+      <Id>34</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードを使えば、
+コハクの心を、戻してくれるんだな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私には剣の力を引き出す事は出来ません。
+剣を使うには、あなたの協力が不可欠……。
+これは取引です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わかった、使うよ。
+でも、最後に頼みがあるんだ。
+コハクと、話をさせてくれ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いいでしょう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG04a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>cutin01.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>evMovie13</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

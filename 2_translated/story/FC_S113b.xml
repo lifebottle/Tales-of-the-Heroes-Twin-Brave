@@ -1,0 +1,335 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マルタ</JapaneseText>
+      <EnglishText>Marta</EnglishText>
+      <Notes/>
+      <Id>23</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミル</JapaneseText>
+      <EnglishText>Emil</EnglishText>
+      <Notes/>
+      <Id>22</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミルのおかげで突破出来たね。
+ありがとう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>やっぱりエミルは
+優しくて強い私の王子様だね♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>もうやめてよ、それ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミル？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マルタは現実を見てないよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>さっきの人たちが言ってたの
+本当のことなんでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ラタトスクは
+世界を救う力なんかじゃないんでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マルタだって本当はもう気付いてるんでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>本当は気付いてるのに
+自分の思い込みを信じようとして……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>僕のことだってそうだよ。
+自分の中で勝手に理想の王子様にして
+それを僕に押しつけてるだけじゃない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マルタは本当の僕のことを
+見ようともしてくれないじゃない！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あっ、ご、ごめん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ううん。
+エミルの言う通りだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私、なんとなく気付いてたんだ。
+パパのことも
+ラタトスクのことも……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>けどパパが
+悪い人だなんて思いたくなかったから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>パパは世界を救うために
+命をかけてラタトスクを見つけだしたんだって
+自分で思い込もうとした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミルのことも一緒。
+勝手に王子様だって思い込もうとしてた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>目の前の本当のキミのこと、見てなかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……ごめんね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>もう……いいよ。　謝らないで</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>許してくれるの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>思い込みだったとしても
+僕はマルタと一緒にいられて楽しかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それに、マルタのおかげで
+僕が少しだけ変われたのは
+ホントのことだから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ありがとう……エミル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私、これからはちゃんと
+キミのこと見るから……だから……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>これからも……一緒にいてくれる？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……うん！
+もちろんだよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>よかった！
+ありがとう、エミル！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>これからもよろしくね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG05a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

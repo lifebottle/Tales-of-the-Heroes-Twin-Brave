@@ -1,0 +1,75 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ファラ</JapaneseText>
+      <EnglishText>Farah</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リッド</JapaneseText>
+      <EnglishText>Reid</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>うーん。
+セネルって漁師じゃなかったんだね。
+イメージと違うなぁ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>たしかに、パン焼いてるイメージはないな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ねぇリッド！
+パンの焼き方教わって
+パン職人になるっていうのはどう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お前もうやけくそだろ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG14b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

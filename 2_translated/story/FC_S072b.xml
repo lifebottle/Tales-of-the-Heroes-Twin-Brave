@@ -1,0 +1,215 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>クロエ</JapaneseText>
+      <EnglishText>Chloe</EnglishText>
+      <Notes/>
+      <Id>15</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>セネル</JapaneseText>
+      <EnglishText>Senel</EnglishText>
+      <Notes/>
+      <Id>14</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……すまない、クーリッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードは奪われてしまった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……気にするな。
+奪われたものは、また取り返せばいい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だがあいつ、いったい何者なんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>友の為にエターナルソードを
+使うと言っていた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>その為に世界を消滅させるとも……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界を消滅！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>くそっ！！
+なんだっていうんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わからない。
+だが奴の剣に迷いはなかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だから私は負けたんだ……！
+さっきの男の言葉に
+僅かでも心を揺り動かされたから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>過去を変えるなんて間違ってるって
+言葉か？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……そうだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>迷いなき奴の剣と、迷いを抱えた私の剣。
+勝敗は、剣を交える前から決まっていた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私は奴の決意の前に敗れたんだ。
+友の為という強い決意に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そのことが私は悔しい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>父様と母様を救いたいという私の想いが
+奴の決意に後れを取ったことが……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>たまらなく悔しいんだ……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>クロエ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>evMovie07</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG15a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

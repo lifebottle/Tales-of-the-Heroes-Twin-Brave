@@ -1,0 +1,332 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ミラ</JapaneseText>
+      <EnglishText>Milla</EnglishText>
+      <Notes/>
+      <Id>31</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ジュード</JapaneseText>
+      <EnglishText>Jude</EnglishText>
+      <Notes/>
+      <Id>30</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マルタ</JapaneseText>
+      <EnglishText>Marta</EnglishText>
+      <Notes/>
+      <Id>23</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミル</JapaneseText>
+      <EnglishText>Emil</EnglishText>
+      <Notes/>
+      <Id>22</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私と共に来たいと言うのか、君は？
+なぜだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なぜって……。
+ミラはこの世界を救う為に
+世界樹のところに行くんでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>僕は人の命を助ける為に医者を目指してるのに
+今マナの枯渇で苦しんでる人達に
+なにもしてあげられなかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だから僕、なにかしたいんだ！
+ミラと一緒ならそれが出来る。
+そうなんでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……なるほど。
+手段はわからずとも、動く意志だけはある。
+そういうことか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ふふ、おもしろいな、君は</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いいだろう。
+確かに私と共に来れば
+君の望みは叶うだろうからな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ありがとう！
+よろしくね、ミラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………ん？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>どうかしたの、ミラ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……危険？　ラタトスク？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ほらほら、エミル。早く行こうよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ま、待ってよ、マルタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ラタトスクを世界樹に近付ければ
+マナが枯渇したこの世界を助けられる。
+それが出来るのは、私達だけなんだから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>この人達も、世界樹を？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>駄目だ。
+お前達を世界樹に近付かせるわけにはいかない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>えっ、あなた誰？
+世界樹に近付かせないって、どういう事？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ラタトスクは危険だ。
+精霊達がそう言っている</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>精霊……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なに言ってるのよ？
+ラタトスクは世界を救う為に必要な力なのよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>行こう、エミル。
+こんな人達の言う事聞く必要ないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうか。
+素直に聞いてはくれないか。　ならば……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え？　ちょっと、ミラ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>力ずくっていう事？
+そっちがその気なら、しょうがないね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>やろう、エミル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え？　えぇ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ねぇ、ちょっと！　ミラ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG01a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG02a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

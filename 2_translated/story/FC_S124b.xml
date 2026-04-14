@@ -1,0 +1,182 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>フレン</JapaneseText>
+      <EnglishText>Flynn</EnglishText>
+      <Notes/>
+      <Id>25</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ユーリ</JapaneseText>
+      <EnglishText>Yuri</EnglishText>
+      <Notes/>
+      <Id>24</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>氷に包まれた村……か。
+ユーリ、もしかしてあの男が
+エターナルソードを求めていた理由は……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ、そうなのかもしれないな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ショックじゃないのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なにも驚きゃしねぇよ。
+誰だって、自分自身の信じる
+正義に従って生きてるもんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あいつはシング達の村で
+大勢の人間を犠牲にした悪党だが
+悪党には悪党なりの正義があった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんだけの事だろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それをわかったうえでまだ
+君は自分の手を汚した事に
+後悔はないと言うのかい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ねぇよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>罪を背負う覚悟ってのは、そういう事だろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だがそうだな。
+エターナルソードを壊し終わったあとなら……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>この命、ヴェイグにくれてやるのも
+悪くねぇのかもな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それが犯した罪に対する
+正当な罰ってもんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ダメだ。　それは認められない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>何度も言っているはずだ。
+人が人を裁く事など、あってはならないと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ホント……お前は堅物だよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG04a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,84 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ロイド</JapaneseText>
+      <EnglishText>Lloyd</EnglishText>
+      <Notes/>
+      <Id>10</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ゼロス</JapaneseText>
+      <EnglishText>Zelos</EnglishText>
+      <Notes/>
+      <Id>11</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんかもう俺
+ちょっと楽しくなってきちゃったよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺さまも、ロイドくんと一緒だから
+けっこう楽しんでるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まぁでも、そろそろキメたいよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>目指せ！　主人公！
+目指せモテモテな俺さま！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>さて、初心を思い出したとこで
+気合い入れていくよー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG18a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

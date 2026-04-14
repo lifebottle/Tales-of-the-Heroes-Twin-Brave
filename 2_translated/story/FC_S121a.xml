@@ -1,0 +1,176 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>フレン</JapaneseText>
+      <EnglishText>Flynn</EnglishText>
+      <Notes/>
+      <Id>25</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ユーリ</JapaneseText>
+      <EnglishText>Yuri</EnglishText>
+      <Notes/>
+      <Id>24</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>君が協力してくれるなんて珍しいね。
+騎士団に戻る気にでもなったのかい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>冗談だろ？
+オレはお前とは違うんでね。
+そんな気はさらさらねぇよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そう言うと思ったよ。
+君は相変わらずだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>でもそれなら
+君が協力してくれる理由はやはり……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ただ気に食わねぇだけだ。
+権力振りかざして人を苦しめる
+役人って奴らがよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>本当に、君らしいよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>しかしその役人の男
+いったいなにが目的なんだろう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>村の住人達から理不尽な搾取を
+繰り返している段階で許せない事だけど
+最近は私設兵団を組織し始めているらしい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そいつの狙いがなんだろうと関係ねぇよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>苦しめられてる奴らがいて
+苦しめてる悪党がいる。
+大事なのはそんだけだろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>感情だけの話ならそうなのだけど……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>とか話してる間に、見えてきたぜ。
+ご丁寧にお出迎えまで用意してくれたみてぇだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>警備兵か。
+やむを得ない。
+突破するよ、ユーリ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>言われるまでもねぇよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG03a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

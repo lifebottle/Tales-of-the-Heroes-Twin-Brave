@@ -1,0 +1,178 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>コハク</JapaneseText>
+      <EnglishText>Kohaku</EnglishText>
+      <Notes/>
+      <Id>27</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ロイド</JapaneseText>
+      <EnglishText>Lloyd</EnglishText>
+      <Notes/>
+      <Id>10</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ゼロス</JapaneseText>
+      <EnglishText>Zelos</EnglishText>
+      <Notes/>
+      <Id>11</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シング</JapaneseText>
+      <EnglishText>Shing</EnglishText>
+      <Notes/>
+      <Id>26</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あなたがゼロスね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>27</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わたしの大事な友達が
+あなたにフラれて落ち込んでるの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>27</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>せめて理由を教えてあげてくれないかな？
+そうすればスッキリするって
+本人も言ってるから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>27</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>おいおい、ゼロス。
+ホントなのかよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>さぁ〜俺さまよくわかんな〜い</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺さまちょーモテモテだし。ねぇお嬢さん、そ
+のお友達のハニーの事、もっと詳しく教えてく
+んない？ほら、そこで軽くお茶でもしながらさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なっ、忘れたっていうの！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>27</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お嬢さんと楽しくおしゃべりしたら思い出すかもよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……許せない！
+なんて最低な男なの！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>27</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうだね、最低だ！
+女の子を泣かす男はこらしめろって
+じいちゃんも言ってた！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あらあら、そっちの野郎がやる気かよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そういうわけで護衛のロイドくーん。
+ちゃっちゃっと片付けちゃってよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>えぇ！？　俺が！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG01a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

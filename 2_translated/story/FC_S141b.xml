@@ -1,0 +1,111 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アスベル</JapaneseText>
+      <EnglishText>Asbel</EnglishText>
+      <Notes/>
+      <Id>28</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シェリア</JapaneseText>
+      <EnglishText>Cheria</EnglishText>
+      <Notes/>
+      <Id>29</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シェリア！　怪我はないか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>大丈夫よ。
+あのくらいなんでもないわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……そうか。　よかった。
+だがあまり無茶はするなよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>心配しすぎよ、アスベル。
+あなたこそ無茶しないで</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺は無茶などしていない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それに、誰かを守れるなら
+この身体などどうなっても構わない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>もう誰も失いたくないんだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アスベル……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG01a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シェリア</JapaneseText>
+      <EnglishText>Cheria</EnglishText>
+      <Notes/>
+      <Id>29</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アスベル……無事でいて。
+あなたにもしもの事があったら、私は……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いいえ、そんな事は起こさない。
+アスベルの事は、私が守ってみせる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG14a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,65 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ゼロス</JapaneseText>
+      <EnglishText>Zelos</EnglishText>
+      <Notes/>
+      <Id>11</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ロイド</JapaneseText>
+      <EnglishText>Lloyd</EnglishText>
+      <Notes/>
+      <Id>10</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>な〜んかテンペストだったら
+いける気がすんのよね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうなのか？
+カイウスもけっこう手強そうだけどな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>大丈夫、大丈夫。
+俺さまの手にかかったら楽勝だってば</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG18a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

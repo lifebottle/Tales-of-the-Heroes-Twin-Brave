@@ -1,0 +1,65 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リッド</JapaneseText>
+      <EnglishText>Reid</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ファラ</JapaneseText>
+      <EnglishText>Farah</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードは使わせねぇ。
+デュークを止めるぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>やろう、リッド！
+デュークにわからせてあげなきゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>この世界は、滅ぼさなきゃいけない程
+ひどいものじゃないって！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG14b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

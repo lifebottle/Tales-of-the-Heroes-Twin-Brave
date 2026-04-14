@@ -1,0 +1,200 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミル</JapaneseText>
+      <EnglishText>Emil</EnglishText>
+      <Notes/>
+      <Id>22</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マルタ</JapaneseText>
+      <EnglishText>Marta</EnglishText>
+      <Notes/>
+      <Id>23</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ミラ</JapaneseText>
+      <EnglishText>Milla</EnglishText>
+      <Notes/>
+      <Id>31</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ジュード</JapaneseText>
+      <EnglishText>Jude</EnglishText>
+      <Notes/>
+      <Id>30</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え……エミル？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ただいま、マルタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>おかえりなさい……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>たいした奇跡だな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ミラ！！？
+怪我はもういいの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>かなり痛む。
+だが、今の私達のような者を
+世間では邪魔者というのだろう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>たしかに。　そうだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミル！　エミル！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>い、痛いよ、マルタ。
+いい加減離してってば</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ダメ、離さない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ウザいとか言われても
+ず〜〜〜〜っと離さないから！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ははっ、たいへんそうだなぁ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>でも……僕も離さないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG08a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

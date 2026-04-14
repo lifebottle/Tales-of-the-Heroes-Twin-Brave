@@ -1,0 +1,283 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ガイ</JapaneseText>
+      <EnglishText>Guy</EnglishText>
+      <Notes/>
+      <Id>17</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルーク</JapaneseText>
+      <EnglishText>Luke</EnglishText>
+      <Notes/>
+      <Id>16</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エルレイン</JapaneseText>
+      <EnglishText>Elraine</EnglishText>
+      <Notes/>
+      <Id>34</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……ひどいな。
+いったいどれ程の犠牲者が出たんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お、俺は……俺は……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺は悪くねぇ！
+俺は悪くねぇぞ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルーク！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だって声が言ったんだ！
+エターナルソードを使えば世界は救えるって！
+俺は言うとおりにしただけだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だから俺は……俺は悪くなんかねぇんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルーク……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>な、なんだよ、ガイ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>これ以上……失望させないでくれ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ち、ちくしょう！
+なんで俺が、なんで俺が責められるんだよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルーク！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界改変を途中で投げ出すとは……。
+愚かな人間です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>誰だ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>せっかくこの私が
+世界を改変する救世主に
+選んであげたというのに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まさか……お前なのか？
+ルークの頭の中に
+話しかけていた奴は</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私はただ
+世界を作り替えたかっただけ。
+その為にエターナルソードは生まれ変わったのです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>消滅させた命と等しい数の
+新しい命を誕生させる魔剣へと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>新しい命を誕生させるだと？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>しかし彼は失敗した。
+消えゆく声に耐えきれず
+途中で剣を手放した</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あれでは、命はただ消えただけ。
+輝かしき誕生は望めない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんだこの、怒号は！？
+まさか……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG12a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>???</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エルレイン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

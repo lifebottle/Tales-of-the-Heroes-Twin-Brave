@@ -1,0 +1,149 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アスベル</JapaneseText>
+      <EnglishText>Asbel</EnglishText>
+      <Notes/>
+      <Id>28</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シェリア</JapaneseText>
+      <EnglishText>Cheria</EnglishText>
+      <Notes/>
+      <Id>29</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>行ってしまったな、デューク……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>人間を滅ぼす事
+思い直してくれたのかしら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>きっと大丈夫さ。
+シェリアの心は通じたはずだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうだと嬉しいわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>このエターナルソードは……破壊しよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いいの？
+持ち帰るのが国からの命令でしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いいんだ。
+やはりこんな力は誰にも必要ない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>大切だと思い合える誰かがいれば
+人は生きていけるんだから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ええ、そうね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アスベル。
+これからも、私はあなたを守るから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ、頼む。
+俺も最後までシェリアを守り抜いてみせるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG07a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>cutin01.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

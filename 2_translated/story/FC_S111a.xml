@@ -1,0 +1,325 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ティトレイ</JapaneseText>
+      <EnglishText>Tytree</EnglishText>
+      <Notes/>
+      <Id>13</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マルタ</JapaneseText>
+      <EnglishText>Marta</EnglishText>
+      <Notes/>
+      <Id>23</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミル</JapaneseText>
+      <EnglishText>Emil</EnglishText>
+      <Notes/>
+      <Id>22</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>うおおおおおおお！！！！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>完全に暴走しちゃってる……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>動きを止めるしかないみたい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え、あの……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>キミ、危ないから逃げた方がいいよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>逃げた方がって……。
+キミはどうするのさ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私は彼をなんとかする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>このままじゃ
+犠牲者がいっぱいでちゃうでしょ。
+そんなの我慢できないから……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>で、でも！
+あの人を止めに行くってことは
+キミも危ない目にあうってことだよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>大丈夫。
+私は怖くないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……すごいね。
+女の子なのに、勇気があるんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんなことないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>恐れよ。　されど手を伸ばせ。
+そこに希望を掴み取らん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>パパの言葉なんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>怖いのはしょうがない。
+大事なのは、怖いっていう気持ちを受け入れて
+それでも手を伸ばす事</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>手を伸ばしさえすれば
+そこで掴めるはずなんだ。
+希望や……勇気を！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>手を伸ばしさえすれば……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>じゃあ、私は行くから。
+キミは早く逃げるんだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あっ、ま、待って……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>僕は…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>やっぱりだめだ……
+女の子をひとりで戦わせるなんて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>恐れよ。　されど手を伸ばせ。
+そこに希望を掴み取らん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>僕は！！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え、なに！？　ラタトスクコアが光を……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>な、なんなの！？　光が僕の身体の中に……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG01a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>???</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>???</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マルタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

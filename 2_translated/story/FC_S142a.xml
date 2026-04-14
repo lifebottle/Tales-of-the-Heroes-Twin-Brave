@@ -1,0 +1,115 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シェリア</JapaneseText>
+      <EnglishText>Cheria</EnglishText>
+      <Notes/>
+      <Id>29</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アスベル</JapaneseText>
+      <EnglishText>Asbel</EnglishText>
+      <Notes/>
+      <Id>28</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードを求めている人が
+私達以外にもいるなんて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードは時を越える聖剣だ。
+その力を使いたい者が多く現れても
+なんら不思議ではない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だがその強すぎる力は
+誰かが独占していいものじゃないんだ。
+きちんと国が管理しなければ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうね。
+たしかに、みんなが私欲で使おうとすれば
+大変な事になるわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ。　それを彼らにも教えなければ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ええ。　いきましょう、アスベル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シェリアは下がっていろ。
+ここは俺一人で十分だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アスベル。　またあなたは……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG04a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

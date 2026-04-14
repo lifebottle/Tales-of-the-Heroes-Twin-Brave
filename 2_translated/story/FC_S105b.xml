@@ -1,0 +1,128 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スパーダ</JapaneseText>
+      <EnglishText>Spada</EnglishText>
+      <Notes/>
+      <Id>21</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルカ</JapaneseText>
+      <EnglishText>Ruca</EnglishText>
+      <Notes/>
+      <Id>20</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>よかったな、ルカ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ありがとう、スパーダ。
+君がいてくれたおかげだよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ヘッ！
+水くせェなぁオイ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレは満足なんだ。
+お前の剣として戦えた事がな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>スパーダ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だからこれからも頼むぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ただし、情けねェ泣き言たれたら
+すぐにケツぶっ叩くけどよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>えぇぇぇぇ！！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ヒャッヒャッヒャッ！！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>evMovie10</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG13a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

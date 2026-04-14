@@ -1,0 +1,47 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ユーリ</JapaneseText>
+      <EnglishText>Yuri</EnglishText>
+      <Notes/>
+      <Id>24</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……もう嗅ぎつけられたか。
+仕事熱心な事だな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だが、今はまだ捕まってやれねぇんだ……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,63 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ティトレイ</JapaneseText>
+      <EnglishText>Tytree</EnglishText>
+      <Notes/>
+      <Id>13</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ヴェイグ</JapaneseText>
+      <EnglishText>Veigue</EnglishText>
+      <Notes/>
+      <Id>12</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あの二人組見たかよ、ヴェイグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>おまえは人の事を見すぎだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ケンカばっかりしてよ、あんなのよくねぇ。
+止めにいくぜ、ヴェイグ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG05b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

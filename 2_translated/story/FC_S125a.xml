@@ -1,0 +1,149 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>フレン</JapaneseText>
+      <EnglishText>Flynn</EnglishText>
+      <Notes/>
+      <Id>25</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エルレイン</JapaneseText>
+      <EnglishText>Elraine</EnglishText>
+      <Notes/>
+      <Id>34</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ユーリ</JapaneseText>
+      <EnglishText>Yuri</EnglishText>
+      <Notes/>
+      <Id>24</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>魔剣エターナルソード！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そう。
+生け贄に捧げた命と同数の
+新しい命を生み出す、まさに奇跡の剣</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それが今のエターナルソードなのです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>どっちみち危険だって事に変わりはねぇ。
+だったらやる事も変えるつもりはねぇよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ユーリ。
+エターナルソードの力を使えば
+あなたの罪も許されるのですよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あなたを認めない、
+あなたを罰しようとする人間をすべて
+消し去ってしまえばいいのですから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>言いたい事はそれだけか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……なんですって？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>悪いが、戯れ言に付き合う趣味はねぇんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それに気分も悪い。
+気に入らねぇんだよ、てめぇの考え方……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG06a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>cutin01.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,297 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ティトレイ</JapaneseText>
+      <EnglishText>Tytree</EnglishText>
+      <Notes/>
+      <Id>13</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ゼロス</JapaneseText>
+      <EnglishText>Zelos</EnglishText>
+      <Notes/>
+      <Id>11</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ヴェイグ</JapaneseText>
+      <EnglishText>Veigue</EnglishText>
+      <Notes/>
+      <Id>12</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……終わったな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>おーい、お前ら！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんとか終わったみたいだな。
+まさかシュヴァルツに勝つなんて
+俺さま、ちょいと見直したぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>へへん！
+おれ達が負けるかってんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうそう。
+お前の村の氷
+もう溶け始めてると思うぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>本当か！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹がそう言ってんだよ。
+助けてくれたお礼だってさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>よかったな、ヴェイグ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ。　本当に……よかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ゆっくりとだが
+これで大気中のマナも元に戻るだろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まあ、もっとも
+人間が世界樹にすがり続ければ
+またシュヴァルツが生まれちまうんだけどよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんな事にはならねぇよ！
+人間は変われるんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>オレ達で呼びかけていこう。
+少しずつでもな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうか……ありがとな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹も、そう言ってるぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いやーヴェイグの村も助かったし、
+本当によかったぜ。
+めでたし、めでたし、って感じだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>しかも砦突破した事も
+不問にしてくれるなんて
+ゼロスもいいとこあるじゃねぇか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ティトレイ、お前はこれからどうするんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>気ままに旅でも続けるさ！
+どっかでまた困ってる人が
+いるかもしれないしな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……そうか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>よかったら、少し村に寄っていかないか？
+お前にもぜひ食べてほしいんだ。
+隣のおばさんの作ったピーチパイを</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>うお！　いいのかよ？
+じゃあ遠慮なくお邪魔するぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そのまま宴会しちまうのも、
+悪くないかもな！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>調子にのるな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ふっ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG08a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG02a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

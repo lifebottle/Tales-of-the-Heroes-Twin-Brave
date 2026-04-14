@@ -1,0 +1,110 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リアラ</JapaneseText>
+      <EnglishText>Reala</EnglishText>
+      <Notes/>
+      <Id>9</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>クロエ</JapaneseText>
+      <EnglishText>Chloe</EnglishText>
+      <Notes/>
+      <Id>15</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>カイル</JapaneseText>
+      <EnglishText>Kyle</EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>セネル</JapaneseText>
+      <EnglishText>Senel</EnglishText>
+      <Notes/>
+      <Id>14</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わたしには英雄が必要なんです。
+どうか力を貸してください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>騎士として、助けを求める声を
+無下にするつもりはないが
+英雄とは少し仰々しすぎるのではないか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そんなことないよ。
+だって英雄ってカッコイイじゃないか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そういう問題じゃないだろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>では、見せてもらいます。
+あなたに“青”の資格があるかどうか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え！？　戦うのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG07b.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

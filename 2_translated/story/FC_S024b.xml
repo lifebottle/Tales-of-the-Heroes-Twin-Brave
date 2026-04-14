@@ -1,0 +1,19 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>evMovie02</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

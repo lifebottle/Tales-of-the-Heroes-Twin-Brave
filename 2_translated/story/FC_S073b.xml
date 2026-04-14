@@ -1,0 +1,443 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>クロエ</JapaneseText>
+      <EnglishText>Chloe</EnglishText>
+      <Notes/>
+      <Id>15</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>リオン</JapaneseText>
+      <EnglishText>Leon</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>セネル</JapaneseText>
+      <EnglishText>Senel</EnglishText>
+      <Notes/>
+      <Id>14</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>頼む。
+デュークのことを教えてくれ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>数百年前、
+まだマナの存在しなかったこの世界は
+滅亡の危機に瀕していた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だがそのことを憂いた
+２人の精霊がいたという</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それが命を司る精霊と
+時を司る精霊だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界を救うためには
+マナを大気中に
+充満させるしかないと考えた命の精霊は……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>自らがマナを生み出す存在……
+世界樹になることを決意した</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なんだって！？
+じゃあ世界樹は、精霊が姿を変えた
+存在だっていうのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうだ。
+しかし命の精霊の提案には問題点があった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界樹がマナを生み出せるまでに成長するには
+１００年の月日が必要だったんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>滅亡を待つだけの世界には
+そんな猶予は存在しない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そこで今度は時を司る精霊が
+時空を越える剣
+エターナルソードを生み出した</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>１００年前に時間をさかのぼり
+その時代に命の精霊が世界樹となることで
+滅亡の危機に瀕した“今”を救う</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それが２人の精霊の意志だった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>なるほど。
+マナを生み出せるようになるまで
+１００年必要だから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>１００年前に戻って
+そこから成長を始めたというわけか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だが２人の協力によって為しえた
+その提案にも、まだ欠点があった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>それは、肝心のエターナルソードを
+振るう者がいないという事</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>しかし幸運にも２人には
+人間でありながら精霊と意思疎通の出来る
+友人がいた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まさか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ、それがデュークだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>デュークは時の精霊の遺した
+エターナルソードを振るい
+命の精霊と共に１００年の時を越えた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そしてその時代で
+命の精霊は世界樹となった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エターナルソードを創り出し
+すべての力を使い果たして
+時を司る精霊は消滅した</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そして命を司る精霊は
+精霊としての生を捨てて世界樹となった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>この世界は
+２人の精霊の尊い犠牲によって
+滅亡の危機から救われたんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>この世界にそんな秘密が……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>しかし、デュークが
+エターナルソードの力で
+自分の成長を止めてるとはな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>伝説にまでなった奴なのに
+まだ生きてるのには
+そんなわけがあったんだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>少し考えてみた。
+デュークがなにをしようとしているのか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>デュークは言っていた。
+世界を本来の姿に戻す。
+友の為に世界を消滅させると</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>もしや奴は過去に戻って
+友だった精霊ふたりの犠牲を
+なかったことにしたいのではないだろうか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>そうか！
+精霊が犠牲にならなければ
+そもそも世界は滅亡してた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ああ。
+つまり精霊ふたりの犠牲がなくなれば
+“今”という世界は消滅してしまうんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>デュークの奴、
+なんで今になってそんなことを！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>わからない。
+だがデュークが揺るがぬ意志を持って
+事を成そうとしているのは確かだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>迷いなき心。
+やはり奴に勝つためには……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私も迷いを捨てるしかない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG04a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

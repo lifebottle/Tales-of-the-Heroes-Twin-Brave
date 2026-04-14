@@ -1,0 +1,276 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マルタ</JapaneseText>
+      <EnglishText>Marta</EnglishText>
+      <Notes/>
+      <Id>23</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ティトレイ</JapaneseText>
+      <EnglishText>Tytree</EnglishText>
+      <Notes/>
+      <Id>13</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミル</JapaneseText>
+      <EnglishText>Emil</EnglishText>
+      <Notes/>
+      <Id>22</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>大丈夫ですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あ、ああ、心配ねぇ。
+それよりも、迷惑かけちまったみたいだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いいんです。
+気にしないでください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あれ？　こっちも元に戻ってる……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>こうしちゃいらんねぇ。
+迷惑かけた分、怪我人を助けないと！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>じゃあ、ふたりとも。
+ホントにありがとな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>元はあんなにいい人だったんだ。
+助けられてよかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ねぇ、キミ。
+名前、教えてくれるかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え？
+あっ、ぼ、僕はエミル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>私はマルタ。
+エミル、助けてくれてありがとう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>い、いいよ、お礼なんて。
+僕夢中で、なにがあったか
+よく覚えてないし……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>たぶん、ラタトスクコアの力が
+キミを目覚めさせたんだと思う</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ラタトスクの騎士として</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ラタトスクの……騎士……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミル、お願い！
+私を世界樹まで連れていって！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>え？　世界樹？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>世界を救うために
+ラタトスクコアを世界樹のところに
+届けなくちゃいけないの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>だからお願い。
+私と一緒に来て！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>……うん、わかったよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>僕、マルタのおかげで
+少しだけ変われたような気がしたから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>今度は僕がマルタの力になりたいんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>あは！！
+ありがとう、エミル！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エミルは私の王子様だね♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>BG01a.ppt</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>
