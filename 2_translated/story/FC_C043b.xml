@@ -49,8 +49,7 @@
       <PointerOffset/>
       <JapaneseText>……わかった。
 努力はしてみる</JapaneseText>
-      <EnglishText>...I understand.
-I'll do my best.</EnglishText>
+      <EnglishText>...I understand. I'll do my best.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>2</Id>
@@ -83,7 +82,7 @@ be counted among our allies here, too.</EnglishText>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺はべつに……</JapaneseText>
-      <EnglishText>I'm not really...</EnglishText>
+      <EnglishText>I don't really...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>5</Id>
@@ -114,9 +113,10 @@ Senel can't join.</EnglishText>
       <JapaneseText>太古より伝わるこの本によると
 “白”は途中加入らしいの。
 だから初期メンバーにはいらないわ</JapaneseText>
-      <EnglishText>Based on this ancient book that's been handed down,
-"White" seems to have joined the team later on.
-That means he can't join as an initial member.</EnglishText>
+      <EnglishText>Based on this ancient book that's been
+handed down, "White" seems to have
+joined the team later on. That means he
+can't join as an initial member.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>8</Id>

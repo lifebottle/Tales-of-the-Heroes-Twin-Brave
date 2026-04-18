@@ -51,8 +51,8 @@ I'm totally recovered thanks to that Miracle Gummi!</EnglishText>
       <PointerOffset/>
       <JapaneseText>ありがとうな、ルーク。
 お前、案外いいとこあるんだな</JapaneseText>
-      <EnglishText>Thanks a bunch, Luke.
-There're actually some surprsingly nice things about you.</EnglishText>
+      <EnglishText>Thanks a bunch, Luke. There're actually
+some surprsingly nice things about you.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
@@ -63,8 +63,7 @@ There're actually some surprsingly nice things about you.</EnglishText>
       <JapaneseText>そうだろう？
 ルークは悪いとこばかりじゃないんだ。
 わかってもらえて嬉しいよ</JapaneseText>
-      <EnglishText>Right? Luke isn't just all bad.
-I'm glad you get it.</EnglishText>
+      <EnglishText>Right? Luke isn't just all bad. I'm glad you get it.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>3</Id>
@@ -75,7 +74,8 @@ I'm glad you get it.</EnglishText>
       <JapaneseText>べつに。
 うちの屋敷で大量に腐らせてるしな
 ミラクルグミなんて</JapaneseText>
-      <EnglishText>It wasn't a big deal. I've got loads of Miracle Gummis
+      <EnglishText>It wasn't a big deal.
+I've got loads of Miracle Gummis
 just sitting around rotting in my mansion, anyway.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
@@ -96,7 +96,8 @@ are more of a rarity to me.</EnglishText>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっぱり嫌な奴かも……</JapaneseText>
-      <EnglishText>Actually, he really might just be an unlikeable guy...</EnglishText>
+      <EnglishText>Actually, he really might just
+be an unlikeable guy...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>6</Id>

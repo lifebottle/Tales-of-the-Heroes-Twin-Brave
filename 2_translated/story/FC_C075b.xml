@@ -78,8 +78,9 @@ There's something I want to talk to you about.</EnglishText>
       <PointerOffset/>
       <JapaneseText>そんなに朝起きられないなら
 私が毎日起こしにいってもいいのだぞ？</JapaneseText>
-      <EnglishText>If it's that hard for you to get up in the morning,
-would it be alright if I came to wake you up everyday?</EnglishText>
+      <EnglishText>If it's that hard for you to get up
+in the morning, would it be alright
+if I came to wake you up everyday?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>6</Id>
@@ -107,7 +108,7 @@ would it be alright if I came to wake you up everyday?</EnglishText>
       <PointerOffset/>
       <JapaneseText>……悪い、寝たりないみたいだ。　帰って寝る</JapaneseText>
       <EnglishText>...Sorry. Seems like I didn't get enough sleep.
-I'm gonna go on home.</EnglishText>
+I'm gonna head on home.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>9</Id>

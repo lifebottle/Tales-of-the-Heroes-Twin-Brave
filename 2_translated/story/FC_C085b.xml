@@ -54,11 +54,12 @@ What's with this whole prayers and wishes thing?</EnglishText>
       <JapaneseText>シュヴァルツか。
 ルークとの相性は最悪だったみたいだな</JapaneseText>
       <EnglishText>Schwartz, huh.
-Seems like Luke's behavior was the worst thing for her.</EnglishText>
+Seems like Luke's behavior
+was the worst thing for her.</EnglishText>
       <Notes>Not sure about this one. 相性 means affniity/compatibility/chemistry. 最悪 means "the worst"/awful/terrible/etc. More literally, Luke's chemistry with Schwartz is bad/the worst possible. Given Guy's following dialogue, he's referring to Luke's selfishness with this, and viewing it as a good thing that they had bad chemistry.</Notes>
       <SpeakerId>17</SpeakerId>
       <Id>4</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -73,7 +74,8 @@ Seems like Luke's behavior was the worst thing for her.</EnglishText>
       <PointerOffset/>
       <JapaneseText>ルークのわがままも
 案外バカに出来ないのかもな</JapaneseText>
-      <EnglishText>Your selfishness surprisingly might not be so terrible.</EnglishText>
+      <EnglishText>Your selfishness surprisingly
+might not be so terrible.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>6</Id>

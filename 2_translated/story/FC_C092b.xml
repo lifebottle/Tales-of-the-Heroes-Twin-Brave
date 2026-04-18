@@ -25,39 +25,41 @@
       <JapaneseText>まったくもう！
 カイウスがグズグズしてるから
 変なケンカに巻き込まれちゃったじゃない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Goodness gracious! If you weren't
+lollygagging about like this, we
+wouldn't have gotten caught up in that fight.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>巻き込まれた？
 ケンカ吹っかけたのはルビアじゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Caught up in? You're the one who started that fight.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それもカイウスのせいでしょ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's your fault, too!!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もう意味わかんねえ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I really do not get this...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -68,7 +70,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

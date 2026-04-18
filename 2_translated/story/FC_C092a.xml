@@ -40,82 +40,88 @@
       <PointerOffset/>
       <JapaneseText>なによ、カイウス！
 まともにキャンプの用意も出来ないの！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the heck, Caius!
+You can't even reasonably prepare our camp?!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うるさいな。
 そんなに言うんだったら
 少しはルビアも手伝えよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shut up already. If you're gonna
+complain so much, start helping out.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだ？
 キャンプの準備、手間取ってるのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's going on? Are you guys
+having trouble preparing your camp?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ったく、これだから
 山に慣れてねぇ奴はよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geez, this is what happens when people
+come up into the mountains and aren't used to it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>手伝うから、貸してみろよ。
 オレ達山に入ること多いから
 こういうのには慣れてんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can help, Let us see it. We go into the
+mountains pretty often, so we're used to this stuff.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うるさいわね！
 カイウスだって本気出せば
 このくらい簡単に出来るわよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shut up! If Caius just took this seriously,
+it'd be a breeze to get done!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それを出来ない子みたいに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's like an incapable child...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もう怒った！　勝負よ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now I'm angry! Fight me!!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -126,7 +132,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

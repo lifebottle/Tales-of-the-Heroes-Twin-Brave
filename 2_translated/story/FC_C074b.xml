@@ -41,8 +41,8 @@
       <JapaneseText>うまい！
 こんなにうまいカレーパンは
 生まれて初めて食べた</JapaneseText>
-      <EnglishText>Delicious!
-This is the first time I've eaten such incredible curry bread!</EnglishText>
+      <EnglishText>Delicious! This is the first time I've
+eaten such incredible curry bread!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
@@ -51,7 +51,8 @@ This is the first time I've eaten such incredible curry bread!</EnglishText>
     <Entry>
       <PointerOffset/>
       <JapaneseText>この焼き鳥丼パン……すごくおいしい</JapaneseText>
-      <EnglishText>This grilled chicken rice bowl bread... It's phenonmal.</EnglishText>
+      <EnglishText>This grilled chicken rice bowl bread...
+It's phenonmal.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>

@@ -26,7 +26,7 @@
 マルタのモデル姿拝めたかもしれねぇのに</JapaneseText>
       <EnglishText>If Emil had just stopped "looking at the picture",
 he might have been able to see Marta as a model.</EnglishText>
-      <Notes>絵、見る is e, mi ru which = Emiru.</Notes>
+      <Notes>絵、見る is e, mi ru which = Emiru. I'll work on this later.</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>1</Id>
       <Status>Problematic</Status>
@@ -35,7 +35,7 @@ he might have been able to see Marta as a model.</EnglishText>
       <PointerOffset/>
       <JapaneseText>マルタは……丸太で……えーと</JapaneseText>
       <EnglishText>Marta is... a log... Ummm...</EnglishText>
-      <Notes>丸太 = logs but is pronounced Maruta. Marta's katakana is Maruta.</Notes>
+      <Notes>丸太 = logs but is pronounced Maruta. Marta's katakana is Maruta. I'll work on this later.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <Status>Problematic</Status>
@@ -43,7 +43,8 @@ he might have been able to see Marta as a model.</EnglishText>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだよ、考えてる途中だったのかよ</JapaneseText>
-      <EnglishText>What the heck? You were thinking that up this whole time?</EnglishText>
+      <EnglishText>What the heck?
+You were thinking that up this whole time?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>

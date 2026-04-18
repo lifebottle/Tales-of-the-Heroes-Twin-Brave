@@ -42,7 +42,8 @@
       <PointerOffset/>
       <JapaneseText>本当にいいのか？
 お偉い騎士様が罪人の側なんかにいてもよ</JapaneseText>
-      <EnglishText>Is this really okay? A high ranking knight like you being by a criminal's side?</EnglishText>
+      <EnglishText>Is this really okay? A high ranking knight
+like you being by a criminal's side?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
@@ -53,7 +54,8 @@
       <JapaneseText>なにを言っているんだ。
 罪人が逃げないように見張っている事に
 なんら問題はないだろう？</JapaneseText>
-      <EnglishText>What do you mean? There's nothing wrong with keeping watch over a criminal to prevent them from escaping, right?</EnglishText>
+      <EnglishText>What do you mean? There's nothing wrong with keeping watch over a criminal to prevent them
+from escaping, right?</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>4</Id>
@@ -107,7 +109,8 @@ that government official to show up one day.</EnglishText>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なら、一時休戦ってとこだな</JapaneseText>
-      <EnglishText>In which case, we've got ourselves a temporary truce.</EnglishText>
+      <EnglishText>In which case, we've got
+ourselves a temporary truce.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>9</Id>
@@ -117,7 +120,7 @@ that government official to show up one day.</EnglishText>
       <PointerOffset/>
       <JapaneseText>そうだね。
 そういう事にしておいてくれるかな</JapaneseText>
-      <EnglishText>Right. Why don't we just leave it that?</EnglishText>
+      <EnglishText>Right. Why don't we just leave it that.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>10</Id>

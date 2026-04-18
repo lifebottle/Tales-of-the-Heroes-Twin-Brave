@@ -23,7 +23,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ファラトスクの騎士はないんだってさ、リッド</JapaneseText>
-      <EnglishText>So it turns out there aren't any Farahtosk Knights, Reid.</EnglishText>
+      <EnglishText>So it turns out there aren't any
+Farahtosk Knights, Reid.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>1</Id>
@@ -42,8 +43,8 @@
       <PointerOffset/>
       <JapaneseText>うーん。
 やっぱりよくわからない職業はだめだね</JapaneseText>
-      <EnglishText>Hmmm.
-I guess jobs I don't understand are no good for me.</EnglishText>
+      <EnglishText>Hmmm. I guess jobs I don't understand
+are no good for me.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>3</Id>
@@ -70,7 +71,8 @@ I guess jobs I don't understand are no good for me.</EnglishText>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレは猟師でいいんだけどなぁ</JapaneseText>
-      <EnglishText>I'm perfectly content just being a hunter over here...</EnglishText>
+      <EnglishText>I'm perfectly content just
+being a hunter over here...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>6</Id>
