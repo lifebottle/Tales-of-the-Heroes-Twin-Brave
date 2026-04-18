@@ -39,99 +39,106 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>今度こそやったな、ゼロス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You did it this time, Zelos!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わりぃ、ヴェイグ。
 お前のリバースを守ってやれなかった</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Sorry, Veigue.
+I couldn't protect your Rebirth.</EnglishText>
+      <Notes>He literally says "I couldn't protect your Rebirth", as in, it's Veigue's because Veigue is the main character.</Notes>
       <SpeakerId>13</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいんだ。お前のせいじゃない。
 だがゼロス……本当にいいのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's okay. It's not your fault.
+But Zelos... are you really okay with this?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん？　どういう事よ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? What are you talkin' about?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>リバースの主役の条件は……クールだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A condition for being the lead role of Rebirth is... to be cool.</EnglishText>
+      <Notes>He uses the loan word for "cool" here, but it's a pun.</Notes>
       <SpeakerId>12</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺さまにはクールキャラは務まらないってか？
 舐められたもんだね。
 要は静かにしてりゃいいんでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you're telling me I don't have what it takes
+to be a cool character? You underestimate
+me. All I really gotta do is stay quiet, right?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>.........</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>.........!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ぶはっ！
 だ、だめだ。
 黙ってたら呼吸出来ない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gah!
+N-No good.
+If I stay silent like that, I can't even breathe.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ゼロスにしゃべるなって言うのは無理か。
 こりゃ他を当たるしかないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's not possible for you to not talk, huh.
+Guess all we can do is move on to the next one.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -142,7 +149,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

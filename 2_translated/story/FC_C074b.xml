@@ -41,68 +41,72 @@
       <JapaneseText>うまい！
 こんなにうまいカレーパンは
 生まれて初めて食べた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Delicious!
+This is the first time I've eaten such incredible curry bread!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>この焼き鳥丼パン……すごくおいしい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This grilled chicken rice bowl bread... It's phenonmal.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっぱり女は黙って焼き鳥丼ね！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Just like I thought, women stay out of it
+and have their grilled chicken rice bowl!</EnglishText>
+      <Notes>Should I leave this be? The more literal tl is like, "women should stay quiet and just eat their grilled chicken rice bowl". I know the official loc changed that bc it sounds pretty sexist, so I don't know if I should change it here too.</Notes>
       <SpeakerId>29</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>焼き鳥丼パンとは……斬新だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grilled chicken rice bowl bread... How original.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうしても、と言われたからな。
 カレーは甘口にしろとか
 いちいち注文が細かい奴らだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>They're the kind of people who are super
+specific about wanting their orders mild.</EnglishText>
+      <Notes>Not completely sure about this one.</Notes>
       <SpeakerId>14</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お土産を頼んでいいか？
 カニタマパンを一つ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Could I ask you for a gift of sorts?
+One crab omelette bread.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>調子に乗るな！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't get carried away!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -113,7 +117,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

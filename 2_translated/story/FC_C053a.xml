@@ -24,32 +24,35 @@
       <PointerOffset/>
       <JapaneseText>いや〜獣化はさすがに無理だけど
 リバースならそんな事言われないっしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah weeell, dealing with  the half beastie was no good,
+but I bet it won't be like that for Rebirth.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>すごいよなぁ、ゼロス。
 こんだけ失敗してもまだ諦めないなんて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're awesome, Zelos.
+Even with all these losses, you still won't call it quits.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そりゃそうよ。
 モテたいっていう気持ちは
 すべてのものに勝っちゃうものよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well of course.
+The need to be popular rises above all else.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -60,7 +63,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -23,56 +23,56 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>この声は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That voice is...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>声？　どうかしたのか、ゼロス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Voice? What's up, Zelos?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>この声、やっぱり世界樹か！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That voice! I knew it! It's the World Tree!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>世界樹の声！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The World Tree's voice?!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>待ってろ、今行く！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait for me, I'm on my way!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おい、ゼロス！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, Zelos!!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -83,7 +83,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -40,80 +40,86 @@
       <PointerOffset/>
       <JapaneseText>なんつうかお前って
 戦ってる時とか犬みてぇだよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You know, you're like a dog when you fight.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだと！？
 オレが獣人だから、バカにしてるのか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What did you say?!
+Are you making fun of me for being a beastman?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちょ、ちょっとカイウス。
 落ち着きなさいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wa-Wait a second, Caius.
+Calm down!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルーク、あまりそういう事を言うな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luke, don't say rude things like that.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんでだよ？
 犬っぽく見えたからそう言って
 なにがいけねぇんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why not?
+I just said it 'cause he looked like a dog.
+What's so bad about it?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>犬、犬って、いい加減にしろよ！
 今すぐ勝負だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enough with calling me a dog!
+We're settling this right now with a battle!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はぁ？　なに怒ってんだよ。
 マジ意味わかんねーし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? What're you so mad about?
+I seriously don't get this.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はぁ……そりゃ怒るだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haa... Of course he's angry.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -124,7 +130,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

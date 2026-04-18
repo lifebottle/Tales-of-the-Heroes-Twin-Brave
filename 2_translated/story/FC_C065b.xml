@@ -24,82 +24,88 @@
       <PointerOffset/>
       <JapaneseText>お前はもう少し周りを見るべきだ。
 その上で、自分の為すべき事をしろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You need to pay more attention to what's
+going on around you. You can do what
+you feel needs to be done after that.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかったよ。
 たしかにおれは
 すぐに周りが見えなくなっちまうからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I gotcha.
+It's true I lose sight of what's around me pretty fast.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>気をつける事にするぜ！
 ありがとな、ヴェイグ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll be careful! Thanks, Veigue!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……わかればいいんだ。
 なら、あとはお前一人で……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...That's good, then.
+In which case, you can handle it on your own from here on.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そう言うなって。
 とびきりうまいピーチパイ
 おごり続けてやるからさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't say that. I'll keep treating you to
+the greatest peach pie you've ever had.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どこまでもいくぞ、ティトレイ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll go anywhere, Tytree.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おうよ！
 世の中には
 まだまだ更生させなきゃなんねぇ奴がいる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah! There are still folks out there
+who I gotta set on the right path.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おれ達の戦いは、まだ始まったばかりだぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our battle has noly just begun!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -110,7 +116,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -40,70 +40,75 @@
       <PointerOffset/>
       <JapaneseText>まずは言葉遣いからだな。
 もっと綺麗な話し方を心がけようぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>First off, we gotta start with your words.
+Remember to use nicer words.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんでそんな事しなきゃいけねぇんだよ。
 うぜー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why should I have to do something like that?
+So annoying.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、マジうぜェ。
 話し方なんざ個人の自由だろうがよ、クソが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, that's seriously annoying. How someone
+talks is their own personal freedom, shithead.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お前ら、本当にヒドイ話し方するなぁ。
 こりゃ先は長そうだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You guys have such a nasty way of talking.
+Looks like this is gonna be a long one.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも安心しろよな！
 お前らが更生するまで
 毎日おれが付き合ってやるから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But be at ease!
+I'll hang with you guys every day until you've seen the light.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>マジで勘弁しろ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seriously, gimme a break here...</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ピーチパイ、先に食ってるぞ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've already started eating my peach pie...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -114,7 +119,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -23,32 +23,34 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>よし！　この調子でガンガンいこう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright! Let's keep up this vigorous pace!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>早く解毒剤見つけねぇと
 犠牲者が増えていく一方だな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We gotta hurry and find an antidote,
+or there's gonna be a ton more sacrifices...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だが妙だな……
 ちょっとだけ、クレスのダジャレが
 楽しみになってきたぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But weirdly enough... I'm kinda looking
+forward to Cless' puns, just the tiniest bit.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -59,7 +61,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

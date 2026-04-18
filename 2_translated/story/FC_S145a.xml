@@ -16,21 +16,23 @@
       <PointerOffset/>
       <JapaneseText>アスベル……無事でいて。
 あなたにもしもの事があったら、私は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Asbel... stay safe.
+If something happened to you, I would...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいえ、そんな事は起こさない。
 アスベルの事は、私が守ってみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, I won't let that happen.
+I'll protect Asbel!</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -41,7 +43,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

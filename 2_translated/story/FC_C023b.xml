@@ -25,68 +25,71 @@
       <JapaneseText>ふん。
 最初から素直にホットドッグを
 買ってくればいいものを</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmph.
+He should've just bought the
+hotdog from the beginning.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いやー、普通嫌がるだろ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I meeean, normally he'd hate that, right?</EnglishText>
+      <Notes>Not sure about this one.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それにしてもそのホットドッグ
 すげーうまそうだな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But either way, that hotdog
+looks like it'd taste SO good!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>.........</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>怖い！　目が怖いよ、リオン！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Scary! Your eyes have a scary look in them, Leon!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ところで、
 俺達いったいいつまで
 こんな事続けていくんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>By the way, how long are we supposed to keep doing this?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕に聞くな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not the one you should be asking!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -97,7 +100,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

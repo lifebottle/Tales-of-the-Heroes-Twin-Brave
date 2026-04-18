@@ -23,105 +23,109 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>次の指示は来ていないか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is the next demand not here yet...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これでようやく終わりという事だな。
 ようやく……彼女を助けられる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So this is finally over with.
+Finally... I can save her.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>う……うーん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nn...! Mmmmmm...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうした、スタン？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What is it, Stahn?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もう我慢出来ない！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't take it anymore!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>な、スタン！！
 なにをする！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wha-- Stahn!!
+What are you doing?!!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ピーチパイもミソも
 ホットドッグもパンも
 すごくおいしそうだから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The peach pie, the miso,
+the hotdog, and the bread
+all look so yummy...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺もう我慢の限界なんだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm at my limit over here!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>持ち去るつもりか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't tell me you're thinking about stealing them?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ごめん、リオン！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>SORRY, LEON!</EnglishText>
+      <Notes>The all caps is based on the voice acting.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>待て、スタン！　待て！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, Stahn! Wait!!!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -132,7 +136,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

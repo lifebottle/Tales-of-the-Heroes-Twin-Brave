@@ -23,41 +23,44 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>聖女エルレイン……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Saint Elraine...!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>奴もエターナルソードの力を利用するつもりか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is she planning to use the power of the Eternal Sword, too?</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>奪った犯人はもちろん
 エルレインにも渡せないわ、聖剣の力は</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Neither the thief who stole it, nor of course Elraine,
+can be allowed to possess that holy sword's power.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それにエルレインからは
 なにか危険な力を感じる。
 今ここで、奴の野望を食い止めるぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On top of that, I can feel a dangerous power
+coming from Elraine. We're going to put a
+stop to her ambitions right now.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -68,7 +71,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

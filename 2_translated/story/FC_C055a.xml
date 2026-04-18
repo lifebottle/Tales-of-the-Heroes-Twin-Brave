@@ -25,51 +25,55 @@
       <JapaneseText>アビス、アビス、アビス！！
 実は俺さま、アビスこそが
 本命だったのよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Abyss, Abyss, Abyss!!
+Truth is, Abyss was my favorite the whole time.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうなのか？
 なんでそんなにアビスがいいんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh yeah?
+Why do you like Abyss so much?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だってさ、アビスのヒロインって
 めっちゃ可愛いメロンな娘なのよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>'Cause I mean, Abyss' heroine is the
+super cute melons girl, you know?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっぱりそういう理由か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So that's all it's acually about in the end.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まぁいいや。
 俺も全力で応援するから
 今度こそ決めようぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, whatever. I'll be supporting you with
+everything I've got, so get out there and settle this!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -80,7 +84,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

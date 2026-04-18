@@ -40,60 +40,64 @@
       <PointerOffset/>
       <JapaneseText>わたしには英雄が必要なんです。
 どうか力を貸してください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have need of a hero.
+Please, let me borrow your strength.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>騎士として、助けを求める声を
 無下にするつもりはないが
 英雄とは少し仰々しすぎるのではないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As a knight, I will not refuse someone who seeks aid.
+Though, isn't it a bit much to to call me a hero?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんなことないよ。
 だって英雄ってカッコイイじゃないか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not at all.
+'Cause I mean, aren't heroes cool and all?!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そういう問題じゃないだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think that's the point.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>では、見せてもらいます。
 あなたに“青”の資格があるかどうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well then, please let me see something for myself.
+I must know if you qualify to be our team's "Blue".</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え！？　戦うのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?! Are we fighting?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -104,7 +108,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

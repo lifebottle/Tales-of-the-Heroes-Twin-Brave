@@ -33,77 +33,81 @@
       <JapaneseText>ユーリ・ローウェル！
 貴様には殺人の容疑がかかっている。
 おとなしく僕達と共に来てもらおうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yuri Lowell! You are suspected of murder.
+We'll need you to come with us quietly.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こいつはヒューネガルドの騎士だな。
 あっちの国にまで手配書が出回ってんのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A knight from Hunegard, huh.
+So there's a wanted poster of me
+going around in that country too, huh.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お偉いさん
 よっぽどオレの事が憎いらしいな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like those bigshots hate me a ton.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なにを言ってるんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What're you talking about?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こっちの話だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's no bussiness of yours.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>悪いが、捕まってやる気はないんでね。
 突破させてもらうぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry, but I'm not planning on getting caught.
+I'll just have to break through you guys.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>一人で僕達に挑もうというのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you planning to challenge us by yourself?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいだろう！　受けて立つ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Very well. I accept your challenge.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -114,7 +118,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

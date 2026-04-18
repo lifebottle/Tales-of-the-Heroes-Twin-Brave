@@ -24,41 +24,44 @@
       <PointerOffset/>
       <JapaneseText>ミソなんて
 その辺で買ってきたのじゃダメなのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is it not good enough to just
+buy miso from a local shop?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>奴の要求は
 この洞窟の奥に眠る
 伝説のミソを取ってこい、というものだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The demand is to retrieve the legendary miso
+resting within the innermost part of this cave.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もし他のミソで誤魔化そうとすれば
 おそらく彼女は無惨にも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I try to deceive him with fake miso,
+most likely, she'll face a tragic end...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くすぐられるだけ、なんだけどな……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I think he's just trying to amuse himself...</EnglishText>
+      <Notes>Not sure about this.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -69,7 +72,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

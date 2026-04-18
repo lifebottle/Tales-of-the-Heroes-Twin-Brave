@@ -24,39 +24,41 @@
       <PointerOffset/>
       <JapaneseText>今の男二人、ガラ悪かったな。
 ありゃ絶対名の通った不良だぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those two guys just now seemed pretty evil.
+They've gotta be bigshot deliquents.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……そうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You think so?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、そうにちがいねぇ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, no doubt about it!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>よーし！
 踏み外した道、正してやろうぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alriiight!
+Let's get 'em off the wrong path and onto the right one!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -67,7 +69,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

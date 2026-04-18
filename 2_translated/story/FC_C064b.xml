@@ -40,71 +40,76 @@
       <PointerOffset/>
       <JapaneseText>だからケンカなんてしてないんだってば。
 あたし達はこれが普通なの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Like we said, we're not even fighting.
+We're just being how we always are.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まあたしかにケンカに見えるかもしれないな。
 ルビア、すぐ怒鳴るし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, it's true it might look like we're fighting.
+Doesn't take much for you to start shouting.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カイウスがわかってくれないからでしょ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because you just don't get it!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>信じられねぇ。
 この言い合いがケンカじゃねぇってのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's just no way.
+You guys are telling me this quarreling here isn't a fight?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ケンカって言えなくもないかもしれないけど
 オレ達はこれでなんとかやっていけてる。
 だから心配してくれなくていいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You could call it a fight, but we'll figure it out somehow.
+So you don't have to worry about us.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかった。
 普通とはちょっとちがうけど
 おまえらの絆は星五つだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gotcha. Kinda different from what I'd consider normal,
+but that bond you guys have gets five stars!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ピーチパイ、もう半分しかないぞ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Only half of my peach pie is left...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -115,7 +120,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

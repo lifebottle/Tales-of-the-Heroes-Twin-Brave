@@ -40,71 +40,76 @@
       <PointerOffset/>
       <JapaneseText>あー助かった！
 ミラクルグミのおかげで全快だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahhh, I'm saved!
+I'm totally recovered thanks to that Miracle Gummi!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ありがとうな、ルーク。
 お前、案外いいとこあるんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks a bunch, Luke.
+There're actually some surprsingly nice things about you.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだろう？
 ルークは悪いとこばかりじゃないんだ。
 わかってもらえて嬉しいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right? Luke isn't just all bad.
+I'm glad you get it.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>べつに。
 うちの屋敷で大量に腐らせてるしな
 ミラクルグミなんて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It wasn't a big deal. I've got loads of Miracle Gummis
+just sitting around rotting in my mansion, anyway.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>つうかむしろ
 俺にとってはアップルグミのが珍しいっつの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really, if anything, Apple Gummis
+are more of a rarity to me.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっぱり嫌な奴かも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Actually, he really might just be an unlikeable guy...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……そうだな。　前言撤回だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Yeah. I take back what I said.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -115,7 +120,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

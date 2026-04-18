@@ -24,79 +24,83 @@
       <PointerOffset/>
       <JapaneseText>世界樹が壊されたりしたら
 この世界はもっと酷い事になってしまう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If the World Tree were destroyed,
+things would be even worse for this world.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕はもう、誰にも死んでほしくないんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't want anyone else to die...</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうか。
 それが君の戦う理由なんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see. So that's what you fight for.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん。
 ミラみたいに、胸を張って
 使命だなんて到底言えないけどね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. I probably say with total conviction
+that it's my mission like you can, though.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なぜだ？
 君の戦う理由は、十分立派だと思うが？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why is that?
+I find your reasons for fighting quite splendid.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？　あ、ありがとう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Th-Thanks.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>君は優しいんだな。
 それが君の強さなのだろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're a kind person.
+That is your strength, is it not?</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だが……優しさは時に危険だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And yet... kindness can sometimes be dangerous.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -107,7 +111,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

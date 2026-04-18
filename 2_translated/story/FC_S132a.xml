@@ -23,48 +23,49 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ごめん、コハク……オレのせいだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry, Kohaku...This is all my fault...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>.........</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>絶対元に戻すから…
 そしたら、またいつもみたいに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll get you back to how you were, no matter what...
+Then it'll be like it's always been...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>.........</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちくしょう……ちくしょう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dammit... Dammit...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -75,7 +76,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

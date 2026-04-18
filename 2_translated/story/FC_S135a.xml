@@ -23,75 +23,76 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>世界樹が……枯れてる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The World Tree... is withered.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>マナが枯渇するわけだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So that's why the Mana is running out...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>シュヴァルツを倒したら
 元に戻るのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If we take Schwartz down,
+will things go back to normal?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>たぶん。　デュークはそう言ってたから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Probably. That's what Duke said.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……絶対負けられないね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...We can't lose, no matter what.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>負けないよ、オレとコハクだもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If it's me and you, we won't lose.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>シング……うん！　絶対勝とう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shing... Yeah! We'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>行こう！　これで最後だ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Let's go! This is the last one!</EnglishText>
+      <Notes>"Last one" may need more context, so I'll edit this later if I need to.</Notes>
       <SpeakerId>26</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -102,7 +103,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

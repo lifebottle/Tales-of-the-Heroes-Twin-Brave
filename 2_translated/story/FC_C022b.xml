@@ -24,41 +24,44 @@
       <PointerOffset/>
       <JapaneseText>伝説って言うだけあって
 そのミソ、いい香りだなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just like you'd expect from something legendary,
+this miso smells incredible.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>スタン……それ以上
 ミソに近付くのなら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stahn... If you get anything closer to that miso...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うわっ！
 け、剣を向けるなって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa!
+D-Don't point your sword at me!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>次の指示ももう出ている
 僕は……従い続けるしかないのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The next demand is already here.
+Must I... continue to follow these?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -69,7 +72,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -24,50 +24,52 @@
       <PointerOffset/>
       <JapaneseText>なんかもう俺
 ちょっと楽しくなってきちゃったよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm kinda starting to actually have fun with this.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺さまも、ロイドくんと一緒だから
 けっこう楽しんでるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I too am having a delightful time,
+since I'm here with you.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まぁでも、そろそろキメたいよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But well, I think it's time we made a decision.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>目指せ！　主人公！
 目指せモテモテな俺さま！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Time to get in gear! To be the protagonist!
+Time to get in gear for me to be hella popular!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>さて、初心を思い出したとこで
 気合い入れていくよー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alrighty, now that I actually remembered what I was originally doing here, let's get that fighting spirit going!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -78,7 +80,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

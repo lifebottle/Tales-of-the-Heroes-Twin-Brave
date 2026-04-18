@@ -39,82 +39,89 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>オイ、コラ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, you!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おまえが寝坊して船出さなかったせいで
 １００年に一度のチャンスを
 逃がしちまったじゃねぇかよ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We missed the boat 'cause you overslept,
+and now we've lost out on a once every
+hundred years chance!!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>今日は１００年に一度の
 女の子大集合水着祭りだったんだぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Today was a huge once in a century
+gathering for a ladies' swimsuit festival!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>せっかく絶好の
 見物ポイントを設置したってのに！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And we had even figured out
+the perfect sightseeing point!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こいつら……馬鹿だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These guys... are idiots.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、馬鹿だ。
 騎士として女性として
 こんな奴らを野放しには出来ない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Idiots, indeed. As a knight and a woman,
+I will not let them do as they please!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なら決まりだな。
 いくぞ、クロエ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then we've got ourselves a course of action.
+Let's go, Chloe!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ！
 今回は心置きなく戦える！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right!
+I can fight with no reservations this time!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -125,7 +132,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

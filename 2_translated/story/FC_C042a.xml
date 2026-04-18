@@ -41,59 +41,64 @@
       <JapaneseText>見た目、性格共に申し分のない“黒”だわ。
 お願いします。
 わたしの英雄になってください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're a perfect "Black" between
+both your outfit and personality.
+Please, become my hero.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あのなぁ……。
 遊びだったら、よそでやってくれねぇか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Look here... if you wanna mess around,
+can you go do it somewhere else?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まずは力試しだよね、リアラ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We gotta test his strength first, Reala!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>さすがね、カイル。
 要領を掴むのがとっても早いわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're right, Kyle.
+You really do get the idea of things so quickly.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おーい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heeeey.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こっちの言い分は
 聞いていないみたいだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems like they're not listening
+to what you're saying at all...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -104,7 +109,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

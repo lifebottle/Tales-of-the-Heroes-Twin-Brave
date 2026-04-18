@@ -23,57 +23,58 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ファラトスクの騎士はないんだってさ、リッド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So it turns out there aren't any Farahtosk Knights, Reid.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>最初からそう言ってるじゃねぇか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't that what I've been telling you all along?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うーん。
 やっぱりよくわからない職業はだめだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmmm.
+I guess jobs I don't understand are no good for me.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>自分でもよくわかってなかったのかよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not sure you even totally understand yourself.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも、わたしまだ諦めないからね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I can't give up yet!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレは猟師でいいんだけどなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm perfectly content just being a hunter over here...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -84,7 +85,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

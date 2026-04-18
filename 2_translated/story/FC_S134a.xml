@@ -24,50 +24,54 @@
       <PointerOffset/>
       <JapaneseText>コハク……やっぱりついてくるの？
 危ないし、コハクにまたなにかあったら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kohaku... you're coming after all?
+It's dangerous. If something happened to you again...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>シング！　もう言わないの！
 それに、シングが世界を滅ぼしかけたのは
 わたしのせいでもあるんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shing! No more of that!
+Besides, it's my fault, too, that you
+had almost destroyed the world.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>一人で全部引き受けようなんてズルいよ。
 わたしだって頑張らなきゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's not fair for you to take responsibility for that by yourself.
+I have to do my best, too.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかった、一緒にガンドコいこう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Got it. Let's go to Gandoku together!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん！　</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -78,7 +82,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

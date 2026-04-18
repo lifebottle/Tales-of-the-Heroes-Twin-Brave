@@ -24,30 +24,32 @@
       <PointerOffset/>
       <JapaneseText>くらえ、チェスター！
 チェストーー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Take this, Chester!
+A chest!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかった、わかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I gotcha, I gotcha.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まったく、見てられないぜ。
 早くなんとかしてやらねぇと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seriously, I can't sit here and watch this.
+I gotta hurry and do something about this.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -58,7 +60,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

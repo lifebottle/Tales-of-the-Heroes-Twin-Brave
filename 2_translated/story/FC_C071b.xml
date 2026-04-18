@@ -40,81 +40,87 @@
       <PointerOffset/>
       <JapaneseText>おいしい〜！
 このパン、あなたが焼いたの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So yummy〜!
+Did you make this bread?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>意外だろ？
 こう見えて、クーリッジの焼いたパンは
 プロ顔負けのおいしさなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Surprising, isn't it?
+Coolidge's bread is so delicious,
+he could put a pro to shame.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>.........</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>黙々と食ってるけど、どうなんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've been eating without a word. How is it?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……うまい。
 ピーチパイ以外の食べ物で
 こんなに感動したのは初めてだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Delicious. This is the first time anything
+besides peach pie has impressed me.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ね、お土産もらっていいかな？
 リッドにも食べさせてあげなくちゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, could I have some as a gift?
+Reid's gotta try some of this, too!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ。　好きなだけ持っていけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sure. Take as much as you want.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ふぅ……。
 どうやら、許してもらえたようだな。
 よかった、よかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Phew... Seems like they've ultimately forgiven me.
+I'm really glad.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -125,7 +131,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

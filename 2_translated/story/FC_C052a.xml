@@ -24,31 +24,34 @@
       <PointerOffset/>
       <JapaneseText>な〜んかテンペストだったら
 いける気がすんのよね</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Y'knooow, since it's Tempest now,
+I get the feeling we can handle this.</EnglishText>
+      <Notes>Unusre about this.</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうなのか？
 カイウスもけっこう手強そうだけどな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You think so?
+Caius seems like a pretty tough opponent.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>大丈夫、大丈夫。
 俺さまの手にかかったら楽勝だってば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's all good, it's all good.
+With me heading the charge, it'll be a cinch.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -59,7 +62,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

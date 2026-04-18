@@ -24,70 +24,76 @@
       <PointerOffset/>
       <JapaneseText>おのれ、強欲レンズハンターめ！
 彼女を人質にとるとは、なんて卑劣な！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How dare that greedy Lens hunter!
+It's pure cowardness to take her hostage!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>レンズってなんだろう？
 このあたりじゃ聞いた事ない言葉だけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did you say Lens?
+I've haven't heard that word around these parts.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>というかさ、リオン。
 「ものすごく、くすぐる」って
 べつにたいした事じゃないよな？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>On that note, Leon...
+He said, "It'll make you laugh a ton".
+Doesn't seem like a big deal, right?</EnglishText>
+      <Notes>Not sure about this one.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>彼女の身の安全には代えられない。
 今は……奴に従うしかないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nothing is more important than her safety.
+For right now... all I can do is whatever he asks.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だめだ、聞いてない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No good, I guess. He didn't hear me...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>最初の要求は……行列の出来る店で
 ピーチパイを手に入れてこいだと！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>His first demand is... to get a peach pie
+from a shop with a long line?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだか生ぬるい要求だなあ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's a pretty mild demand.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -98,7 +104,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

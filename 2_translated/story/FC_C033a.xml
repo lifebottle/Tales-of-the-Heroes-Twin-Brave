@@ -25,50 +25,52 @@
       <JapaneseText>このあたりに
 マリントルーパーの
 セネルっていう人がいるらしいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Apparently there's a marine trooper
+in this area named Senel around here.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>その人に頼んで
 漁師の仕事紹介してもらおうよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We should see if we can ask him
+if he can get us jobs as fishmen.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いやいや、待てよ。
 漁師になるんだったら
 猟師のままでべつにいいじゃねぇか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, no, wait. If you're gonna go be a fisherman, isn't it perfectly fine to just stay a hunter like you already are?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>大丈夫！　イケる、イケる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's all good! No problem, no problem!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ごまかすな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't evade the question!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -79,7 +81,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

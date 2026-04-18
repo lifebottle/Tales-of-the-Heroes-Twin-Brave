@@ -25,40 +25,44 @@
       <JapaneseText>うーん。
 セネルって漁師じゃなかったんだね。
 イメージと違うなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmmm.
+So Senel isn't a fisherman.
+He's different from what I imagined.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>たしかに、パン焼いてるイメージはないな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's true I didn't imagine he'd be baking bread.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ねぇリッド！
 パンの焼き方教わって
 パン職人になるっていうのはどう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, Reid!
+How about we learn to bake
+bread and become bakers?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お前もうやけくそだろ……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Girl, you've totally lost your mind, huh...</EnglishText>
+      <Notes>Trying out characterize here, but I'm not super familiar with Reid beyond gacha games.</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -69,7 +73,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

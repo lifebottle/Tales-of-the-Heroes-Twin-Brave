@@ -41,74 +41,84 @@
       <JapaneseText>残念ながら不採用です。
 今回のわたしの想定メンバーに
 “桃色”は含まれていないの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unfortunately, I have to say no.
+My current team members don't
+include anyone wearing "Pink".</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんでよ？
 べつにいいでしょ、一人くらい増えても！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why not?
+Adding just one extra person should be fine!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だめだよ、６人なんてバランスが悪すぎる！
 ポーズとか決めにくいじゃないか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can't!
+Six people would make it way too unbalanced!
+It'll be too hard to decide on poses!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>さすがカイル。
 よくわかってくれてる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just like I'd expect from you, Kyle.
+You understand this so well.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ケンカすんなって。
 じゃあ今回おれは遠慮するよ。
 代わりにルビアを入れてやってくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't fight, guys. Since that's how it is, I'll step back
+on this one. You can swap me out with Rubia.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それではだめ。
 わたしは“桃色”なんていらない。
 欲しいのは“緑”なの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's no good, either.
+I don't need "Pink".
+I need "Green".</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もう頭にきたわ！
 だったら力ずくでも
 メンバー入りしてやるんだから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Okay, now I'm mad! In that case,
+I'll make myself a member through brute force!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -119,7 +129,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

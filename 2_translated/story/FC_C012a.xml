@@ -39,71 +39,78 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ゼロスのファッションセンスはゼロッス！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Zelos' fashion sense is zero!
+(TLN: In JP, R and L are essentially the same. The pronounciation for his name is Zerosu, which Cless is saying here. "Zerosu's fashion sense is zerosu", etc.)</EnglishText>
+      <Notes>Same situation as Kyle's. I imagine this is going to be a running theme. Cless is punning Zelos' name.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はぁ？
 突然なに言ってくれてんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?
+What the heck are you talking about, all of a sudden?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>会話センスもゼロッス！
 恋愛技術もゼロッス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Zero conversation skills!
+Zero romantic charisma!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ほう。
 俺さまを百戦錬磨の
 ハニーハンターと知っての台詞か？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really now?
+Do you speak such dialogue knowing I
+happen to be a veteran Honey Hunter?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだこいつ、おもしろいなー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who is this guy? He's pretty funny!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おもしろくない！
 いくぜ、ロイドくん！
 売られたケンカは買ってやらなきゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He is NOT funny!
+Let's go, Lloyd-kun!
+When given a battle proposition, you have to accept it!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっぱりこうなるのか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I knew it was gonna end up like this...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -114,7 +121,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -41,70 +41,76 @@
       <JapaneseText>髪の長さも違うし
 性格だってまったく違うんだ。
 二人は似てなんかないさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your hair lengths are different, too,
+and your personalities are totally
+different. You two aren't similar at all.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうかぁ？
 まぁガイがそう言うなら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You think?
+Well, if it's Guy who says so...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ったく。
 素直に言う事聞くんなら
 ケンカ吹っかけて来るなよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Good lord. If you're just gonna actually
+listen to him in the end anyway, don't
+start fights like that.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいじゃないか。
 最終的にまったく
 似ていないという事になったんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's alright, isn't it?
+You two ultimately aren't alike at all.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうそう、似てない似てない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yup, they're not alike at all.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>似てない似てない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not at all, not at all.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うーん……お前らは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mmmm... You guys are...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -115,7 +121,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -24,58 +24,61 @@
       <PointerOffset/>
       <JapaneseText>いいと思わない？
 ファラトスクの騎士！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Aren't they awesome?
+Those Farahtosk Knights!</EnglishText>
+      <Notes>I'm punning here on purpose, but I don't know if that's the intention. Could go with Faratosk or Pharatosk.</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだよ、ファラトスクって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heck is a Farahtosk...?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ラタトスクの騎士のエミルを倒せば
 ファラトスクの騎士の
 資格も手に入ると思わない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I can beat Emil, the knight of Ratatosk,
+do you think I'll be qualified to become
+a Farahtosk Knight?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だからなんだよ、ファラトスクって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So like I said, what the heck is a Farahtosk Knight?!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>よーし、いこう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alriiight, here I go!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -86,7 +89,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

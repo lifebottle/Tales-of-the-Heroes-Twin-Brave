@@ -33,50 +33,54 @@
       <JapaneseText>お前らか。
 いろんな奴にケンカ吹っかけて
 トラブル起こしまくってるってのは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So it's you guys. The ones who keep popping up
+picking all kinds of fights and causing tons of trouble.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なに言ってるんだよ？
 おれはみんなの為に戦ってんだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What're you talking about?
+I'm fighting for the good of everyone!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>自覚なし、か。
 こりゃタチが悪いぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Non-existent self-awareness, huh.
+Those sorts are all kinds of bad.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>一回痛い目見ないと
 わからねぇんだろうな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're not gonna get it unless you
+get whacked around at least once, huh.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……そうだな。　お前の言う通りだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You're right. It's exactly as you say it is.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -87,7 +91,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

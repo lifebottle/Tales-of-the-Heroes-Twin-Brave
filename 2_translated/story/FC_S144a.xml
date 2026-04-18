@@ -15,41 +15,44 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>アスベル、どうしてそんなに無茶をするの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Asbel, why do you do such reckless things?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>私や他の人を守れれば
 それでいいと本気で思っているの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you really think everything will just be okay
+if you're able to protect me and everyone else?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>誰かを守る為に自分が死ぬ事が
 正しいとでも思っているの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you think it's okay for you
+to die protecting someone?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……止めなくちゃ。
 こんなの絶対に間違ってる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You've got to stop this.
+That way of thinking is completely wrong.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -60,7 +63,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

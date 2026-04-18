@@ -40,67 +40,69 @@
       <PointerOffset/>
       <JapaneseText>船が出なかったせいで
 守れなかった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since the ship never set sail,
+I wasn't able to protect it...</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おい、今度のは意味がわからないぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, this time we've got one I don't get at all.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>確かにわからないな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't get him, either...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やめてあげて！
 アスベルを責めるのは！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stop with that! It's not Asbel's fault!</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>彼はちょっと運が悪いだけで
 根は真面目ないい人なの！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He just has bad luck,
+but he's an honest and wonderful person!</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺は……今度こそ守ってみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I... will protect it this time!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なにをだ！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Protect what?!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -111,7 +113,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

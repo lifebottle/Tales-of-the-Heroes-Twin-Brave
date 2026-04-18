@@ -23,73 +23,77 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>とにかく……やったな、リオン！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyway... we did it, Leon!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>すまない、事情があるんだ。
 ……せめて代金は置いていく</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry, I have my own circumstances.
+...I'll at least leave payment.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それが３時間並ばなきゃ買えない
 ピーチパイか。
 おいしそうだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's the peach pie you have to wait about 3 hours to buy?
+It looks so yummy!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>スタン……このピーチパイを
 狙うというのなら
 たとえお前でも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stahn... If you're after this peach pie, even if it's you...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わっ、じょ、冗談だって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa, I-I'm just joking!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でもよかったな。
 これでリオンの大切な人も
 解放されるんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I'm happy for you. That person that's really
+important to you will be released now, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいや、まだだ。
 次の要求が届いている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, not yet.
+The next demand just arrived.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -100,7 +104,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

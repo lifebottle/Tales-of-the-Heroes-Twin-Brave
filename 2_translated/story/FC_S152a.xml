@@ -23,30 +23,31 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>世界樹を壊すなんて、どうしてそんな事を……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why would he destroy the World Tree...?</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな事をさせるわけにはいかない。
 奴は私が止めてみせる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't let him do it.
+I'm going to stop him.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕にだって、出来る事があるはずだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There has to be something I can do, too...</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -57,7 +58,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

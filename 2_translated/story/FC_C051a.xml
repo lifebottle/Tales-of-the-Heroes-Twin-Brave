@@ -25,90 +25,96 @@
       <JapaneseText>というわけで〜。
 他の作品の主人公をぶっ倒して
 主役の座を奪っちゃおうと思いま〜す</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And sooo... I'm gonna go out there and beat the main characters of the other games, and steal the leading role.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ロイドくんはもちろん協力してくれるよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lloyd-kun, you'll be there to help me of course, right?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それは構わないけどさ。
 普通主役を奪いにいくんだったら
 真っ先にシンフォニアを狙うんじゃないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't mind, but I would've figured that you'd 
+go for stealing Symphonia's lead role first.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>んも〜。
 なに言っちゃってんのよ、ロイドくん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh goodness no. 〜
+What are you saying, Lloyd-kun?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺さまが
 ロイドくんを裏切ってまで
 主役になりたがるわけないでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wouldn't up and betray you and wanna
+take your lead role like that, you know.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ゼ、ゼロス……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ze-Zelos...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>よーし、わかった！
 俺に出来る事だったらなんでも協力するぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, I gotcha!
+If there's anything I can do, I'll help you out!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>さすがハニー！　頼りにしてるよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Just like I'd expect from ya, Honey!
+I'll be relying on ya!</EnglishText>
+      <Notes>Zelos does actually call Lloyd "Honey", and that's his nickname for Lloyd.</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんじゃあまずは
 シリーズの原点から当たってみますかね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then first,
+let's strike at the very beginnings of the series.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -119,7 +125,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

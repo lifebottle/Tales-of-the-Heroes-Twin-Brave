@@ -25,31 +25,34 @@
       <JapaneseText>一日１０個しか焼かないパンかぁ〜。
 この時間じゃもう
 売り切れてるんじゃないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They only bake 10 loaves of bread a day, huh?
+They're probably sold out by this time of day, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>行くぞ、スタン。
 無駄口を叩いている暇はない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, Stahn.
+We don't have time for idle talk.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>たとえ限定１個だろうと
 僕は必ず手に入れてみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if all I can get is a single one,
+I will get it no matter what!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -60,7 +63,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

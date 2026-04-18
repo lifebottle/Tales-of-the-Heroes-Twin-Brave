@@ -40,81 +40,89 @@
       <PointerOffset/>
       <JapaneseText>ミソとか食ってる奴いんのかよ。
 田舎くせぇ。　マジありえねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are actually people who eat stuff like miso?
+What a bumpkin. I can't even believe that.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なっ！　ミソをバカにしないで！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wha--! Don't make fun of miso!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おまえはピーチパイ好きなんだってな？
 貧乏人にはそんなもんが流行ってんのか？
 俺だったら一生食わねぇな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And I heard you love peach pie?
+Is that popular with poor people?
+'Cause I'VE never eaten that in my entire life.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ピーチパイを愚弄するとは……いい度胸だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For you to ridicule peach pie like that...
+You have a whole lot of nerve.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おい、ルーク。
 あまり人の好みにケチつけるもんじゃないぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enough, Luke.
+Don't be so mean-spirited toward other people's tastes.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あぁ？
 田舎くせぇもんと貧乏くせぇもんにそう言って
 なにが悪いんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? What so bad about telling it
+like it is to a bumpkin and a poor guy?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もう、許さない！
 ミソで鍛えた脚の威力、思い知らせてあげる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ugh, I'm not forgiving you for this!
+I'll teach you the might of legs trained with miso!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ピーチパイにより鍛え上げられた
 オレの剣技と氷の力……味わえ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will show you the taste of the power of
+swordsmanship and ice... trained by peach pie...!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -125,7 +133,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

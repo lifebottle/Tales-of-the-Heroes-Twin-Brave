@@ -40,75 +40,77 @@
       <PointerOffset/>
       <JapaneseText>一人分しかないこの解毒剤は
 僕達がもらっていく</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll be taking this antidote,
+and there's only enough for one person.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はぁ？　ふざけんなよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Don't mess around like that!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ふざけんなよって膝蹴んなよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Don't make a mess messing around!</EnglishText>
+      <Notes>The joke here is fuzaken sounding like hizaken. Fuzaken is like, don't mess around. Hizaken is a knee strike. I wasn't sure hwo to incorporate both of these.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>クレスのハチマキをクレッス！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Cless' headband's name is Cless!</EnglishText>
+      <Notes>No idea what to do with this one.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕には……解毒剤が必要なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have... need of that antidote.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>リオンの恩返し！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Leon's repaying a favor!</EnglishText>
+      <Notes>I'm not sure if this is meant to be a pun? It doesn't seem like it.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なるほどな。
 だが、こっちも譲れねぇんだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see.
+But I'm not calling it quits either!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -119,7 +121,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

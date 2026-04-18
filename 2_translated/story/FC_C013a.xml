@@ -39,77 +39,80 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>アスベル、あっスベル！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Asbel! Don't Aslipel!</EnglishText>
+      <Notes>"Suberu" means "to slip", which relies on Asbel's katakana pronunciation, Asuberu.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだ？　なにを言っているんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Did you say something just now?</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>忠告してくれてるのかしら？
 スベルから気をつけるように</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is he trying to give us some kind of warning?
+Something about us slipping and falling, maybe?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>アスベル、あっスベル！
 アスベル、うまい事スベッてくれ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Asbel, Aslipel!
+Slip in an Asbrilliant way!</EnglishText>
+      <Notes>Here he uses "umai", meaning skilled, expertly, etc. I could go with Askilled or Asbexpertly just as easily.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>な、なんだと！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What did you just say?!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕はアスベルをあっ、とスベらせてみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll make him Aslipel, and he'll go, "ahhh!"!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>させるものか！
 俺は、自分の足腰を守ってみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh no you don't!
+I'll protect my legs and back from you!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだな。足腰は大事だもんな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As you should. Our back and legs are important,,,</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -120,7 +123,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -25,39 +25,41 @@
       <JapaneseText>……なるほど。
 ルカ・ミルダにホットドッグを
 買ってこさせればいいんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I see.
+I just need to have Ruca Milda go buy a hotdog.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なぁ、それ自分で買っちゃだめなのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean, can't you just that buy that on your own?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルカ・ミルダに買ってこさせた
 ホットドッグは味も格別……らしい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems when Ruca Milda is the one to purchase
+the hotdog, it ends up tasting exceptional.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ホントかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That right...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -68,7 +70,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

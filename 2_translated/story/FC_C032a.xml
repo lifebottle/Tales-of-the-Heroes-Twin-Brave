@@ -24,30 +24,30 @@
       <PointerOffset/>
       <JapaneseText>ファブレ家っていう貴族の家の息子さんが
 ちょうどこの近くに来てるらしいの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems like the son of House Fabre's royalty is in this area.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>その家で働かせて貰えるように
 頼んでみようよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's see if we can get work at that house over there.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お前はホント、諦め悪いよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You really don't give up, huh.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -58,7 +58,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

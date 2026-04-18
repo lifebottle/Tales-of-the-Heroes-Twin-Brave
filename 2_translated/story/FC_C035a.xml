@@ -24,33 +24,36 @@
       <PointerOffset/>
       <JapaneseText>なによ、あのエルレインって人。
 働かない事が幸せなんて、絶対間違ってる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's with that Elraine person?
+Not having work being happiness is just plain wrong.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ていうか、わざわざそんな事言いに
 出てきたのか？
 あの聖女さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>More like, did she really come out just to say that?
+That holy woman...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いこう、リッド！
 頑張る事の素晴らしさを
 エルレインにも教えてあげなくちゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, Reid!
+We've gotta teach Elraine how wonderful it is to have work!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -61,7 +64,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

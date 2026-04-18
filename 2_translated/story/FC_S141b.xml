@@ -23,78 +23,82 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>シェリア！　怪我はないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cheria! Are you hurt?</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>大丈夫よ。
 あのくらいなんでもないわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm alright.
+That was nothing for me.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……そうか。　よかった。
 だがあまり無茶はするなよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I see. Alright, then.
+But don't do anything too reckless.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>心配しすぎよ、アスベル。
 あなたこそ無茶しないで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You worry too much, Asbel.
+It's you who shouldn't do anything too reckless.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺は無茶などしていない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not doing anything reckless.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それに、誰かを守れるなら
 この身体などどうなっても構わない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But if I'm able to protect someone,
+I don't care what happens to this body.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もう誰も失いたくないんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't want to lose anyone else...</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>アスベル……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Asbel...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -105,7 +109,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

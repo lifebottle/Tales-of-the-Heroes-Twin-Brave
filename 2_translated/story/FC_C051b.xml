@@ -41,103 +41,107 @@
       <JapaneseText>勝負に負けてしまった以上、仕方ないね。
 ファンタジアの主人公の座は
 ゼロスに譲る事にするよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I lost this battle, so there's nothing more to be done about it.
+I yield the role of Phantasia's protagonist to Zelos.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おい！　マジでいいのかよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey! Are you really okay with that?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいのかもなにも、決定事項だからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It doesn't matter if he's okay with it.
+This matter is settled.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やったな、ゼロス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You did it, Zelos!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あとは任せたよ、ゼロス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I leave the rest to you, Zelos.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>じゃあさっそく、ダジャレの練習からだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In which case, you have to start off by practicing your puns.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……へ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Huh?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ファンタジアの主人公の条件は
 ダジャレが達者な事だからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a condition of being Phantasia's protagonist
+that you have to be skilled with puns.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>当然ゼロスも爆笑必至の
 ダジャレを連発してくれないと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So naturally, it's a necessity for you to make puns
+in rapid succession and bring about  bursts of laughter.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だ、ダジャレ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P-Puns...?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>嫌だ！　そんなのモテねぇじゃんよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heck no! That's NOT gonna make me more popular!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -148,7 +152,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

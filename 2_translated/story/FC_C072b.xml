@@ -41,69 +41,72 @@
       <JapaneseText>うわぁ〜。
 ホットドッグのお詫びに
 こんなにおいしいパンをくれるなんて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wow〜! To think he'd give us such delicious
+bread as an apology for the hotdog.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ありがとう！
 これで怒られないですむよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you!
+Now he won't get angry.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>マジうっめぇな、このパン♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This bread is seriously tasty! ♪</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだ！
 お前、俺の屋敷でパン職人として働けよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, you know what!
+You can work at my mansion as a baker!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>断る。
 俺は海の上が性に合ってるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll have to refuse. I'm best suited to the sea.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それに……パン職人は
 朝が早いらしいからな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Plus... bakers gotta get up too early in the morning...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんなに寝たいのか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you really need to sleep that much...?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -114,7 +117,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

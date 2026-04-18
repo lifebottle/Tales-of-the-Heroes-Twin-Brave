@@ -39,77 +39,79 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>これで５人揃ったね、リアラ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All 5 of us are here now, Reala!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まぁ楽しそうだし、おれはいいぜ！
 これからよろしくな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, this sounds fun, so I'm good with it!
+Looking forward to working with you!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>今回は諦めるけど
 次メンバーを考えるときは
 “桃色”としてあたしを呼んでね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll let it go this time, but whenever you have to think
+about your next members, be sure to call me "Pink".</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>呼ばないわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can't call you that.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんでよ！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why not?!!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>メンバーに“桃色”を入れるなら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If anyone in the team was called the "Pink" member...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わたしが入るから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'd have to be part of the team!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>えぇぇぇぇぇ！！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whaaaaa?!!!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -120,7 +122,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

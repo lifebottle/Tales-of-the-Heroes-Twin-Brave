@@ -41,69 +41,74 @@
       <JapaneseText>本当にすまなかった。
 ルークの無礼は俺が代わりに詫びるから
 今日のところは勘弁してくれないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm really sorry about that.
+I apologize on behalf of Luke for his rudeness,
+so would it be possible for you to let today go?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まあ……あんたがそこまで言うなら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well... if you're willing to apologize for him like that and all...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あなたからは誠意が伝わるしね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can tell you're being sincere about it.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ありがとう。
 でも、ルークも決して
 悪いところばかりじゃないんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you.
+But Luke isn't by any means just a bad person.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>んだよ、ガイ！
 いつまで手間取ってんだよ。
 さっさと帰ろうぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the heck, Guy?!
+What are you taking so damn long for?
+Let's go home already!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……ホントに？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Really?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ……たぶん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... Probably.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -114,7 +119,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

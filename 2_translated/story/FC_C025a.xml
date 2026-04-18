@@ -15,21 +15,22 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>おのれ、スタン！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Damn you, Stahn!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕を裏切った罪は重いぞ。
 食欲に負けた事、必ず後悔させてやる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a heavy price to pay to stab me in the back.
+I'll make you regret losing to your apetite.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -40,7 +41,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -24,29 +24,30 @@
       <PointerOffset/>
       <JapaneseText>『絵、見る』でやめときゃ
 マルタのモデル姿拝めたかもしれねぇのに</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>If Emil had just stopped "looking at the picture",
+he might have been able to see Marta as a model.</EnglishText>
+      <Notes>絵、見る is e, mi ru which = Emiru.</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>マルタは……丸太で……えーと</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Marta is... a log... Ummm...</EnglishText>
+      <Notes>丸太 = logs but is pronounced Maruta. Marta's katakana is Maruta.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだよ、考えてる途中だったのかよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the heck? You were thinking that up this whole time?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -57,7 +58,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

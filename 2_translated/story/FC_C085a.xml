@@ -25,52 +25,55 @@
       <JapaneseText>シュヴァルツ……。
 人々の祈りや願いを欲望として受け止めて
 生まれてしまった、世界樹の闇か</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Schwartz... Is she the darkness that was born from the World Tree misunderstanding people's prayers and wishes as just desires?</EnglishText>
+      <Notes>Not sure about this one.</Notes>
       <SpeakerId>17</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こいつをこのままにしておけば
 世界は終わってしまうな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If we leave her be, the whole world will end.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>めんどくせぇな。
 なにが闇だよ。
 意味わかんねぇっつーの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is so annoying.
+What's so dark about those things?
+I don't get this at all.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっちまおうぜ、ガイ。
 こんなわけわかんねぇ奴に
 俺んち壊されてたまるか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's get her, Guy. I'm not gonna let some lady
+I don't even get the point of destroy my house.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>戦う動機はそこなんだな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So that's your incentive for fighting her...</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -81,7 +84,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

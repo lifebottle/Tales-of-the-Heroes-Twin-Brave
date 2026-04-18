@@ -23,98 +23,104 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>……終わったか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Is it over now?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>すまない、クロエ。
 いつも俺のせいで
 戦いに巻き込んでしまって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry, Chloe.
+You kept getting caught up in
+fights because I kept screwing up.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いや、いいんだ。
 私は私の意志でクーリッジに
 手を貸しているのだからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, it's alright.
+I've been offering you my help of my own free will.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうか、ありがとう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gotcha. Thanks.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>その……クーリッジ。
 一つ相談なのだが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, Coolidge.
+There's something I want to talk to you about.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんなに朝起きられないなら
 私が毎日起こしにいってもいいのだぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If it's that hard for you to get up in the morning,
+would it be alright if I came to wake you up everyday?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……ああ、うん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Uh, yeah...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……クーリッジ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Coolidge?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……悪い、寝たりないみたいだ。　帰って寝る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Sorry. Seems like I didn't get enough sleep.
+I'm gonna go on home.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そ、そうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I see...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -125,7 +131,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

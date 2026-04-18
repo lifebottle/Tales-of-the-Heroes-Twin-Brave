@@ -41,89 +41,96 @@
       <JapaneseText>おい、お前！
 赤い髪でヘソだしとか
 俺とキャラかぶらせてんじゃねぇよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, you! Redhead with an exposed midsection?
+Don't you dare make your character design
+exactly like mine!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>すぐに髪黒く染めて来い！
 あと厚着しろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Go dye your hair black right now!
+And put on more clothes.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>かぶってるって言われてもな……。
 オレの方が先にやってたんだぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You say my design is exactly like yours...
+but you realize I had mine done first, right?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うるせぇ！　関係あるか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shut up! That doesn't matter!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こら、ルーク。
 あんまり無茶言うな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enough, Luke.
+Stop talking so recklessly.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、無茶はよくない。
 たしかにヘソ部分に関しては仕方ないが
 性格が違いすぎるから大丈夫だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's right, it's not good to be reckless.
+It's true his exposed midsection is similar to you,
+but your personalities are quite different.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>その通りだな。　心配ないさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Exactly. It's nothing to worry about.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうそう、心配ないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yup, it's nothing to worry about.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うるせぇ！
 お前もガイとかぶってんじゃねぇよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shut up! You're just trying to copy Guy!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -134,7 +141,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

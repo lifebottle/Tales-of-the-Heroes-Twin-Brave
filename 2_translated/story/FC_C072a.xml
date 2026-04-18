@@ -41,80 +41,86 @@
       <JapaneseText>あなたが寝坊して
 船を出してくれなかったせいで
 頼まれたホットドッグが買えなかったよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The boat already left because you slept in so late!
+I couldn't get the hotdog he asked me for!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうしてくれるのさ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are we gonna do now?!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おい、お前！
 俺が乗るはずだった船を
 出航させないなんて、どういうつもりだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, you! What do you mean the boat I
+was supposed to get on already set out?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺を誰だと思ってんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who do you think I am?!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……知るか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...As if I know.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>クーリッジ！
 お前の寝坊で船を逃した相手に対して
 それはあまりにも失礼だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Coolidge! That's extremely rude behavior
+toward someone who missed their ship
+because you overslept.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>てめぇ……許せねぇ！
 痛い目見してやっからな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why you... No way am I gonna let this slide!
+I'm gonna show you a world of hurt for that!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ほ、ホットドッグの
 責任とってもらうからね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I'm gonna have to make you
+take responsiblity for that hotdog!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -125,7 +131,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

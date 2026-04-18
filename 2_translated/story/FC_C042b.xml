@@ -40,69 +40,73 @@
       <PointerOffset/>
       <JapaneseText>英雄の“黒”としてメンバー入り
 おめでとうございます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Congratulations on becoming a
+member here as our "Black" hero!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかったよ。
 やりゃあいいんだろ、やりゃあよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I get it already.
+If I gotta do it, I'm just gonna get it over with.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ところで、さっきから
 ユーリの事ばかり欲しがってるみたいだけど
 僕はいらないのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>By the way, it seems like you've only paid mind to Yuri
+all this time. Do you not want my assistance as well?</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>入りたいのかよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You really want in on this?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……ごめんなさい。
 “黄色”はもう足りているの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I'm sorry.
+We already have enough "yellow"</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>.........</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あっ、オレ“黄色”だったんだ！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah! "Yellow" is me?!!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -113,7 +117,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

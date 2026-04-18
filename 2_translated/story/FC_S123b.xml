@@ -23,100 +23,105 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ま、一応礼は言っとくぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I'll at least say thanks for that.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>素直じゃないな、君は</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're not being very honest.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>本当にいいのか？
 お偉い騎士様が罪人の側なんかにいてもよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is this really okay? A high ranking knight like you being by a criminal's side?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なにを言っているんだ。
 罪人が逃げないように見張っている事に
 なんら問題はないだろう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean? There's nothing wrong with keeping watch over a criminal to prevent them from escaping, right?</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、なるほどな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, so that's how you're gonna play this.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それに、僕も君と同じ考えさ。
 エターナルソードの時を越える力は危険だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Besides, I'm thinking the same thing you are.
+The Eternal Sword's power to pass through
+time itself is dangerous.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>強力すぎる力を求めて
 いつまたあの役人のような人間が
 現れてもおかしくない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If someone sought tremendous power,
+it wouldn't be odd at all for someone like
+that government official to show up one day.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やはり破壊しておくべきだと
 ……僕もそう思う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In the end, it should be destroyed.
+...I believe that, too.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なら、一時休戦ってとこだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In which case, we've got ourselves a temporary truce.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだね。
 そういう事にしておいてくれるかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right. Why don't we just leave it that?</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -127,7 +132,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

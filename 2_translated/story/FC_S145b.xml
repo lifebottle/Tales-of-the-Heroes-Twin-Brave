@@ -23,108 +23,112 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>行ってしまったな、デューク……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So Duke's gone his own way.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>人間を滅ぼす事
 思い直してくれたのかしら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder if he's decided against destroying humanity.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>きっと大丈夫さ。
 シェリアの心は通じたはずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sure it'll be okay.
+Your feelings seem to have gotten through to him.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだと嬉しいわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm glad if that's the case.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>このエターナルソードは……破壊しよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Eternal Sword... We should destroy it.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいの？
 持ち帰るのが国からの命令でしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that alright?
+Didn't the government give an order to bring it back?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいんだ。
 やはりこんな力は誰にも必要ない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's fine. In the end, nobody needs this kind of power.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>大切だと思い合える誰かがいれば
 人は生きていけるんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As long as people have something precious to them,
+they'll be able to survive.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ええ、そうね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, you're right.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>アスベル。
 これからも、私はあなたを守るから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Asbel. From here on, I'm going to protect you, too.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、頼む。
 俺も最後までシェリアを守り抜いてみせるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, please do.
+I'll also be there to protect you until the very end.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -135,7 +139,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -143,7 +147,7 @@
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

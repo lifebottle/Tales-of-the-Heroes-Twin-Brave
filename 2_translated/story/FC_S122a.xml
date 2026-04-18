@@ -15,30 +15,31 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>.........</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……もう嗅ぎつけられたか。
 仕事熱心な事だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So he's already found out, huh.
+He's so earnest about his work.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だが、今はまだ捕まってやれねぇんだ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I can't get caught yet...!</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
