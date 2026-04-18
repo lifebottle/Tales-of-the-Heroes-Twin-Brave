@@ -24,101 +24,110 @@
       <PointerOffset/>
       <JapaneseText>ルカよォ、
 マジであんなヤツの言う事聞くつもりか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, Ruca. Are you really gonna listen
+to what that dude is tellin' ya to do here?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>しょうがないよ、
 あの薬草は本当に貴重で
 僕なんかじゃ手に入れられないんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's nothing I can do about it. That herb is
+really valuable, There's no way someone like
+me would actually be able to get it on my own.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ハッ！
 だからってあんなフザケた
 条件呑むってェのかよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ha! So what, you're just gonna
+accept their stupid ass demands?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>クレス・アルベインって人を倒す……だよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have to beat someone
+named Cless Alvein... right?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あの成金野郎。
 クレスってヤツをよっぽど
 恨んでるみてぇだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That rich ass bastard. Seems to really
+have a big ol' grudge on this Cless guy.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>理由は教えちゃくんなかったけどよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Didn't tell us why, though.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕だって、こんな理由で
 誰かと戦うなんて嫌だよ。
 だけど今はこれしか方法がないんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't wanna fight anyone over something
+like this, either. Right now though, there's
+just nothing else I can do.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>野試合で一回倒すだけなら
 あとで謝れば許してくれるんじゃないかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I beat him in a casual battle,
+he'll forgive me if I apologize, right?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……たぶん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Probably.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ヘッ、どうだかなァ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heh. I wonder 'bout that.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -129,7 +138,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

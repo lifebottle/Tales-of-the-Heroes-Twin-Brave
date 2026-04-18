@@ -23,81 +23,86 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>これでよかったんだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm glad we managed.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ったくよ。　お前は気を遣いすぎなんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geez. You're too considerate.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>過去を変えたいと思う気持ち……。
 それは僕達も彼らも
 きっと同じなのに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The feeling of wanting to change the past...
+I'm sure it's the same for them as it is for us...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>同じモン欲しがりゃ
 どっちかが泣く事になんのは
 しかたねぇだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If people want the same thing, it's a given that
+someone's gonna end up upset about it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いちいち気にしてたらきりがねぇよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you're concerned about every one of them,
+you'll never see the end of it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're right...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いこう、チェスター。
 僕達には、他人を押しやってでも
 叶えたい願いがあるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, Chester. Even if we have to
+push others aside for it, we have a
+wish we want granted.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そういうことだ。
 立ち止まってる暇なんかないぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Exactly. We don't have the time to be stopping.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -108,7 +113,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

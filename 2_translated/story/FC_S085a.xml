@@ -25,31 +25,35 @@
       <JapaneseText>人や街を消し去って
 新たなる命を生み出す力なんて
 使っていいわけがない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The power to eradicate people and cities
+in order to create new life is not a power
+that should be used.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やるぞ、ルーク！
 エターナルソードを破壊する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's do this, Luke!
+We need to destroy the Eternal Sword.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……わかった。
 それが俺の償いの第一歩……だよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Fine.
+That's the first step toward my atonement... right?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -60,7 +64,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

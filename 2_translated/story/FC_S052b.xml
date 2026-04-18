@@ -40,71 +40,75 @@
       <PointerOffset/>
       <JapaneseText>すまなかった。
 まさか私の知人に非があったとは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sorry for that. I would never have guessed
+an acquaintance of mine was the one at fault.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まったく。
 相変わらずクロエはそそっかしいな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geez. As careless as ever, Chloe...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>返す言葉もない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's nothing I can really say to that.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>気にする事ないって。
 ちゃんと説明しなかった
 ゼロスも悪いんだからさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't worry about it. It was Zelos' bad too
+that he didn't even bother to explain
+anything properly.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おいおい、ロイドくん。
 どっちの味方よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey now, Lloyd-kun, who's side are you on?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんなの決まってるだろ
 俺は正直者の味方なんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't that obvious? I'm on the side of honest folk.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>トホホ。
 それって最高の嫌みね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oof. That's the most cutting
+remark you could've made...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -115,7 +119,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

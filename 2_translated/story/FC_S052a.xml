@@ -39,108 +39,115 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ゼロス・ワイルダーだな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Zelos Wilder, correct?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わーお！
 勇ましいレディーもいいねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>WOOOOW!
+A gallant lady like you is nice, too.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>私の家とも近しい名家の騎士が
 貴公に辱めを受けたと訴えている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A knight from a noble family
+close to my own has made the
+complaint that you have disgraced him.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>騎士の誇りを汚す事は何にも勝る狼藉。
 もし本当ならば
 私は貴公を許せはしない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To soil a knight's pride goes far beyond outrage.
+If this is the truth, I will not forgive you!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あーん、凛々しい顔もかわいい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahhh, even that imposing face of yours is cute!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お前！　真面目に話を聞け！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, you! Take what she's saying seriously!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ごめん。　こういう奴なんだよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry. This is just how he is...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>正直に話すつもりはないか。
 ならば腕ずくという事になるが？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you have no intention of
+telling me the truth? In that case,
+will I have to strong-arm the truth out of you?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいんじゃない？
 君みたいな可愛い子と
 お手合わせできるなんて、光栄だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's just fine and dandy.
+I'd be honored to face a cute girl like you.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ね！　ロイドくん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right, Lloyd-kun?!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だからなんで俺に振るんだってば！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>So why are you putting me in the front?!</EnglishText>
+      <Notes>振る here would be "to substitute", but it'd sound awkward if I had Lloyd saying "So why are you subsituting me for you?!".</Notes>
       <SpeakerId>10</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -151,7 +158,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

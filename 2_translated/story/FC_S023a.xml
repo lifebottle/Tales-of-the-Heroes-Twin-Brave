@@ -23,59 +23,62 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>やはりそう簡単にはいかないか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just as I expected, this won't be so easy.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>時を越える聖剣か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A holy sword tthat can pass through time...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんなものを手に入れて、
 ヒューネガルドは何に使うつもりなんだ？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>What is Huegard planning on
+doing with it if he gets ahold it?</EnglishText>
+      <Notes>Revisiting later with context.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいや。
 俺はリオンを信じてる。
 話はあとでゆっくりと聞くよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's fine. I trust you.
+Later on, we can take our time
+and I can listen to your story then.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>.........</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -86,7 +89,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

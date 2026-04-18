@@ -24,40 +24,42 @@
       <PointerOffset/>
       <JapaneseText>くっ、何者かわからないが
 先を越されたようだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gah. I don't know who,
+but someone got here before us.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>急ぐぞ、クロエ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, Chloe!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もしエターナルソードが
 ろくでもない奴の手に渡ったら
 たいへんなことになる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If the Eternal Swords ends up taken
+by some scum, it's gonna be serious!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、わかっている！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, I know!!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -68,7 +70,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

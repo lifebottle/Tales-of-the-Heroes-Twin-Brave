@@ -24,90 +24,96 @@
       <PointerOffset/>
       <JapaneseText>人の命を犠牲にする事で
 新たな命を創り出す魔剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A magic sword that creates new
+life by sacrificing human lives.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>死んだ者すらも創り出せる力……か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A power that can even recreate the dead... huh.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんなもの、使っていいはずがない。
 誰かを犠牲にして命を生み出すなど
 あってはならない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Something like that should not be used.
+Creating life by sacrificing someone
+cannot be allowed!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And yet...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>クロエ？
 聞いてるのか、クロエ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chloe? Can you hear me, Chloe?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え、あ、え！？
 どうした、クーリッジ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh, wha, huh?!
+What is it, Coolidge?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なにボサッとしてるんだ？
 やっとデュークに追いついたんだぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you doing blanking out?
+We've finally caught up to Duke!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>魔剣エターナルソードなんて
 絶対に使わせるわけにはいかない！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>We can't let him use the demonic
+Eternal Sword no matter what!</EnglishText>
+      <Notes>Need to make a note of this for myself as well, but 魔 can mean magic or devil/evil. When I finish the tl, I'll figure out if I need to be using magic or evil/demonic/etc.</Notes>
       <SpeakerId>14</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あ、ああ。
 もちろんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-Yeah. Of course...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -118,7 +124,7 @@
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

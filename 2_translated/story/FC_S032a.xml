@@ -25,31 +25,33 @@
       <JapaneseText>許せない！
 お金のない村から
 さらに物を奪おうだなんて！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unforgivable! How dare they steal even more
+from a village that already has no money!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ったく。
 金持ちってのはこれだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geez. That's how rich folks are.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>行こう、リッド！
 村のみんなを守らなくちゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, Reid!
+We've gotta protect the people of this village!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -60,7 +62,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

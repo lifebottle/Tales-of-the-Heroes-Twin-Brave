@@ -16,30 +16,32 @@
       <PointerOffset/>
       <JapaneseText>魔剣でルークを消せば
 姉上が生き返る……か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I use the magic sword to get rid of Luke,
+my sister will come back to life... huh.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……何を考えているんだ、俺は！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...What the heck am I thinking?!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっぱりルークに会わなくちゃな。
 あいつの為にも……俺自身の為にも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I need to hurry and meet up with Luke.
+For his sake... and my own.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -50,7 +52,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

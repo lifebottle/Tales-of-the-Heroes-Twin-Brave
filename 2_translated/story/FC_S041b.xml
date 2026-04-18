@@ -24,81 +24,85 @@
       <PointerOffset/>
       <JapaneseText>じゃあカイルは
 十年以上先の未来からやってきたというの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you came here from ten years in the future?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>う〜ん。
 そういう事になるみたいだね。
 難しい話はよくわかんないけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeahhhh. That seems to be what's going on.
+I don't really get stuff that's tough to
+understand, though.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>きっと運命ね。
 カイルがここに来てくれた事は</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It must be fate that you came here.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>少なくともわたしは
 来てくれたのがカイルでよかったと思ってる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At the very least, I'm grateful you're here.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わたしの事
 人形じゃないって言ってくれて嬉しかったわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I was happy to hear you say I'm not just some doll.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なに言ってるのさ。
 そんなのあたりまえだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you talking about?
+Isn't that just obvious?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……うん。
 それが当たり前に言えるからこそ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Yeah. If nothing else, it's BECAUSE
+you can say it like it's so obvious.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カイル、あなたはわたしの英雄ね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle, you are my hero.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -109,7 +113,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

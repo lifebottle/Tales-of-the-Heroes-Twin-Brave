@@ -40,70 +40,73 @@
       <PointerOffset/>
       <JapaneseText>僕達にはエターナルソードが必要なんだ。
 渡してくれないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We need the Eternal Sword.
+Will you hand it over?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それは……出来ません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I... can't do that.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんでだよ！
 お前達にオレ達の邪魔をする
 権利なんてあんのかよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why not?! What, do you guys think you
+have the right to get in our way like this?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>今のエターナルソードは
 使っちゃいけないんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't use the Eternal Sword right now!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうしても渡せねぇってなら
 力ずくで奪うまでだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you won't hand the Eternal Sword over,
+we'll take it by force!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>気は進まないけど……仕方がないね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't want to do this... but we have to.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ダメなんだ！
 今のエターナルソードは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dammit! The Eternal Sword is...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -114,7 +117,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -122,7 +125,7 @@
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

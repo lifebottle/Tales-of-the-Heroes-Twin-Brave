@@ -24,31 +24,34 @@
       <PointerOffset/>
       <JapaneseText>エターナルソードは使わせねぇ。
 デュークを止めるぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can't let him use the Eternal Sword.
+We've gotta stop Duke.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やろう、リッド！
 デュークにわからせてあげなきゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's do this, Reid!
+We've gotta make Duke understand.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>この世界は、滅ぼさなきゃいけない程
 ひどいものじゃないって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This world isn't so terrible
+that it needs to be destroyed!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -59,7 +62,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

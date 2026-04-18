@@ -24,31 +24,34 @@
       <PointerOffset/>
       <JapaneseText>なによ！
 あたし達野菜泥棒なんてやってないのに！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the heck!
+We weren't even stealing vegetables!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ごめん。
 オレが獣人だから疑われてるんだよな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry.
+They're suspicious because I'm a beastman...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな事今はどうでもいいってば！
 早く逃げましょう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That doesn't matter right now!
+Let's hurry and get out of here!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -59,7 +62,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

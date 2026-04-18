@@ -23,31 +23,33 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ここにエターナルソードがあるんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So this is where the Eternal Sword is.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>魔物もいっぱいいるみたいね。
 気を引き締めていきましょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It looks like there are a ton of monsters here...
+We have to stay alert.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、やるぞ。
 神様をぶん殴る為に！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, let's do this.
+So we can punch God!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -58,7 +60,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

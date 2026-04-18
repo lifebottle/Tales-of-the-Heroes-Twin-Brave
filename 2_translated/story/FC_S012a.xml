@@ -25,33 +25,38 @@
       <JapaneseText>やはり時を越える聖剣ともなると
 求めているのは
 僕達だけじゃなかったみたいだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just like one could expect, it seems like we
+aren't the only ones looking for the holy sword
+that can pass through time itself.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>知るかよ。
 オレらには譲れねぇ理由があるんだ。
 相手が誰だろうとな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heck if I care. We've got our reasons, and we
+can't give this thing up. Doesn't matter who
+our opponent might be.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだね。
 村のみんなの為にも
 ここで退くわけにはいかない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. For the sake of everyone
+in the village, we can't retreat!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -62,7 +67,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -40,107 +40,111 @@
       <PointerOffset/>
       <JapaneseText>エターナルソードを
 あなた達に渡すわけにはいきません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't hand the Eternal Sword over to you.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうして！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why not?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……ごめんなさい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I'm sorry.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>謝られてもわからないよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You apologizing won't help me understand!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>責めないであげてよ。
 リアラが悪いわけじゃないんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't fault her for this.
+Reala's not the one to blame here.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>渡さないって言われて
 はいそうですかって納得できるわけあるか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How are we supposed to just say,
+"okay, that's alright", when she says that to us?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレ達にはエターナルソードの力が
 必要なんだ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We need the Eternal Sword's power!!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それが目の前にあるのに
 諦められるわけねぇだろう！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The thing's right in front of us! We're not giving up!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕もチェスターと同じ意見だ。
 ここまで来て
 諦めて帰る事なんてできない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My feelings are the same as Chester's.
+We can't give up and go home after
+we've made it this far!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>来るの！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you gonna fight us over it?!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>仕方ないわ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So there's nothing else to be done about it...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -151,7 +155,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

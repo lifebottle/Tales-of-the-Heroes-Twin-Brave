@@ -24,80 +24,86 @@
       <PointerOffset/>
       <JapaneseText>ンだよ、この無駄な大冒険。
 終わりが見えねェ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the heck is up with this
+useless grand adventure?
+Ain't no end in sight...</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ご、ごめんね。
 いつの間にかこんな事になっちゃって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I'm sorry. This is just how it
+ended up before I even realized...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ったく。
 マジでお前はしょうがねェヤツだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeesh. You seriously are a lost cause.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……ごめん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Sorry.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>謝ってんじゃねぇよ。
 お前のそういうとこだけは
 悪くねェと思ってんだからよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't apologize for it. Heck, I think that's
+the one about ya that ain't even bad.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>行くぜ、ルカ！
 イケてるだかコケてるだか知らねぇが
 鳥退治によ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Let's go, Ruca! Heck if I know if we're gonna look
+cool doin' this or if we're gonna flop like
+dumbasses, but it's bird extermination time!</EnglishText>
+      <Notes>Not sure if 鳥退治 is literal here.</Notes>
       <SpeakerId>21</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -108,7 +114,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

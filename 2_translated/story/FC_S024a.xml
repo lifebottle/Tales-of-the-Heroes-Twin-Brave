@@ -16,41 +16,44 @@
       <PointerOffset/>
       <JapaneseText>こんなことになるなんて……。
 俺がリオンを信じた事が間違いだったのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How did it turn out like this...?
+Was I wrong to trust Leon?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……いいや、まだだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...No, I can't think that yet!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>信じるって決めたんだ。
 だったら最後の最後まで
 俺はリオンを信じ抜いてみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I decided to believe in him. So that's exactly
+what I'm gonna do, right to the very end!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>リオン、お前の本当の心を
 俺に聞かせてくれ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leon, I'll get you to tell me
+what's really in your heart!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -61,7 +64,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

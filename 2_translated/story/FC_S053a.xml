@@ -23,92 +23,99 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>どういう事だ、ゼロス！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's the meaning of this, Zelos?!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>何度も同じ事言わせないで欲しいね。
 俺さまは世界樹を破壊する為に
 ここまで来たんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How many times are you gonna want me to
+repeat the same thing? I came all this way to
+destroy the World Tree.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんで……なんでそんな事を！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why...? Why would you do something like that?!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>世界樹はマナを生み出す大切な存在なんだぞ！
 壊れてなくなったりしたら
 それこそ世界は終わっちまう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The World Tree is a precious existence
+that creates life! If it's destroyed, it would
+be over for the whole world!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>知ってるよ、そんな事。
 だけど、俺さまには関係ないね。
 世界がどうなろうとさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know all that stuff.
+But that doesn't mean a thing to me.
+Whatever happens to the world and all.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>本気で言ってるのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you serious?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>しつこいね。
 俺さまはいつだって本気だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're so persistent. I'm always serious.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これ以上話しても意味ないだろ。
 じゃあね、もう行かせてもらうよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's no point in talking about this anymore.
+See ya. I'll be going now.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>待て！
 行かせるわけにいくか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait! I'm not letting you get away!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -119,7 +126,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

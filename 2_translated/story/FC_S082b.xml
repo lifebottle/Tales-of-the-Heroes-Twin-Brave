@@ -16,20 +16,21 @@
       <PointerOffset/>
       <JapaneseText>追っ手は増えるばかりだな。
 早く助けてやらないと</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>His pursuers are only increasing.
+I have to hurry and help him.</EnglishText>
+      <Notes>Will recheck later for context on gender subject matter.</Notes>
       <SpeakerId>17</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>すぐに行ってやるからな、ルーク……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll be there right away, Luke...</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -40,7 +41,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

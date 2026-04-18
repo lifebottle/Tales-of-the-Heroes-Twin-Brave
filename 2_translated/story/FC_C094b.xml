@@ -24,39 +24,41 @@
       <PointerOffset/>
       <JapaneseText>もう！
 カイウスが鼻の下伸ばしたりするから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Honestly! That happened
+'cause you were ogling them!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>待て待て待てよ！！
 オレがいつ鼻の下伸ばしたんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, wait, wait right there!!
+When was I ogling them?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>心の中で伸ばしてたでしょ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You were ogling them in your mind, I just know it!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>心の中に鼻があるのか！？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>How the heck do you "just know it"?!</EnglishText>
+      <Notes>This is based on JP wordplay, so it's not really possible to accurately tl this.</Notes>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -67,7 +69,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

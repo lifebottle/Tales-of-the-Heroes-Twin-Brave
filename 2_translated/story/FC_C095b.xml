@@ -25,58 +25,61 @@
       <JapaneseText>もう！
 カイウスがちゃんとしないから
 みんなに勘違いされるんじゃない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Honestly! If you just did things the right way,
+everyone wouldn't be getting these
+misunderstandings with us!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お、オレのせいなのか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Th-This is MY fault?!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうよ！
 ぜーーんぶ、カイウスが悪いの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right!
+Aaaaall of this is your fault.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ひでぇな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're horrible...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>諦めなさいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just give up already.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あたし達、これからもずっと
 このままなんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're aaalways gonna be like this.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -87,7 +90,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -23,70 +23,73 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>カイル、わたしもう迷わない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle, I won't hesitate anymore.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わたしはカイルと一緒にいたい。
 あなたを消したくなんかない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to be with you.
+I don't want you to be erased.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも……逃げちゃいけないのね
 だってここで逃げたら
 カイルは英雄じゃなくなってしまう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But... I can't run away from this.
+If I do, you won't be a hero anymore.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>リアラ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わたしが信じて
 カイルがその道を切り開いてくれる。
 それがわたしの英雄……カイルだもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I believe in you, and I know you'll carve out a path.
+That's how my hero is... That's how you are, Kyle.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん、そうだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, that's right!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>行きましょう、エルレインのもとへ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go. To where Elraine is...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -97,7 +100,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

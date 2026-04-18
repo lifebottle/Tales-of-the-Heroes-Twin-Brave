@@ -40,62 +40,68 @@
       <PointerOffset/>
       <JapaneseText>誰であろうとエターナルソードを
 使わせるわけにはいきません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No matter who you are,
+I cannot let you use the Eternal Sword.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>デュークはもちろんのこと、
 あなた達にも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Naturally that includes Duke, as well as you two.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>デュークからエターナルソードを
 奪い返す役目は、オレ達が引き受けるよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's our role to get the
+Eternal Sword back from Duke!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ふざけるなよ。
 理由も聞かされずにただ関わるなって言われて
 それで黙って引き下がれるか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cut the crap. You don't even give us a reason,
+and yet you want us to back off. As if we're
+just gonna shut up and walk away!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>クーリッジの言う通りだ。
 私達には、私達の理由がある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's exactly as Coolidge says.
+We have our own reasons.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>父様と母様のため
 絶対に諦めるわけにはいかない！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For my father and mother,
+I will absolutely never give up!!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -106,7 +112,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

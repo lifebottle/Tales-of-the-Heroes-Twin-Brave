@@ -23,32 +23,36 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ここまで来たら、もう迷わないわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now that we've come this far,
+there's no turning back.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やろう、リアラ！
 これ以上エルレインを放っておいたら
 きっと大変な事になる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, Reala!
+If we leave Elraine be any longer,
+it's definitely gonna be a problem!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ええ、そうね。
 終わらせましょう。　この戦いを……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, that's right.
+Let's put an end to this battle...!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -59,7 +63,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

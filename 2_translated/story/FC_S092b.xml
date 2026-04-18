@@ -25,90 +25,95 @@
       <JapaneseText>まったく。
 ああいう思い込み激しい人は
 嫌になっちゃうわ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Honestly. I can't stand people who
+just jump to conclusions like that.</EnglishText>
+      <Notes>Will come back to this after having more context.</Notes>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まあまあ。
 あの人も悪気はなかったんだしさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now, now. They didn't seem like bad people.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな事わかってるわよ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know that already!!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ははっ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haha.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なに笑ってるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you laughing for?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルビアくらいなもんだよな。
 オレに対しても普通の人と同じように
 怒ったりしてくれるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a you thing. You get angry at me
+just like you would a normal person.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なに変なこと言ってるのよ？
 カイウスがバカな事するんだから
 怒るのは当たり前じゃない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why are you saying something weird?
+If you say something stupid, of course
+I'm gonna get angry!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……そうだな。
 そういうもんだよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Yeah. That's how it is.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……？
 変なカイウス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...?
+Caius, you're weird.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -119,7 +124,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

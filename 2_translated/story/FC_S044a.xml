@@ -41,50 +41,55 @@
       <JapaneseText>お前達か。
 魔剣エターナルソードを使い
 人々を混乱に陥れようとしているのは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So it's you guys. You're the ones
+using the demonic Eternal Sword
+to throw people into chaos.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちがう！
 オレ達はそんな事考えてない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No!
+We don't even think about doing things like that!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>エルレインから聞いたわ。
 あなた達が抵抗するだろうという事も</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We heard from Elraine.
+She also warned us that you would resist.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くっ、また戦うしかないの？
 やろう、リアラ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tch. Do we have to fight again?
+Let's do this, Reala!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ええ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -95,7 +100,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

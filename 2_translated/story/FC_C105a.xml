@@ -25,42 +25,46 @@
       <JapaneseText>ハァ……。
 まさかエビの為に
 世界樹まで来る事になるなんてよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heck if I knew I'd be comin' all the way
+to the World Tree for shrimp.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……うん、僕も考えもしなかったよ。
 ガイの言ってた『ある場所』が
 世界樹だったなんて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Yeah, I didn't expect it either. That the place
+Guy was talking about was the World Tree.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でもとにかくいこう。
 ガイにエビを届けるために</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But anyway, we should get going.
+We have to get this shrimp to Guy.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まためんどくせェ事に
 なんなきゃいいけどな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Be nice if this didn't end up
+another bothersome situation.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -71,7 +75,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

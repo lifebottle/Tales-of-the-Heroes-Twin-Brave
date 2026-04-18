@@ -24,38 +24,39 @@
       <PointerOffset/>
       <JapaneseText>イヤ、おかしくね？
 焼き魚なんざ誰が作っても一緒だろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, isn't this just ODD? This grilled fish
+tastes the same no matter who it is makin' it!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>つーか焼くだけじゃねェか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heck, all you gotta do is grill the damn thing!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>で、でも一応頼まれたんだし……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>B-But... we were asked if we could do it...</EnglishText>
+      <Notes>Not sure about this in context.</Notes>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>頑張ろう、スパーダ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We have to do our best, Spada.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -66,7 +67,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>
