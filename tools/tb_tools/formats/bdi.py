@@ -1,3 +1,4 @@
+import gzip
 import json
 import mmap
 import struct
@@ -9,6 +10,7 @@ from typing import BinaryIO
 
 from tqdm.rich import tqdm
 
+GZIP_MAGIC = b"\x1f\x8b"
 
 @dataclass
 class BdiFile:
@@ -18,6 +20,7 @@ class BdiFile:
     # Marks either NBI (False) or everything else (True)
     is_file: bool
     rel_path: Path
+    is_compressed: bool = False
 
 
 class Bdi:
@@ -76,8 +79,6 @@ class Bdi:
         # Format starts with an index table using the lower N bits of
         # the filename CRC32 hash as the index, each entry is a short
         # so skip that
-        # While this allows for arbitrary file replacements, we just
-        # ignore it and get the underlying files
         fp.seek((1 << self._crc_bits) * 2)
 
         # First 2 entries are dummies that hold the file count and
@@ -99,8 +100,13 @@ class Bdi:
 
             file_path = Path(self.name_map.get(file_hash, f"_no_name/${file_hash:08X}"))
             file = BdiFile(file_hash, file_off, file_size, flag, file_path)
+            file.is_compressed = self._is_gz_file(file)
             self.files.append(file)
             self.file_map[file_hash] = file
+
+    def _is_gz_file(self, p: BdiFile) -> bool:
+        start = p.offset
+        return self._mm[start:start + 2] == GZIP_MAGIC
 
     def _read_blob(self, p: BdiFile) -> tuple[Path, bytes]:
         fp = self._fp
@@ -113,6 +119,10 @@ class Bdi:
         end = start + p.size
 
         b = mm[start:end]
+
+        # Handle gzipped files
+        if p.is_compressed:
+            b = gzip.decompress(b)
 
         # Handle scrambled audio
         if p.rel_path.suffix in (".na", ".at3"):
