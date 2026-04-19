@@ -18,6 +18,7 @@ def tools_main():
 
     file_group = subparsers.add_parser_group("Single File tools:")  # type: ignore
     tb_tools.scripts.bdi.add_subparser(file_group)
+    tb_tools.scripts.arc.add_subparser(file_group)
 
     args = parser.parse_args()
     args.func(args)
