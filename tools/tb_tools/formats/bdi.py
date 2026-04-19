@@ -8,6 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import BinaryIO
 
+from tb_tools.formats.arc import ARC_MAGIC
 from tqdm.rich import tqdm
 
 GZIP_MAGIC = b"\x1f\x8b"
@@ -21,6 +22,7 @@ class BdiFile:
     is_file: bool
     rel_path: Path
     is_compressed: bool = False
+    is_arc: bool = False
 
 
 class Bdi:
@@ -101,12 +103,17 @@ class Bdi:
             file_path = Path(self.name_map.get(file_hash, f"_no_name/${file_hash:08X}"))
             file = BdiFile(file_hash, file_off, file_size, flag, file_path)
             file.is_compressed = self._is_gz_file(file)
+            file.is_arc = self._is_arc_file(file)
             self.files.append(file)
             self.file_map[file_hash] = file
 
     def _is_gz_file(self, p: BdiFile) -> bool:
         start = p.offset
         return self._mm[start:start + 2] == GZIP_MAGIC
+
+    def _is_arc_file(self, p: BdiFile) -> bool:
+        start = p.offset
+        return self._mm[start:start + 8] == ARC_MAGIC
 
     def _read_blob(self, p: BdiFile) -> tuple[Path, bytes]:
         fp = self._fp

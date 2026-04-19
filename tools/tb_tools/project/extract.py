@@ -8,6 +8,7 @@ from pycdlib import pycdlib
 from tqdm.rich import tqdm
 
 import tb_tools.project.paths as tb_paths
+from tb_tools.formats.arc import Arc, ARC_MAGIC
 from tb_tools.formats.bdi import Bdi
 
 __SCRIPT_CMD = "extract"
@@ -94,6 +95,30 @@ def extract_iso(iso_path: Path) -> None:
     iso.close()
 
 
+def extract_arcs() -> None:
+    print("Extracting Arc Game files...")
+
+    _opath = tb_paths.extracted_files / "arc"
+    _bdi = tb_paths.namco_bdi
+    _hsh = tb_paths.hashes
+    with Bdi(_bdi, _hsh) as b:
+        arcs = []
+        for file in b.files:
+            if file.is_arc:
+                arcs.append(file)
+
+        for file in (pbar := tqdm(arcs)):
+            rel_path, data = b._read_blob(file)
+            pbar.set_description(rel_path.as_posix())
+
+            arc = Arc(data)
+            out_path = _opath / rel_path.with_suffix("")
+            out_path.mkdir(exist_ok=True, parents=True)
+            for file in arc.files:
+                o = out_path / file.name
+                o.write_bytes(file.data)
+
+
 def decrypt_eboot() -> None:
     in_path = tb_paths.original_eboot
     out_path = tb_paths.decrypted_eboot
@@ -106,7 +131,7 @@ def extract_files() -> None:
     _bdi = tb_paths.namco_bdi
     _hsh = tb_paths.hashes
     with Bdi(_bdi, _hsh) as b:
-        b.save_all_p(tb_paths.extracted_files / "all")
+        b.save_all_p(tb_paths.bdi_files)
 
 
 def add_arguments_to_parser(parser: argparse.ArgumentParser):
@@ -121,6 +146,11 @@ def add_arguments_to_parser(parser: argparse.ArgumentParser):
         action="store_true",
     )
     parser.add_argument(
+        "--unarc",
+        help="Extract all ARC files",
+        action="store_true",
+    )
+    parser.add_argument(
         "--iso",
         help="Path to the game's .iso file",
         default=None,
@@ -129,6 +159,9 @@ def add_arguments_to_parser(parser: argparse.ArgumentParser):
 
 
 def process_arguments(args: argparse.Namespace):
+    if args.unarc:
+        extract_arcs()
+        return
     main(args.iso, args.iso_only, args.xml)
 
 
