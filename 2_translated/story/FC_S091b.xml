@@ -23,111 +23,118 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ねぇ、カイウス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, Caius.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's up?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カイウスは
 過去を変えたいって思った事ないの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you ever wanted to change the past?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あるよ。　何度もある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have. Plenty of times.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だけどそんな事出来ないさ。
 たしかに今まで辛い事もいっぱいあったけど
 オレには大切な思い出だってある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I can't do something like that. It's true I've
+been through a lot of hard times up through
+now, but I have a bunch of precious memories.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そういう思い出が詰まった
 “今”を否定する事なんて、オレには出来ない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't just deny "right now" to myself,
+when it's full of memories like that.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だから変えちゃいけない。
 受け入れなきゃいけないんだ。
 どんな運命でも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why we can't change it.
+We have to accept it.
+No matter what our fate is...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それはわかってるんだ。　だけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I do know that. But...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっぱりこんなのむかつくんだ！
 どうして獣人なんてものを作った！？
 気に入らない！　腹が立つ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In the end, it's still so aggravating! Why did I
+have to be a beastman?! I hate it! It's infuriating!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だからオレは
 一発ぶん殴ってやりたいんだ！
 運命を作った神って奴を！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why I wanna get a punch in on him!
+The guy who made fate a thing!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ホント……バカね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You really... are dumb, huh.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -138,7 +145,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

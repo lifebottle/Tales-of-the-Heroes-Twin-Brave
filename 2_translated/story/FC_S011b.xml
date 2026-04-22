@@ -39,124 +39,129 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>負けちゃったね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We lost, huh...</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ごめん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なに謝ってんだよ、クレス
 勝負の結果なんだから仕方ねぇだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you apologizing for, Cless?
+This is the result of the battle,
+so this is just how it is.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、お前達を責めるつもりはない。
 こうなれば、取るべき道はひとつだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right, and I don't plan to blame you.
+If this is how it is, there is a path we musut take.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まさか、奪おうってのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're not saying you're
+gonna try to steal it, are you?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>走るぞ、ジュード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's flee, Jude.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>えぇぇぇぇぇぇ！！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>HUUUUUUH?!!!</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>隣町まで、列車に乗っても
 半日以上かかるんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It takes more than half a day to get to
+the next town even by train, you know?</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>心配ない。
 いつかは着く</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't worry. We'll make it there at some point.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そりゃそうだろうけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean, that's true, but...</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>って、ちょっとミラ！！
 待ってよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, hold on, Milla!! Wait up!</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>行っちゃった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They left...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>変な奴らだったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What weirdos.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -167,7 +172,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

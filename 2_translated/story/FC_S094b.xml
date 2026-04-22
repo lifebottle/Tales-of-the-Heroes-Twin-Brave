@@ -31,110 +31,118 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>消えた！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She disappeared?!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おそらくは戻ったんだと思います。
 世界樹の所に</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think she most likely went back.
+To where the World Tree is.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>世界樹だって？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did you say, to the World Tree?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あれは世界樹に向けられた
 願いや祈りの反動で生まれた
 言わば世界樹の闇</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She was born as a reaction to the wishes
+and prayers directed at the World Tree.
+The darkness of the World Tree,
+you could call it.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな奴が
 なんでエターナルソードをとっていくんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why would someone like that
+take the Eternal Sword?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……わかりません。
 でも、とても悪い予感がします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I don't know. But I have a very
+bad premonition about this.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お願いです。
 世界樹のもとへ行き
 エターナルソードを取り返してください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I beg you. Please go to the World Tree
+and get the Eternal Sword back from her.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>間違った使い方をされれば
 世界はたいへんな事になってしまう……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If used incorrectly, the world
+itself will be in terrible danger!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかった。
 取り戻せばいいんだな、あいつから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gotcha. We just gotta get that thing back from her.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>行きましょう、カイウス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, Caius!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -145,7 +153,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -153,7 +161,7 @@
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

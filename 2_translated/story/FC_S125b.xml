@@ -23,127 +23,136 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>連れてけよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Take me away.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ユーリ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yuri...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>言っただろ？
 裁かれる覚悟は出来てるってよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I told you, didn't I?
+I'm prepared for my judgement.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それに、いいもんが聞けた。
 オレの覚悟がお前の覚悟を
 呼び寄せたってなら、悪くねぇ結末だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Plus, what I heard from you was a good thing.
+If my resolve brought your resolve to the surface,
+this isn't a bad conclusion.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>その代わり、最後の言葉、絶対に忘れんなよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In exchange, make sure you
+never forget my last words.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もちろんだ。
 僕は君とは違う道を貫き通してみせる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course. I will persist with my path,
+that which is different from yours.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>その上で、間違えた道を選んだ君を
 ずっと責め続け、でもだからこそ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Moreover, I've always criticized you for
+choosing the wrong path, but that's why...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>親友として、尊敬し続けるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will continue to respect you as my dearest friend.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お前はホント……甘いよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You really are... naive, y'know.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも、そうだな。
 甘くて堅物だが、信じてやるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But you're right.
+You're naive and stubborn, but I believe in you.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あとは任せたぜ、フレン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll leave the rest to you, Flynn.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やってみせるさ。
 もう君のような者が現れないようにね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll show you.
+Nobody like you will have to appear again.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、オレで最後にしろ。
 こんな奴はな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. Make it so I'm the last one.
+The last one who has to be like this...</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -154,7 +163,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -162,7 +171,7 @@
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

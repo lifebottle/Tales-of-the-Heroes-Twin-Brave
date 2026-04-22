@@ -23,120 +23,130 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>げほっ、げほっ、げほっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*COUGH* COUGH* COUGH*</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はぁ……死ぬかと思った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haa... I thought I was going to die.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……クロエとか言ったな。
 お前バカだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I told you, didn't I, Chloe?
+You're such an idiot.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>な、ば、バカだと！？
 無礼な！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wha--?! I-Idiot?! How rude!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なにが無礼だ！
 泳げないくせに、なんであんなボロ船で
 川を渡ろうとした！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What about it is rude?! You can't even swim,
+and yet you decided to try to cross the river
+in that run-down boat?!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺が助けなきゃ死んでたんだぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I hadn't saved you, you'd be dead!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>し、仕方がないだろう。
 ご老人が、向こう岸に渡りたいのに
 橋がないと困っていたんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Th-There was nothing else I could do,
+you know? That elderly man was in
+a bind because there was no bridge,
+and he wanted to get to the other side.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>無事、向こう岸に送り届けたはいいが
 まさか戻る途中で船が壊れるとは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I was able to see him off safely on the
+other side, but I had no idea the boat
+would break like that on the way back...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>本当に死ぬかと思った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I really thought I was about to die.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>む！？　なんだ？
 あちらから助けを呼ぶ声がする！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hm?! What's that? I hear someone
+calling out for help from over there!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こうしてはいられない！
 すまないが話はあとにしてくれ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't just stay here!
+Sorry, but we'll have to talk about this later!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おい、待て！
 話は最後まで聞け！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, wait! Listen to me until I'm done, dammit!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -147,7 +157,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

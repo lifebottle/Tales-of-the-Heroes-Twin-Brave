@@ -32,121 +32,132 @@
       <PointerOffset/>
       <JapaneseText>やめろ、ヴェイグ！
 何考えてやがんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stop, Veigue! What the heck are you thinking?!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おそらくオレの氷は
 自然やマナに程近い力なんだろう。
 だからマナ枯渇の影響を受けて暴走した</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My ice is most likely close in relation to
+nature and Mana, right? That's why it went
+berserk as an effect of the Mana drying up.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だが、力の本質が近いなら
 オレの力を世界樹に
 注ぎ込んでやる事も可能なはずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But if the essence of our powers are
+close in relation to them, then it should
+be possible, in that case, for me to pour
+my power right into the World Tree itself.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>無駄なことはやめときな。
 たかが人間一人分の生命力じゃ
 世界樹は蘇らねぇよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stop doing reckless stuff.
+The life force of just one man isn't 
+gonna be enough to revive the World Tree.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>少しだけでいいんだ。
 村の氷を溶かせるだけの力さえ
 取り戻してくれれば……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just a small amount is fine. If I can get just enough
+of its power to melt the ice affecting the village...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな事のために
 お前は全生命力を使い果たすのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And you're just gonna up and use all
+your life force on something like that?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>よせよ、ヴェイグ！
 どういう事かわかってんのか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Knock it off, Veigue!
+Do you even get what that would mean?!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>死んじまうんだぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're gonna die, you know?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……わかってる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I know.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかってねぇよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You sure DON'T get it!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……すまない。　オレは行く</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I'm sorry. I'm going.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>行かせねぇぞ、ヴェイグ。
 ぶん殴ってでも、止めてやる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I won't let ya go, Veigue.
+Even if I gotta punch ya, ya ain't goin'!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -157,7 +168,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

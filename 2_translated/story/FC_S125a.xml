@@ -31,100 +31,107 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>魔剣エターナルソード！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Demonic Eternal Sword?!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そう。
 生け贄に捧げた命と同数の
 新しい命を生み出す、まさに奇跡の剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right. A truly miraculous sword,
+which gives birth to new life equal to the
+number of lives offered to it as sacrifices.</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それが今のエターナルソードなのです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That is the Eternal Sword now.</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どっちみち危険だって事に変わりはねぇ。
 だったらやる事も変えるつもりはねぇよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Either way, doesn't change the fact that
+it's dangerous. In which case, I have no
+plans to change what I'm about to do here.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ユーリ。
 エターナルソードの力を使えば
 あなたの罪も許されるのですよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yuri. If you use the power of the
+Eternal Sword, your sins will be forgiven.</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あなたを認めない、
 あなたを罰しようとする人間をすべて
 消し去ってしまえばいいのですから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You could erase all those who do not
+accept you and would punish you.</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>言いたい事はそれだけか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that all you're gonna say?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……なんですって？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...What did you say?</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>悪いが、戯れ言に付き合う趣味はねぇんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry to say, but I'm not interested in your jokes.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それに気分も悪い。
 気に入らねぇんだよ、てめぇの考え方……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not to mention, you make me sick.
+I can't stand the way you think...!</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -135,7 +142,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -143,7 +150,7 @@
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

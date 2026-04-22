@@ -33,60 +33,64 @@
       <JapaneseText>テメェ！
 なんで世界樹の神子が
 世界樹ぶっ壊そうとしてんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, asshole! Why is the Chosen
+of the World Tree tryna destroy it?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんていうか〜もううんざりなんだよね〜。
 神子の使命とか？　運命とか？
 俺さまそういうのウザくってさぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How to say this... It's so tedious.
+Stuff like, the Chosen's mission? Or fate?
+That stuff's so tedious to me.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だから……世界樹を壊すっていうの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So... you want to destroy the World Tree?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんなの勝手すぎるよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's incredibly selfish!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なに？
 勝手に生きちゃいけないの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What? Can I not live however I wanna?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やるぞ、ルカ！
 こんな腐った野郎に止められてたまるか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's get 'im, Ruca! I ain't lettin'
+this depraved asshole stop us!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -97,7 +101,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

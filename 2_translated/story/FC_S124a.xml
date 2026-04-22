@@ -33,90 +33,99 @@
       <JapaneseText>農作物が育たなくなっていたオレの故郷は
 ある人の援助によって
 なんとか生き長らえてきた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Due to the aid of a certain person,
+we managed to survive in my hometown,
+where crops could no longer be grown.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>みんなが生きていけるだけの
 資材を送ってくれたその人は村の出身で
 今は別の村の役人を務めていた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That person, who dispatched the raw material
+that was enough for us to survive, came from
+our village. He was now employed as a
+government official in another village.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まさかそれは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't mean...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレ達の村の恩人を
 お前が殺したんだ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You killed our village's benefactor...!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...!</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あの人はずっとオレ達を支えてくれた。
 それだけじゃない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That person always sustained us.
+And that's not all.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレの……オレのせいで
 氷に包まれてしまった村のみんなを
 救い出す方法も、考えてくれると言った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because of me... Because of me and my
+ice power, he said he would think of a way
+to free everyone in the village.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな人を、お前は……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And that person, you...!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレはお前を許さない。
 許す事は出来ない……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will not forgive you.
+I CAN'T forgive you for this...!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -127,7 +136,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -39,111 +39,118 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうやら、謝らねばならないらしいな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In this case, it would seem I
+need to make an apology.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>生半可な気持ちなどと言って悪かった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I was mistaken to believe you two were
+going to be half-hearted about this.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あっ、いえ。
 べつに僕は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, no. I'm not really...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>君はすごいね。
 みんなを助けたいっていう気持ちが
 すごく伝わってきたよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're incredible.You definitely conveyed
+your desire to help everyone to me.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな……僕はただ
 みんなの事が心配なだけで……
 すごくなんてない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No way... I'm just worried about everyone.
+I'm not that great.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんで褒められてんのに
 ウジウジしてやがんだよっと！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why're you bein' so wishy-washy
+when you're gettin' praised like this?!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いたっ！
 痛いよぉ、スパーダ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ow! That hurt, Spada!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ヒャッヒャッヒャッヒャッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehehahaha!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なに、スパーダ。
 なんで嬉しそうなの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What is it, Spada?
+Why are you so happy?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>へっ。
 なんでもねぇよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heh. No reason.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……？
 変なスパーダ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...?
+You're weird, Spada.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -154,7 +161,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

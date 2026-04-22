@@ -23,112 +23,120 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>こんな場所に隠れてたのか、ルーク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So this is where you were hiding, Luke.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>な、なんだよ？
 また俺を責めに来たのかよ？
 俺に……俺にどうしろっていうんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What? Did you come here to blame me
+again? What do you... want me to even do?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>言われた通りやっただけなんだぞ！
 こんな風になるなんて思わなかったんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I just did what I was told to do!
+I had no idea it was gonna end up like this!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだとしても……
 たくさんの人が死んでしまったのは事実だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if that's the case...
+it's still the truth that a lot of people died.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルーク、その事実を受け止めるんだ。
 お前は……罪を犯したんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luke, you need to accept that reality.
+You... committed a crime.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...!!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ふ、ふざけんな！
 ガイだってあんとき一緒にいたじゃねぇかよ！
 なのに悪いのは俺一人かよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>D-Don't fuck around! You were there
+with me when it happened! So why
+am I the only one at fault for this?!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうは言ってない。
 もちろんお前を止められなかった
 俺にだって責任はある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I didn't say you were. Since I wasn't able to stop
+you from doing it, naturally I'm responsible, too.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺には、俺には責任なんてねぇ！
 知らなかったんだ！
 だからしょうがねぇだろ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I... I'm not responsible for this at all!
+I had no idea! So there's nothing I could've done!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルーク……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luke...!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くっ、今度は魔物か！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kh. Now we have a monster to deal with?!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -139,7 +147,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -23,87 +23,91 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>よかったな、ルカ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We did it, Ruca!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ありがとう、スパーダ。
 君がいてくれたおかげだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you, Spada!
+It's all thanks to you!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ヘッ！
 水くせェなぁオイ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heh!
+You're so watery!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレは満足なんだ。
 お前の剣として戦えた事がな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm satisfied now.
+I got to fight as your sword.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>スパーダ…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spada...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だからこれからも頼むぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So I'm countin' on ya from now on!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ただし、情けねェ泣き言たれたら
 すぐにケツぶっ叩くけどよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But! If ya start gettin' all pathetic and whinin' on me,
+I'm gonna whack ya in the ass!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>えぇぇぇぇ！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whaaaaa?!!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ヒャッヒャッヒャッ！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hyehehahaha!!!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -114,7 +118,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -122,7 +126,7 @@
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

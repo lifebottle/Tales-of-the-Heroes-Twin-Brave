@@ -40,100 +40,106 @@
       <PointerOffset/>
       <JapaneseText>あぁ！？
 どういう意味だよ、ソリャ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?! Heck do you mean by that?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>言葉の通りの意味だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean exactly what I said.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>世界樹には私達が向かう。
 お前達は引き返せ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're heading for the World Tree.
+You two need to go back.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え、で、でも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? B-But...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミラ、もうちょっと言い方が……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Milla, you should have tried
+saying that a little nicer...</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>気に入らねェなぁ。
 まるでオレ達じゃ
 世界樹に辿り着けねェみたいに聞こえんぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't like that. Sounds to me like you're sayin'
+we ain't gonna make it to the World Tree.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、そう言ったつもりだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, that is what I'm saying.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>上等だ！
 だったらそれが思い上がりだって事
 お前に教えてやるよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fine then! We'll just have to teach ya
+not to make assumptions about us!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>私達と戦うつもりか？
 いいだろう。
 その代わり、負けたら諦めるんだぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You mean to fight us? Very well.
+In exchange, if you lose, you give up on this.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やってやろうじゃねぇか！
 んな事にはなんねぇけどな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wanna see you try!
+It ain't happenin'!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -144,7 +150,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

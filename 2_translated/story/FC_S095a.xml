@@ -24,32 +24,34 @@
       <PointerOffset/>
       <JapaneseText>世界樹か。
 ここにあいつがいるんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The World Tree, huh.
+So this is where she is.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>早く行きましょう、カイウス！
 エターナルソードをあんな奴に
 使わせたら、大変な事になるわ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's hurry and get this done, Caius! If someone
+like her uses the Eternal Sword, it'll be terrible!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだな。
 取り戻すぞ、エターナルソードを！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. Let's go get the Eternal Sword back!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -60,7 +62,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

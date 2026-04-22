@@ -40,90 +40,95 @@
       <PointerOffset/>
       <JapaneseText>カイウス！！
 またこんな辛い物ばっかり作って！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Caius!! Again with you making spicy food!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>しょうがないだろ。
 辛い方が好きなんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't help it. I really like spicy food.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あたしはもっと
 美容にいいものとか食べたいの！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wanna eat more stuff that's good for beauty!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>スタイルがよくなるように
 健康にも気をつけたいの！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to improve my figure,
+so I have to look after my health!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まあまあ。　少し落ち着かないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now, now. Aren't you worrying too much?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだよ。
 好きな物食べたいっていうのは
 自然な事だししょうがないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She's right. It's only natural to eat the
+things you like, so it's not a big deal.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なによ、あなた達！
 自分達はちょっとスタイルいいからって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the heck is with you people?!
+Just 'cause your figures are a bit better
+than mine, you don't have to say stuff like that!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>嫌味！？　嫌味のつもりなの！？
 絶対に許さない！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Was it sarcasm?! Were you being sarcastic?!
+I will absolutely NEVER forgive you!!!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>勝負よ！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fight me!!!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -134,7 +139,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

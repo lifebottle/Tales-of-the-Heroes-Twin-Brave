@@ -33,59 +33,62 @@
       <JapaneseText>マジかよ。
 世界樹の闇が
 あの化けモンみてェな奴作ったってのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seriously? The World Tree
+made that monster-like asshole?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ。
 あいつこそまさに世界樹の膿だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. She really is just pure rot of the World Tree.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だったら、あいつを倒せば
 世界樹は元の力を取り戻すかもしれない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-In that case, if we beat her, the World Tree
+might get its original power back!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まぁありえない話じゃねぇな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, that's sure not impossible.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なら！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then...!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やろうぜ、ルカ！
 オレ達の力で変えるんだ、世界をよぉ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's get 'er, Ruca!
+We'll change the world through our own power!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -96,7 +99,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>
