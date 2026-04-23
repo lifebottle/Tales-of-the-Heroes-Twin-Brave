@@ -1,0 +1,448 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Stan</JapaneseText>
+      <EnglishText>Stan</EnglishText>
+      <Notes/>
+      <Id>0</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>System</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>行こう！　二人で！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>二人なら、きっとやれるよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺を信じて、背中を預けてくれ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>信じてるからな、おまえの事</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺も頑張らないと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>二人なら乗り越えられる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>見せてやろうぜ！　俺達の力を！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>二人でいけば、怖くないさ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>すごいな！　俺もしっかりやらないと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>やるな〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>やったな！　さすがだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>その技、あとで教えてくれよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺も負けないぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>相手にならないな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>すごい、すごい！　俺も頑張らないとな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺達の邪魔をするな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>二人なら、もっとやれるはずだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お見事！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ちゃんと手加減してるのか。優しいなぁ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>すごい勢いじゃないか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>油断はするなよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>怪我したくなかったら、俺達に近付くな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>大変だよなぁ、加減して戦うの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>もうそんなに倒したのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>すごいぞ！　まさに敵なしだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺の出番なくなっちゃうなぁ〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まさに一騎当千だな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まだこっからだよな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>おお！　すごいぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>まだ続いてるのか！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>終わらないな、すごい、すごい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>どんな鍛え方したら、そんなに強くなるんだよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>もう誰にも止められないな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>もっとやれるはずだろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>その調子、その調子！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>いいぞ！　もっとだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>俺も負けてられないな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>こんな強い仲間と戦えて、俺嬉しいよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>おまえと出会えた事、奇跡だったって信じられるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>体力が減ってるぞ！　無理はするな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>大丈夫か！？　いったん下がった方がよくないか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>下がれ！　このままじゃやられるぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>よーし、さくさく行こう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>この程度、どうってことないよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ごめん！　俺がしっかりしていれば！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>回復した方がよくないか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>仲間の足を引っ張るわけには……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>待ってくれ！　置いていくなよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>0</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>
