@@ -416,7 +416,8 @@
     <Section>Dialog</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>８０秒以内に５０Ｋ．Ｏ．を決めろ！\n門を抜けると失敗になるぞ！　注意せよ！</JapaneseText>
+      <JapaneseText>８０秒以内に５０Ｋ．Ｏ．を決めろ！
+門を抜けると失敗になるぞ！　注意せよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>

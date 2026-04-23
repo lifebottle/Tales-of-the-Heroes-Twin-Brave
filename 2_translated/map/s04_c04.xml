@@ -360,7 +360,8 @@
     <Section>Dialog</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>１２０秒以内に１２０Ｋ．Ｏ．を決めろ！\n門番を倒すと失敗になるぞ！　注意せよ！</JapaneseText>
+      <JapaneseText>１２０秒以内に１２０Ｋ．Ｏ．を決めろ！
+門番を倒すと失敗になるぞ！　注意せよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>
