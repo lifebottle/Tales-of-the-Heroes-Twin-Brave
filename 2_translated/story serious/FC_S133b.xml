@@ -50,115 +50,123 @@
       <JapaneseText>エターナルソードは王都で管理する。
 心配するな。　
 悪用はしないし、誰にも触れさせない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Eternal Sword will be dealt with in the
+royal capital. Don't worry. It won't be misused,
+and nobody will be allowed to come into
+contact with it.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん、それだったら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, in that case...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>待て！　なにか妙な気配が！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait! I'm sensing something odd!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>聖剣の守護者は敗れたか。
 手間が省けたな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So the holy sword's guardian has been defeated.
+That saves times.</EnglishText>
       <Notes/>
       <SpeakerId>35</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>誰だ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who're you?!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>エターナルソードは返してもらう
 この世界をやり直す為に……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Return the Eternal Sword to me.
+I must remake this world...</EnglishText>
       <Notes/>
       <SpeakerId>35</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ぐぁ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gah!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>リオン！　大丈夫か！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leon! Are you alright?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>強い！　まさかこいつが
 エルレインが言ってた男なのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's strong!
+Could this be the man Elraine talked about?!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>人間に救う価値などなかった。
 彼らの犠牲は……無駄だったのだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Humans were not worth saving.
+Their sacrifices... amounted to nothing.</EnglishText>
+      <Notes>Duke is not speaking of the present here. He is speaking in past tense.</Notes>
       <SpeakerId>35</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どういう意味！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean by that?!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>消えた！
 エターナルソードを……奪われた……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He disappeared!
+The Eternal Sword... He's stolen it...!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -169,7 +177,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

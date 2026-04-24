@@ -32,135 +32,142 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>行っちゃった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They've left.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それより、あの女の人は？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>More importantly, who is this lady?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あのー、大丈夫ですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, are you alright?</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……ありがとうございます。
 助かりました。
 お二人とも、強いのですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Thank you very much. You've saved me.
+The two of you are very strong, aren't you.</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え、それほどでもないですよ〜</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Huh? Ahaha... Not all that much.</EnglishText>
+      <Notes>I put the laughter in because it's voice acting, but it's not part of the text. Can remove it if prefered.</Notes>
       <SpeakerId>26</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それより、どうして追われてたの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>More important than that,
+why were they chasing you?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これだけ強ければ、必ず役にたちますね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This much strength will be of use.</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ハァ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haa!!</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>きゃあああああー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>KYAAAAAA!!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>コハク！　大丈夫！？
 ……コハク、ねぇコハク！
 なんで！　なんで返事をしないんだ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kohaku! Are you okay?!
+...Kohaku! Hey, Kohaku!
+Why?! Why aren't you answering me?!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>コハク、コハク……
 ちくしょぉぉぉぉおー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kohaku... Kohaku...
+DAMMIT!!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>抵抗はおよしなさい。
 “女の人に剣を向けちゃダメ”でしょう？
 それに、彼女の命が惜しくないのですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't resist.
+"You shouldn't point a sword at a woman", right?
+Besides, does her life not matter to you?</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>な、どういうことだ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wha-What are you talking about?!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ふふふ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehehe...</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -171,7 +178,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

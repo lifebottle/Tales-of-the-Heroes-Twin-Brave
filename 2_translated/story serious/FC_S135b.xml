@@ -24,110 +24,116 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>あっ、見てよ、コハク！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, look, Kohaku!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ！　世界樹に緑が！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahh! The World Tree is green!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>戻ったんだ！
 シュヴァルツが消えたから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's back! Schwartz has disappeared!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これでマナの枯渇も解消される。
 村も元気になるんだね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This will solve the issue with the Mana drying up.
+The village will liven up, too!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん！
 だけど、大事なのはこれからだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah! But the important stuff starts now.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>二度とシュヴァルツが生まれないように
 オレ達は少しずつ変わっていかなきゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We all gotta change, bit by bit,
+to make sure Schwartz is never reborn.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだね。
 これからが本当の戦いかもね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're right. Everything from this
+point on might be our real battle.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも、オレ達は負けないよ。
 オレにコハクがいるように
 みんなにも大切な誰かがいるから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But we won't lose. Just like I have you,
+everyone has someone who's dear to them.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だから人間は
 どこまでだって強くなれるんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why humans can get
+stronger and stronger!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>シング……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shing...</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレ達、これから先もずーっと
 ガンドコ行こう！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>We just gotta keeeep being awesome
+like we always have!</EnglishText>
+      <Notes>Uses Shing's ガンドコ, which is specific to him and has no actual meaning. The "official" Hearts R translation is an entire sentences for a single word and I think there's a pretty common "this loc sucks for legitimate reasons" sentiment among JP speakers for Hearts R, so I'd rather not use that. I may change this later, but for now, I'm using this so I can avoid debating too long on it.</Notes>
       <SpeakerId>26</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

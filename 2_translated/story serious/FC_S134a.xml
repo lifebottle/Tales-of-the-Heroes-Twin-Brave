@@ -61,11 +61,11 @@ I have to do my best, too.</EnglishText>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかった、一緒にガンドコいこう！</JapaneseText>
-      <EnglishText>Got it. Let's go to Gandoku together!</EnglishText>
-      <Notes/>
+      <EnglishText>Got it. Let's go be awesome together!</EnglishText>
+      <Notes>Uses Shing's ガンドコ, which is specific to him and has no actual meaning. The "official" Hearts R translation is an entire sentences for a single word and I think there's a pretty common "this loc sucks for legitimate reasons" sentiment among JP speakers for Hearts R, so I'd rather not use that. I may change this later, but for now, I'm using this so I can avoid debating too long on it.</Notes>
       <SpeakerId>26</SpeakerId>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
