@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.14"
+# dependencies = [
+#     "numpy>=2.4.4",
+#     "pillow>=12.2.0",
+# ]
+# ///
 """
 PPT to PNG Converter
 Converts custom PPT binary format files to PNG images.
@@ -15,7 +22,10 @@ import numpy as np
 class PPTConverter:
     """Converter for custom PPT binary format to PNG."""
     
+    TYPE_RGBA_5551 = 1
+    TYPE_RGBA_4444 = 2
     TYPE_RGBA_8888 = 3
+    TYPE_INDEX_4BPP = 4
     TYPE_INDEX_8BPP = 5
     
     def __init__(self, filepath, use_tiling=True, crop_to_content=True):
@@ -68,6 +78,8 @@ class PPTConverter:
         reserved0 = self._read_int()
         pointer_to_palette = self._read_int()
         reserved1 = self._read_int()
+
+        assert reserved0 == 0 and reserved1 == 0, "texture reserved are not 0"
         
         return {
             'gpu_width': gpu_width,
@@ -83,7 +95,7 @@ class PPTConverter:
             'reserved1': reserved1,
         }
     
-    def parse_palette(self, palette_offset):
+    def parse_palette(self, palette_offset, type):
         """Parse the palette structure if present."""
         if palette_offset == 0:
             return None
@@ -95,21 +107,116 @@ class PPTConverter:
         # Read palette header
         self._read_magic(b'ppc\x00')
         pal_type = self._read_short()
-        unknown = self._read_short()
+
+        assert pal_type == 3, "Invalid palette Storage Mode"
+        pal_count = self._read_short()
         reserved0 = self._read_int()
         reserved1 = self._read_int()
-        
+
+        assert reserved0 == 0 and reserved1 == 0, "palette reserved are not 0"
+
         # Read palette data (256 colors x 4 bytes RGBA)
-        palette_data = self._read_bytes(256 * 4)
+        palette_data = self._read_bytes(pal_count * 32)
         
         # Restore offset
         self.offset = saved_offset
-        
-        # Convert to numpy array
-        palette = np.frombuffer(palette_data, dtype=np.uint8).reshape(256, 4)
-        
+
+        if type == self.TYPE_INDEX_8BPP:
+            print(f"  Palette: 256 colors")
+            palette_data += b"\x00" * ((256 * 4) - (pal_count * 32))
+
+            # Convert to numpy array
+            palette = np.frombuffer(palette_data, dtype=np.uint8).reshape(256, 4)
+        else:
+            print(f"  Palette: 16 colors")
+            palette_data += b"\x00" * ((16 * 4) - (pal_count * 32))
+            
+            # Convert to numpy array
+            palette = np.frombuffer(palette_data, dtype=np.uint8).reshape(16, 4)
+
         return palette
     
+    def _detile_rgba5551(self, data, width, height):
+        """Detile RGBA5551 format with 8x8 pixel tiles."""
+        # RGBA5551 uses 8x8 pixel tiles
+        tile_width = 8
+        tile_height = 8
+        bytes_per_pixel = 2
+
+        # Create output array
+        output = np.zeros((height, width, 4), dtype=np.uint8)
+
+        # Calculate number of tiles
+        tiles_x = (width + tile_width - 1) // tile_width
+        tiles_y = (height + tile_height - 1) // tile_height
+
+        offset = 0
+        for ty in range(tiles_y):
+            for tx in range(tiles_x):
+                # Calculate tile boundaries
+                x_start = tx * tile_width
+                y_start = ty * tile_height
+                x_end = min(x_start + tile_width, width)
+                y_end = min(y_start + tile_height, height)
+
+                # Read pixels in this tile
+                for y in range(y_start, y_end):
+                    for x in range(x_start, x_end):
+                        # Read RGBA values
+                        val = (data[offset + 1] << 8) | data[offset + 0]
+                        r = ((val >>  0) & 0b11111)
+                        g = ((val >>  5) & 0b11111)
+                        b = ((val >> 10) & 0b11111)
+                        r = (r << 3) | (r >> 2)
+                        g = (g << 3) | (g >> 2)
+                        b = (b << 3) | (b >> 2)
+                        a = 0xFF if ((val >> 15) & 1) != 0 else 0
+                        output[y, x] = [r, g, b, a]
+                        offset += bytes_per_pixel
+
+        return output
+
+    def _detile_rgba4444(self, data, width, height):
+        """Detile RGBA4444 format with 8x8 pixel tiles."""
+        # RGBA4444 uses 8x8 pixel tiles
+        tile_width = 8
+        tile_height = 8
+        bytes_per_pixel = 2
+
+        # Create output array
+        output = np.zeros((height, width, 4), dtype=np.uint8)
+
+        # Calculate number of tiles
+        tiles_x = (width + tile_width - 1) // tile_width
+        tiles_y = (height + tile_height - 1) // tile_height
+
+        offset = 0
+        for ty in range(tiles_y):
+            for tx in range(tiles_x):
+                # Calculate tile boundaries
+                x_start = tx * tile_width
+                y_start = ty * tile_height
+                x_end = min(x_start + tile_width, width)
+                y_end = min(y_start + tile_height, height)
+
+                # Read pixels in this tile
+                for y in range(y_start, y_end):
+                    for x in range(x_start, x_end):
+                        # Read RGBA values
+                        val = (data[offset + 1] << 8) | data[offset + 0]
+                        r = (val >>  0) & 0b1111
+                        g = (val >>  4) & 0b1111
+                        b = (val >>  8) & 0b1111
+                        a = (val >> 12) & 0b1111
+                        r = (r << 4) | r
+                        g = (g << 4) | g
+                        b = (b << 4) | b
+                        a = (a << 4) | a
+                        output[y, x] = [r, g, b, a]
+                        offset += bytes_per_pixel
+
+        return output
+
     def _detile_rgba8888(self, data, width, height):
         """Detile RGBA8888 format with 4x8 pixel tiles."""
         # RGBA8888 uses 4x8 pixel tiles
@@ -144,6 +251,39 @@ class PPTConverter:
                         output[y, x] = [r, g, b, a]
                         offset += bytes_per_pixel
         
+        return output
+    
+    def _detile_index4(self, data, width, height):
+        """Detile INDEX4 format with 16x8 pixel tiles."""
+        # INDEX4 uses 32x8 pixel tiles
+        tile_width = 32
+        tile_height = 8
+
+        # Create output array
+        output = np.zeros((height, width), dtype=np.uint8)
+
+        # Calculate number of tiles
+        tiles_x = (width + tile_width - 1) // tile_width
+        tiles_y = (height + tile_height - 1) // tile_height
+
+        offset = 0
+        for ty in range(tiles_y):
+            for tx in range(tiles_x):
+                # Calculate tile boundaries
+                x_start = tx * tile_width
+                y_start = ty * tile_height
+                x_end = min(x_start + tile_width, width)
+                y_end = min(y_start + tile_height, height)
+
+                # Read pixels in this tile
+                for y in range(y_start, y_end):
+                    for x in range(x_start, x_end):
+                        if offset & 1:
+                            output[y, x] = (data[offset // 2] >> 4) & 0xF
+                        else:
+                            output[y, x] = data[offset // 2] & 0xF
+                        offset += 1
+
         return output
     
     def _detile_index8(self, data, width, height):
@@ -194,30 +334,70 @@ class PPTConverter:
         
         img_type = header['type']
         
-        if img_type == self.TYPE_RGBA_8888:
+        if img_type == self.TYPE_RGBA_5551:
+            # RGBA 5551 - 2 bytes per pixel
+            size = width * height * 2
+            image_data = self._read_bytes(size)
+
+            if self.use_tiling:
+                # Tiled 8x8
+                return self._detile_rgba5551(image_data, width, height)
+            else:
+                # Linear/raw format
+                return np.frombuffer(image_data, dtype=np.uint8).reshape(
+                    height, width, 2
+                )
+        elif img_type == self.TYPE_RGBA_4444:
+            # RGBA 4444 - 2 bytes per pixel
+            size = width * height * 2
+            image_data = self._read_bytes(size)
+
+            if self.use_tiling:
+                # Tiled 8x8
+                return self._detile_rgba4444(image_data, width, height)
+            else:
+                # Linear/raw format
+                return np.frombuffer(image_data, dtype=np.uint8).reshape(
+                    height, width, 2
+                )
+        elif img_type == self.TYPE_RGBA_8888:
             # RGBA 8888 - 4 bytes per pixel
             size = width * height * 4
             image_data = self._read_bytes(size)
-            
+
             if self.use_tiling:
                 # Tiled 4x8
                 return self._detile_rgba8888(image_data, width, height)
             else:
                 # Linear/raw format
-                return np.frombuffer(image_data, dtype=np.uint8).reshape(height, width, 4)
-        
+                return np.frombuffer(image_data, dtype=np.uint8).reshape(
+                    height, width, 4
+                )
+
+        elif img_type == self.TYPE_INDEX_4BPP:
+            # Indexed 4bpp - 1 byte per 2 pixel
+            size = width * height // 2
+            image_data = self._read_bytes(size)
+
+            if self.use_tiling:
+                # Tiled 32x8
+                return self._detile_index4(image_data, width, height)
+            else:
+                # Linear/raw format
+                return np.frombuffer(image_data, dtype=np.uint8).reshape(height, width)
+
         elif img_type == self.TYPE_INDEX_8BPP:
             # Indexed 8bpp - 1 byte per pixel
             size = width * height
             image_data = self._read_bytes(size)
-            
+
             if self.use_tiling:
                 # Tiled 16x8
                 return self._detile_index8(image_data, width, height)
             else:
                 # Linear/raw format
                 return np.frombuffer(image_data, dtype=np.uint8).reshape(height, width)
-        
+
         else:
             raise ValueError(f"Unsupported image type: {img_type}")
     
@@ -231,16 +411,28 @@ class PPTConverter:
         print(f"  Texture Size: {header['tex_width']}x{header['tex_height']}")
         print(f"  Content Size: {header['content_width']}x{header['content_height']}")
         
-        type_str = 'Unknown'
-        tile_str = ''
-        if header['type'] == 3:
-            type_str = 'RGBA 8888'
+        type_str = "Unknown"
+        tile_str = ""
+        if header["type"] == 1:
+            type_str = "RGBA 5551"
             if self.use_tiling:
-                tile_str = ' (4x8 tiles)'
-        elif header['type'] == 5:
-            type_str = 'INDEX 8bpp'
+                tile_str = " (8x8 tiles)"
+        elif header["type"] == 2:
+            type_str = "RGBA 4444"
             if self.use_tiling:
-                tile_str = ' (16x8 tiles)'
+                tile_str = " (8x8 tiles)"
+        elif header["type"] == 3:
+            type_str = "RGBA 8888"
+            if self.use_tiling:
+                tile_str = " (4x8 tiles)"
+        elif header["type"] == 4:
+            type_str = "INDEX 4bpp"
+            if self.use_tiling:
+                tile_str = " (32x8 tiles)"
+        elif header["type"] == 5:
+            type_str = "INDEX 8bpp"
+            if self.use_tiling:
+                tile_str = " (16x8 tiles)"
         
         print(f"  Type: {header['type']} ({type_str}{tile_str})")
         print(f"  Tiling: {'Enabled' if self.use_tiling else 'Disabled'}")
@@ -255,12 +447,10 @@ class PPTConverter:
         image_data = self.read_image_data(header)
         
         # Handle indexed color images
-        if header['type'] == self.TYPE_INDEX_8BPP:
-            palette = self.parse_palette(header['pointer_to_palette'])
+        if header['type'] in (self.TYPE_INDEX_4BPP, self.TYPE_INDEX_8BPP):
+            palette = self.parse_palette(header['pointer_to_palette'], header['type'])
             if palette is None:
                 raise ValueError("Indexed image requires a palette, but none was found")
-            
-            print(f"  Palette: 256 colors")
             
             # Apply palette to create RGBA image
             rgba_image = palette[image_data]
