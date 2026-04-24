@@ -25,71 +25,77 @@
       <PointerOffset/>
       <JapaneseText>エミル？
 口の周りについてるの、なに？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Emil? What's that around your mouth?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？
 ああ、ケチャップだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?
+Oh, it's ketchup.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>さっきまで、ファラさんのところで
 手料理をごちそうになってたんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Farah-san treated me to a homecooked
+meal at her place earlier.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>えぇぇぇぇぇ！！！？
 なにそれ、私聞いてないよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whaaaaaat?!!!
+What the heck? I wasn't informed about this!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……許せない。
 私だけのエミルを
 手料理を武器に誘惑するなんて！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Unforgiveable. How dare she try to
+seduce MY Emil and mine alone, and
+with a homecooked meal as her weapon!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？　マ、マルタ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Ma-Marta?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>戦争よ！！
 これは女の戦争なんだから！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is war!!
+What she's done amounts to a woman's war!!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -100,7 +106,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -24,83 +24,90 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ふぅ、疲れた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whew, I'm tired...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お疲れだね、エミル。
 どうかしたの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Good work, Emil.
+Is something up?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん。
 ミラさんに呼び出されてね
 今までずっと話し込んでたんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. Milla called for me.
+We've been talking for a while now.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いろいろ質問されて、もうクタクタだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm just worn out from being
+asked all kinds of questions.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>えぇぇぇぇぇぇ！！？
 ミラがそんなにしつこく
 アプローチしてきたの！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whaaaaaat?!! Milla was that
+persistent in approaching you?!!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんでそうなるの！？
 僕の話聞いてた、マルタ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why did turn out like this?!
+Are you even listening to me, Marta?!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>エミルには私がいるのに！
 しつこくアプローチしてくるなんて
 許せない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Emil is mine! I can't forgive her for
+approaching him so persistently!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ラストバトルよ！
 これは女のラストバトルなんだから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is the last battle!
+This now is the last woman's battle!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -111,7 +118,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

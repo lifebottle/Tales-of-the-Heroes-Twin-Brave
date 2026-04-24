@@ -24,89 +24,94 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>うーん。　どうしよう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmmm. What should I do...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>エ〜ミル♪
 難しい顔して、どうしたの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>E〜mil♪.
+Why do you look so serious?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あ、うん。
 けっこう前からなんだけど
 シェリアさんが手紙を送ってきてくれるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, right. She's been doing it for a while now,
+but Cheria-san's been sending me letters.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>一度来てください、話がしたいって。
 そんな内容のが何通も</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Please come over sometime, I'd like to talk
+with you", she says. She's sent a bunch like that.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>えぇぇぇぇぇ！！？
 そ、それってラブレター！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whaaaaat?!!
+A-Are those love letters?!!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？　ちが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? No, they're...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>許せない！
 エミルは私だけの王子様なのに！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unforgiveable!
+Emil is MY prince, and only mine!!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>すぐに文句言ってこなきゃ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have to go make my complaint right away!!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あっ、ま、待ってよ、マルタ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, h-hold on, Marta!!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -117,7 +122,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

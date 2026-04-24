@@ -26,111 +26,121 @@
       <JapaneseText>シュヴァルツはどこに向かったんだろう？
 人間を滅ぼす為の力
 とか言ってたけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where could Schwartz be heading off to?
+She was talking about some power that
+could destroy humanity...</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>精霊達が教えてくれた。
 あいつが向かった先は
 エターナルソードが眠る遺跡だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Spirits have told me. She headed
+for the ruins where the Eternal Sword rests.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>エターナルソード！？
 伝説の聖剣が、実在するっていうの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Eternal Sword?! You mean to say
+that the legendary holy sword is real?!</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……ああ。
 あいつは……その力で……うっ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...That's right.
+She... That power... Ugh!</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミラ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Milla!!</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はぁ、はぁ、はぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haa... Haa... Haa...</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ひどい。　やっぱり傷口が開いて……。
 こんなのとても戦える身体じゃないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not good.
+Your wound opened, just like I thought it did...
+There's no way you can fight like this.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっぱりシュヴァルツは
 僕が一人でなんとかするべきなんじゃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just like I expected, I'll have to do something
+about Schwartz on my own somehow...</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいや。
 君一人ではシュヴァルツには勝てない。
 わかっているのだろう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No. You won't win against Schwartz on your own.
+You're aware of that, aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But...</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>問題ない。
 あいつのもとにエターナルソードがあるなら
 一つだけ方法がある……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This isn't a problem. If she has the Eternal Sword,
+there's only one thing that can be done...</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -141,7 +151,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

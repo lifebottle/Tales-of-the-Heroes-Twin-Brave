@@ -40,77 +40,81 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>痛っ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ow...!</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>怪我をしたのか、ジュード。
 ならこれを塗ってみるといい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you hurt, Jude?
+Put this on it.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？　それ……ミソ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Is that... miso?</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>香りがいい。
 きっと傷口にも効くはずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It has a nice smell to it.
+I'm sure it's effective on wounds.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？　えぇ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? What?</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>コハク、今の見た？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kohaku, did you see that?</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>傷口にミソを塗るなんて信じられない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't believe she just put miso
+on someone's wound!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも傷口に塗ったあと
 そこを舐めればちょっとおいしいね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, if you lick the wound after putting
+that on, the wound would taste kinda good!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -121,7 +125,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

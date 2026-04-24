@@ -41,81 +41,87 @@
       <PointerOffset/>
       <JapaneseText>ごめんなさい！！
 私の早とちりだったみたいで……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sorry!!
+I guess I jumped to a pretty poor conclusion...</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もういいよ。
 わたしの方こそ
 マルタを仲間外れにしてごめんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's fine. I'm the one who needs to
+apologize for leaving you out.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ごめん……。
 誘われたとき、マルタ気持ちよさそうに
 お昼寝してたから、起こすのも悪いかなって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry... When you invited me, Marta was napping, 
+and she seemed so comfortable that I felt like it
+would've been rude to wake her up.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もう！
 そうならそうと早く言ってよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geez! You should've said that sooner!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>い、言う前にマルタが
 突撃しちゃったんじゃない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-You were already on the attack
+before I could even say anything!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まったく。
 人様に迷惑かけない程度に仲良くしてくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For real, though. It's one thing to get along with
+folks, but don't go causing trouble for them.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん、私反省する……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, I'll do some self-reflecting...</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>エミルの事、もっと信じてあげなくちゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I need to have more trust in Emil!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -126,7 +132,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -40,111 +40,118 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>コハク、何食べてるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kohaku, what are you eating?</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>さくらんぼミソ焼きおにぎりだよ。
 表面に塗ったミソと
 具のさくらんぼの相性が抜群なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A cherry and miso-grilled rice ball. The miso
+spread on the surface and the cherry filling
+together are wonderful.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>よかったらシングもどう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to try some?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え、遠慮しておくよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I'll refrain...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それにしても
 コハクのミソ好きは相変わらずだなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But still, I see you love miso as much as ever.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん、ミソはなんにでも合う
 世界一おいしい食材だもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. Miso fits with anything.
+It's the best ingredient in the entire world.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ねぇねぇ、知ってる？
 ミソを身体に塗ると
 お肌がスベスベになるんだって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, hey, did you know? If you coat your body
+in miso, it'll make your skin all smooth!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>本当に？
 さっそくやってみなきゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really? I have to hurry and try it.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>な、なに言ってるの、あの二人！？
 こんなにおいしいミソを身体に塗るなんて
 もったいないよ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What the heck are those two saying?!
+It would be a total waste of delicious
+miso to cover your body with it!!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちょっと止めてくる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have to go stop them!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あ、え？
 ちょっと、コハク！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah-- what?
+Wait, Kohaku?!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -155,7 +162,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

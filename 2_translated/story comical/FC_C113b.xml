@@ -41,83 +41,90 @@
       <PointerOffset/>
       <JapaneseText>ごめんなさい。
 私、誤解してたみたい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sorry. I guess this was a misunderstanding...</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんなに気にしなくていいって。
 部屋の掃除を押しつけた
 ルビアも悪いんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You don't need to worry so much.
+Rubia's the one at fault here for
+pushing him to clean her room.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だから謝ってるじゃない。
 ごめんね、エミル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I already apologized for that.
+Sorry, Emil.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいよ、べつに。
 掃除とか、嫌いじゃないし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's okay, it's not a big deal.
+It's not like I hate cleaning.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もう、エミル器大きすぎ！
 そんなんだから
 私心配しちゃうんだよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Oh gosh! Emil, your soul is way too big!
+This is why I worry about you so much!</EnglishText>
+      <Notes>Used soul, but it's literally vessel/contrainer. Basically, his kindness is immense.</Notes>
       <SpeakerId>23</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？　ご、ごめん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? S-Sorry...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>エミル。
 オレでよければ、いつでも愚痴
 聞いてやるからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Emil. I'm here if you ever
+need someone to complain to.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ありがとう。
 でも僕は大丈夫……かな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you. 
+But I'll be okay... I think.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -128,7 +135,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

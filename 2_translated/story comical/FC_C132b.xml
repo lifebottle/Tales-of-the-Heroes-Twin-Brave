@@ -41,58 +41,61 @@
       <PointerOffset/>
       <JapaneseText>わかったよ。
 ミソを接着剤代わりにするのは諦めるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fine. I'll stop trying to use
+miso as a substitute for glue.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>よかった。　わかってくれたんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm glad. You actually understand.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>本当によかった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It really is a good thing...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>懐中時計開いて見えるのが
 針じゃなくてミソだったら嫌だもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You probably wouldn't like opening your
+pocket watch only to see miso in it
+instead of the pointer, anyway.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？
 べつに嫌じゃないよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? That wouldn't be bad at all.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……そ、そう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I-Is that right...?</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -103,7 +106,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>
