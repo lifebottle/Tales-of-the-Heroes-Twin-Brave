@@ -249,6 +249,9 @@
       <Id>29</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2</Section>
     <Entry>
       <PointerOffset>1516</PointerOffset>
       <JapaneseText/>
@@ -508,6 +511,9 @@
       <Id>61</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 3</Section>
     <Entry>
       <PointerOffset>2088</PointerOffset>
       <JapaneseText>スタートメニューに戻りますか？</JapaneseText>
@@ -532,6 +538,9 @@
       <Id>64</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 4</Section>
     <Entry>
       <PointerOffset>2216</PointerOffset>
       <JapaneseText>%sが全てのモードで

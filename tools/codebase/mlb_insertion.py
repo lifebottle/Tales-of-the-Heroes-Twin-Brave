@@ -43,32 +43,27 @@ def parse_xml(path):
     root = tree.getroot()
 
     sections = []
-    current_section = []
 
-    for elem in root.find("Strings"):
+    # 🔥 One <Strings> block = one section
+    for strings_block in root.findall("Strings"):
+        current_section = []
 
-        if elem.tag == "Section":
-            if current_section:
-                current_section.sort(key=lambda x: x["id"])
-                sections.append(current_section)
-                current_section = []
+        for elem in strings_block:
+            if elem.tag == "Entry":
+                jp = elem.findtext("JapaneseText", default="")
+                en = elem.findtext("EnglishText", default="")
+                entry_id = int(elem.findtext("Id", default="0"))
 
-        elif elem.tag == "Entry":
-            jp = elem.findtext("JapaneseText", default="")
-            en = elem.findtext("EnglishText", default="")
-            entry_id = int(elem.findtext("Id", default="0"))
+                text = en.strip() if en.strip() else jp
 
-            # fallback logic
-            text = en.strip() if en.strip() else jp
+                current_section.append({
+                    "id": entry_id,
+                    "text": text
+                })
 
-            current_section.append({
-                "id": entry_id,
-                "text": text
-            })
-
-    if current_section:
-        current_section.sort(key=lambda x: x["id"])
-        sections.append(current_section)
+        if current_section:
+            current_section.sort(key=lambda x: x["id"])
+            sections.append(current_section)
 
     return sections
 
@@ -85,8 +80,8 @@ def build_mlt(sections, output_path):
 
         section_offsets = []
 
-        # Global string cache (byte-level dedup)
-        string_cache = {}  # {bytes: offset}
+        # 🔥 Global string cache (dedup)
+        string_cache = {}
 
         # SECTIONS
         for section in sections:
@@ -102,10 +97,10 @@ def build_mlt(sections, output_path):
             for entry in section:
                 text = entry["text"]
 
-                # Encode string (always valid, even empty)
+                # Always encode (even empty → 0x40 00)
                 data = encode_string(text)
 
-                # Dedup check (exact byte match only)
+                # 🔥 Exact dedup
                 if data in string_cache:
                     entry_offsets.append(string_cache[data])
                 else:

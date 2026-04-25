@@ -104,6 +104,9 @@
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2</Section>
     <Entry>
       <PointerOffset>1508</PointerOffset>
       <JapaneseText>太古より伝わる伝説の
@@ -192,6 +195,9 @@
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 3</Section>
     <Entry>
       <PointerOffset>2592</PointerOffset>
       <JapaneseText>王宮の騎士になるという夢を抱き、
@@ -303,6 +309,9 @@
       <Id>15</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 4</Section>
     <Entry>
       <PointerOffset>4076</PointerOffset>
       <JapaneseText>両親からの愛情を
@@ -414,6 +423,9 @@
       <Id>20</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 5</Section>
     <Entry>
       <PointerOffset>5488</PointerOffset>
       <JapaneseText>マナの枯渇により、
@@ -522,6 +534,9 @@
       <Id>25</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 6</Section>
     <Entry>
       <PointerOffset>6864</PointerOffset>
       <JapaneseText>毎日平和に平凡に
@@ -616,6 +631,9 @@
       <Id>30</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 7</Section>
     <Entry>
       <PointerOffset>8000</PointerOffset>
       <JapaneseText>永きにわたり
@@ -717,6 +735,9 @@
       <Id>35</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 8</Section>
     <Entry>
       <PointerOffset>9280</PointerOffset>
       <JapaneseText>リアラは悩んでいた。
@@ -808,6 +829,9 @@
       <Id>40</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 9</Section>
     <Entry>
       <PointerOffset>10376</PointerOffset>
       <JapaneseText>マナの枯渇により衰退していく世界。
@@ -914,6 +938,9 @@
       <Id>45</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 10</Section>
     <Entry>
       <PointerOffset>11616</PointerOffset>
       <JapaneseText>ゼロスは、もっと目立てば
@@ -992,6 +1019,9 @@
       <Id>50</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 11</Section>
     <Entry>
       <PointerOffset>12544</PointerOffset>
       <JapaneseText>平和な片田舎の村で暮らす青年、
@@ -1101,6 +1131,9 @@
       <Id>55</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 12</Section>
     <Entry>
       <PointerOffset>13868</PointerOffset>
       <JapaneseText>曲がった事が大嫌いな
@@ -1173,6 +1206,9 @@
       <Id>60</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 13</Section>
     <Entry>
       <PointerOffset>14664</PointerOffset>
       <JapaneseText>元マリントルーパーの
@@ -1276,6 +1312,9 @@
       <Id>65</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 14</Section>
     <Entry>
       <PointerOffset>15920</PointerOffset>
       <JapaneseText>騎士の名家ヴァレンス家に
@@ -1388,6 +1427,9 @@
       <Id>70</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 15</Section>
     <Entry>
       <PointerOffset>17292</PointerOffset>
       <JapaneseText>貴族の子息として
@@ -1471,6 +1513,9 @@
       <Id>75</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 16</Section>
     <Entry>
       <PointerOffset>18216</PointerOffset>
       <JapaneseText>ファブレ家に仕える使用人、
@@ -1584,6 +1629,9 @@
       <Id>80</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 17</Section>
     <Entry>
       <PointerOffset>19640</PointerOffset>
       <JapaneseText>災厄を招く種族とされる
@@ -1718,6 +1766,9 @@
       <Id>85</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 18</Section>
     <Entry>
       <PointerOffset>21336</PointerOffset>
       <JapaneseText>いつでもどこでも
@@ -1794,6 +1845,9 @@
       <Id>90</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 19</Section>
     <Entry>
       <PointerOffset>22172</PointerOffset>
       <JapaneseText>内気で気弱な性格が災いし、
@@ -1884,6 +1938,9 @@
       <Id>95</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 20</Section>
     <Entry>
       <PointerOffset>23236</PointerOffset>
       <JapaneseText>世界に恵みをもたらしていた
@@ -2004,6 +2061,9 @@
       <Id>100</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 21</Section>
     <Entry>
       <PointerOffset>24676</PointerOffset>
       <JapaneseText>気弱な少年エミルは、
@@ -2120,6 +2180,9 @@
       <Id>105</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 22</Section>
     <Entry>
       <PointerOffset>26032</PointerOffset>
       <JapaneseText>エミルを自分の
@@ -2213,6 +2276,9 @@
       <Id>110</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 23</Section>
     <Entry>
       <PointerOffset>27128</PointerOffset>
       <JapaneseText>下町で無頼漢のような生活を
@@ -2314,6 +2380,9 @@
       <Id>115</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 24</Section>
     <Entry>
       <PointerOffset>28368</PointerOffset>
       <JapaneseText>騎士団所属の騎士として、
@@ -2410,6 +2479,9 @@
       <Id>120</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 25</Section>
     <Entry>
       <PointerOffset>29548</PointerOffset>
       <JapaneseText>貧しい村で生まれ育った
@@ -2537,6 +2609,9 @@
       <Id>125</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 26</Section>
     <Entry>
       <PointerOffset>31092</PointerOffset>
       <JapaneseText>ミソを愛するあまり、
@@ -2632,6 +2707,9 @@
       <Id>130</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 27</Section>
     <Entry>
       <PointerOffset>32320</PointerOffset>
       <JapaneseText>マナが枯渇した事により
@@ -2744,6 +2822,9 @@
       <Id>135</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 28</Section>
     <Entry>
       <PointerOffset>33808</PointerOffset>
       <JapaneseText>王都に仕える騎士
@@ -2841,6 +2922,9 @@
       <Id>140</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 29</Section>
     <Entry>
       <PointerOffset>34964</PointerOffset>
       <JapaneseText>医者を志す学生ジュードは、
@@ -2947,6 +3031,9 @@
       <Id>145</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 30</Section>
     <Entry>
       <PointerOffset>36268</PointerOffset>
       <JapaneseText>人々の一般的な暮らしや

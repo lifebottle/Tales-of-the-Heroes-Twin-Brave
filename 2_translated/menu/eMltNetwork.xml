@@ -1031,6 +1031,9 @@
       <Id>119</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2</Section>
     <Entry>
       <PointerOffset>500</PointerOffset>
       <JapaneseText>ネットワーク接続</JapaneseText>
@@ -1179,6 +1182,9 @@
       <Id>137</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 3</Section>
     <Entry>
       <PointerOffset>7800</PointerOffset>
       <JapaneseText>テイルズ オブ ザ ワールド レディアント マイソロジー3の
@@ -1197,6 +1203,9 @@
       <Id>139</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 4</Section>
     <Entry>
       <PointerOffset>7996</PointerOffset>
       <JapaneseText>ステージデータがダウンロードされておりません

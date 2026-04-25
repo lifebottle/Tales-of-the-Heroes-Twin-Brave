@@ -11,6 +11,9 @@ mlt_editor.xlsによってバイナリ化したテキストを使いましょう
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2</Section>
     <Entry>
       <PointerOffset>192</PointerOffset>
       <JapaneseText>メニューサンプル</JapaneseText>
@@ -59,5 +62,8 @@ mlt_editor.xlsによってバイナリ化したテキストを使いましょう
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 3</Section>
   </Strings>
 </MenuText>

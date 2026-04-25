@@ -67,13 +67,15 @@ def parse_file(input_path, output_path):
             return
 
         root = ET.Element("MenuText")
-        strings = ET.SubElement(root, "Strings")
 
         global_id = 1
 
         for sec_id, sec_ptr in enumerate(section_ptrs):
             if sec_ptr == 0:
                 continue
+
+            # 🔥 One <Strings> per section
+            strings = ET.SubElement(root, "Strings")
 
             section_elem = ET.SubElement(strings, "Section")
             section_elem.text = f"Section {sec_id + 1}"
@@ -90,7 +92,6 @@ def parse_file(input_path, output_path):
 
                 entry_elem = ET.SubElement(strings, "Entry")
 
-                # PointerOffset (decimal)
                 ptr_elem = ET.SubElement(entry_elem, "PointerOffset")
                 ptr_elem.text = str(entry_ptr)
 
@@ -117,10 +118,16 @@ def parse_file(input_path, output_path):
         os.makedirs(OUTPUT_DIR, exist_ok=True)
 
         tree = ET.ElementTree(root)
-        ET.indent(tree, space="  ", level=0)  # pretty print (Python 3.9+)
-        tree.write(output_path, encoding="utf-8", xml_declaration=False)
-        
-        #remove the white space in empty tags
+        ET.indent(tree, space="  ", level=0)
+
+        tree.write(
+            output_path,
+            encoding="utf-8",
+            xml_declaration=False,
+            short_empty_elements=True
+        )
+
+        # 🔥 Ensure no space in empty tags (<tag/> instead of <tag />)
         with open(output_path, "r", encoding="utf-8") as f:
             xml_content = f.read()
 
