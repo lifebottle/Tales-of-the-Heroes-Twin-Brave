@@ -40,74 +40,75 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>よし、突破した！　逃げよう、コハク！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, we broke through! Let's go, Kohaku!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミソのついたクレープ！　ちゃんと食べてね！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Crepe with miso! Be sure to savor it!!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだったんだ、あいつら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the heck is with her?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>知るか！　僕に聞くな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As if I care! Don't ask me!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ん？　このクレープについてるミソ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This crepe with miso on it...</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうかしたのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is something wrong?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……田楽ミソだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...It's sweet miso glaze.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>一応……甘さを考慮したのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did she... at least take the
+sweet part into consideration?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -118,7 +119,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

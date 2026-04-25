@@ -34,51 +34,54 @@
       <JapaneseText>いい加減にしないか！
 みんなの食べ物に無理やり
 ミソをつけるなんて、許されない事だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enough! I will not tolerate you ruining people's
+food by putting miso on it against their will!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>待って！
 コハクはただ、ミソのおいしさを
 みんなに知ってほしかっただけなんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait! Kohaku just wanted everyone
+to know how delicious miso is!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいよ、シング。
 この人にも
 わからせてあげなきゃいけないみたい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's okay, Shing. It looks like I have
+to help this person understand it, too.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミソのおいしさを！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Miso is delicious!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>来るか？　勝負だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you attacking? You want to fight?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -89,7 +92,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

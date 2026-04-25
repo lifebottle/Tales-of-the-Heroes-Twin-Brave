@@ -42,63 +42,69 @@
       <JapaneseText>ミソは傷口に塗っては
 いけないものだったのか。
 知らなかったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So miso is something you mustn't
+apply to a wound. I wasn't aware.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ごめんね。
 ミラはこの世界の常識を
 あまり知らないんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry. Milla doesn't know all that much about
+the common sense of this this world.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ならしょうがないね。
 ミラ、ミソはとってもおいしい
 食べ物なんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In that case, I should explain.
+Milla, miso is a super yummy food.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パンやイカやニンジン……。
 なんでもミソをつけるとおいしくなるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bread, squid, carrots...
+Anything you make will taste wonderful with miso.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でもお肌はスベスベにならないし
 接着剤としても使えないから気をつけてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But it doesn't make your skin smooth,
+and it's not something you can use
+in place of glue, so be careful there.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうか、ありがとう。
 いろいろと勉強になった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see. Thank you. I've learned a lot.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -109,7 +115,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

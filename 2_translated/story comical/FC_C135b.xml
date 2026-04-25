@@ -26,116 +26,120 @@
       <JapaneseText>やったね、コハク！
 もうコハクのミソ拡大作戦を
 邪魔する者はいないよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You did it, Kohaku! There's nobody who can get
+in the way of your miso expansion strategy!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん、どんどん広めていこうね、ミソを！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah! I'll get miso known far and wide!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>よーし、まずは！
 みんなに広める前に
 わたしがミソを極めなくちゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alriiight, first... before I get miso known
+to the world, I need to master miso!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミソを極める？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Master miso?</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん！
 これからは、食事は全部ミソにつけよう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>From here on, we'll put miso on all our meals!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>えぇ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>飲み物はもちろんおみそ汁だけ！
 前菜も主食もデザートも
 みんなミソにつけて食べるの！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The only drink we'll have is, of course, miso soup!
+Appetizers, main courses, and dessert.
+All of it will be had with miso on it!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>シング！
 そんな生活を、一緒に始めよう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shing! Let's start that way of living, together!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Give...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>勘弁してくれぇぇぇ！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Give me a breeeeak!!!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………あれ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Huh?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おらなにか悪い事言っただか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did I say something wrong?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -146,7 +150,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

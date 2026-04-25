@@ -33,121 +33,129 @@
       <PointerOffset/>
       <JapaneseText>今日も今日とて警邏任務とは、
 お前も生真面目なこったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Day after day and here you are, with yet
+another patrol mission. You're overly
+serious, too, huh.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うるさい。
 僕に構うな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shut up. Leave me be.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まぁそう言うなって。
 ずっと根詰めっぱなしで疲れたろうから
 ちょいと差し入れを、な</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Well, don't say that. You must be pushing yourself
+to near exhaustion at this point. I brought you
+something small.</EnglishText>
+      <Notes>Yuri uses "maa" here and he regularly uses ma/maa. This is one thing I will never budge on as far as how I translate it, because it's an intentional part of his character. Since he repeats the same words, I get that across by keeping them constant in tl. I realize in most cases it would be more like "Now now, don't say that", but I'm very firm on how I handle Yuri's tls for very specific reasons. It's very literally a "him" thing, as much as Shing's catchphrase is for him. If he uses those specific words, no matter how I tl it, it will always include those words.</Notes>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ほら、クレープだ。　食えよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Here, it's a crepe. Eat it.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>な、こ、これは？
 お前が作ったのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wha--... Th-This...?
+Did you make this?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだっていいだろ。
 どうなんだ？
 食うのか、食わねぇのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anything should be fine according to you, right?
+So? Are you gonna eat it? You not gonna eat it?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……ふん。
 食材を無駄にするわけにはいかないからな。
 食ってやる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Hmph.
+I can't just let food go to waste. I'll eat it.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>今だ！　隙あり！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now! Gotcha!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだ、あいつ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What is she--?!</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>馬鹿な！？
 クレープに……ミソがついている？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It can't be! There's miso on the crepe?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>今の女が、やりやがったのか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did that woman just now do this?!</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……許せん。
 周辺を封鎖しろ！
 クレープを汚した犯人を許すな！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Unforgiveable. Blockade the area! We will not
+let this criminal get away with defiling this crepe!!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -158,7 +166,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -166,7 +174,7 @@
       <EnglishText/>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>
