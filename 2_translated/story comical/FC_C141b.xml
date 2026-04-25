@@ -24,89 +24,94 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>終わったのよね、これで……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's over now, isn't it...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ。
 だがこれは始まりに過ぎない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. But beyond this, it's just the beginning.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>２度とシュヴァルツを生み出さないように
 人間は変わっていかなきゃならない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Humans need to change so that Schwartz
+is never brought back into this world.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>その為の戦いの……始まりだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The battle for that purpose... is only just beginning.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>きっと厳しい戦いね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sure it's going to be a tough battle.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それでもなんとかやっていけるさ。
 俺にシェリアがいるように
 人はみんな誰かと繋がっている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even so, we'll get it done somehow. Just like
+I have you here for me, everyone has
+someone they're connected to.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>一人では道を間違える事があっても
 それを正してくれる人が側にいるのなら
 きっと……大丈夫だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if you go down the road path on your own,
+if you have someone by your side to correct them,
+I'm sure... everything will be alright.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ありがとう、シェリア。　俺を支えてくれて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you, Cheria. For supporting me.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>アスベル……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Asbel...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -117,7 +122,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -25,60 +25,64 @@
       <PointerOffset/>
       <JapaneseText>情報が本当なら
 このあたりに不良二人組がいるはずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If my information is accurate,
+there should be two deliquents in this area.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうでなくとも
 この近辺には盗賊が多いと聞く。
 気を引き締めていかないとね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even without that, I hear there are
+a lot of bandits in this victinity.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>不良ねぇ。
 そんなに目くじら立てる事かよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Deliquents, huh. Is something that trivial really
+something you need to worry so much about?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>正しい道を歩めるなら
 そちらを選んだ方がいいに決まってる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you're able to walk the right path,
+of course it's best to choose that path.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>少なくとも僕は、そう思っているんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At least, that's how I think of it.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ま、お前らしいけどな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, that is just like you, though.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -89,7 +93,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

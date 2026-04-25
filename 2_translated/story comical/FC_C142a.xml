@@ -25,86 +25,91 @@
       <PointerOffset/>
       <JapaneseText>水遊びをしてる人がいっぱい。
 みんな楽しそうね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are so many people playing in the water.
+It looks like they're all having so much fun.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、とても平和な光景だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. It really is a peaceful scene.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だがこんな平和な状況では
 俺はいったいなにを守ればいいんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But in peaceful times like this,
+what in the world am I actually even protecting?</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>無理になにかを守る必要はないんじゃないの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't it pretty unreasonable to force
+yourself to need to protect something?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>むっ、なんだ！？
 あの一帯が騒がしいな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hm? What was that?!
+That whole area just got noisy!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>覗きが出た……みたいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It looks like... someone got caught peeping.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだと！？　覗き！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What?! Peeping?!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くっ、なんて卑劣な……！
 いくぞ、シェリア！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kh. How despicable...!
+Let's go, Cheria!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？　ええ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Yes...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -115,7 +120,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

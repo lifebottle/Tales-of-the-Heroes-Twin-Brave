@@ -26,52 +26,58 @@
       <JapaneseText>パンを武器に戦う女性がいると
 噂で聞いたんだ。
 そんな事がありえるのだろうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I heard a rumor that there's this woman
+who fights using bread as her weapon.
+Is that even possible...?</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いくら固くてもパンでしょ？
 そんなもので剣や他の武器相手に戦うなんて
 自殺行為でしかないわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No matter how hard it is, it's still bread, right?
+Fighting against swords or other weapons
+is just an act of suicide at that point.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ。
 だがそれよりも俺はパンの事が心配だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. But more important that,
+I'm worried about the bread.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パンは食べられる為にあるもの。
 武器として扱われるなんて
 パンとしても不本意に違いない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bread is there to be eaten. I'm sure even
+the bread itself isn't a willing participant.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だから俺は、パンを守ってみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So I'm going to protect that bread!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -82,7 +88,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

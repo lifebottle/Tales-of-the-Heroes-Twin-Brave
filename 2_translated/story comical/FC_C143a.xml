@@ -25,41 +25,43 @@
       <PointerOffset/>
       <JapaneseText>ここにいる貴族の跡取りは
 かなり食べ物の好き嫌いが激しいらしい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The heir to the noble family here is apparently
+pretty intense about what he likes and doesn't like.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>彼がなにかを残す度に
 食材が無駄にされていくんだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>He's wasting food every time he acts like that.</EnglishText>
+      <Notes>Unsure about this exact phrasing.</Notes>
       <SpeakerId>28</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな事は許せない。
 俺は、食材を守り抜いてみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't let him do that.
+I have to protect the ingredients!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そこまで頑張って
 守り抜くものなのかしら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is it necessary to go all out to protect that...?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -70,7 +72,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

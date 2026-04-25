@@ -24,80 +24,83 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ついにここまで来たな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We've finally made it this far...</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ええ、そうね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, that's right...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>シュヴァルツ……奴を生み出してしまった
 この世界にも非がある事はわかっている。
 だがそれでも、そうだとしても……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Schwartz... I know the world itself is also at fault
+for bringing her into it... But still, even so...</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺はこの世界に生きるみんなを守りたい……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to protect everyone in this world...!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>大切な者を失う悲しみは……
 二度と味わいたくないんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I never want... to experience the sorrow of
+losing someone dear to me ever again.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>アスベル……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Asbel...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いくぞ、シェリア。
 俺はみんなを守る為に戦う。
 だから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, Cheria.
+I fight to protect everyone. So...</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ええ。
 あなたの背中は、私が守るわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes. I'll watch your back and protect you.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -108,7 +111,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

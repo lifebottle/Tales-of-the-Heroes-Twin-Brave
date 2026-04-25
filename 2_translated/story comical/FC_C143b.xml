@@ -40,89 +40,95 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>さぁ食べろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now eat it!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>身体にもいいから、食べなさい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's good for you, so eat it.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うぷっ……。
 あーまじぃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Augh...
+Agh... Gross.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>よし、ちゃんと食べたな。
 よかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, be sure to eat it properly.
+I'm happy for you.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おたくら、いったい何者なんだ？
 本当にわざわざ
 食べ残しをさせない為に来たのか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Who the heck are you nerds?
+Did you really come all the way
+here for the sake of food waste?</EnglishText>
+      <Notes>Guy uses おたくら here, so I used nerds for that.</Notes>
       <SpeakerId>17</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうよ。
 アスベルが食べ物を守るって聞かなくて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right. Asbel wouldn't hear it
+once it came to protecting the food.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それは大変だったろうな、あんたも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That must've been pretty crazy for you, too.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ええ、とても大変。
 あなたも苦労してそうね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, it was very crazy.
+You also look to be having troubles of your own.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんの話だ、シェリア？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you talking about, Cheria?</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -133,7 +139,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -41,90 +41,96 @@
       <PointerOffset/>
       <JapaneseText>これに懲りたら
 二度と覗きなんて卑劣な真似はしないことだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now that you've had to learn the hard way,
+don't ever behave in such a despicable
+manner as peeping.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>へ〜い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yuuuup.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はぁ、俺さま反省。
 これくらいでこんなに痛い目にあわされちゃ
 割に合わないし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haa. I'll do some self-reflecting. I don't wanna
+suffer all that pain for something like this.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>反省が見られないわね。
 なんなら縛りあげた状態で
 女の子達に引き渡そうかしら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not seeing any remorse. Maybe I should
+tie you up and send you off to the girls.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うっげェェェ！　それマジ勘弁！
 タコ殴り確実じゃねェか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gahhhh! Seriously, forgive us!
+We'd totally get our asses knocked around!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかった、もうしません！
 もうしませんから〜！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I getcha, we won't do it!
+We won't do it anymooore!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうか。　わかればいいんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see. If you understand, that's good.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やったわね、アスベル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You did it, Asbel.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ。
 俺は、女性を守れたんだな……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. I protected those women...!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -135,7 +141,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

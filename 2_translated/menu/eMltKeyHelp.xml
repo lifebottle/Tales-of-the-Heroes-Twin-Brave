@@ -89,7 +89,6 @@
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-    <Section>Section 2</Section>
     <Entry>
       <PointerOffset>184</PointerOffset>
       <JapaneseText>モデル回転</JapaneseText>
@@ -138,7 +137,6 @@
       <Id>17</Id>
       <Status>To Do</Status>
     </Entry>
-    <Section>Section 3</Section>
     <Entry>
       <PointerOffset>238</PointerOffset>
       <JapaneseText>切り替え</JapaneseText>
@@ -147,7 +145,6 @@
       <Id>18</Id>
       <Status>To Do</Status>
     </Entry>
-    <Section>Section 4</Section>
     <Entry>
       <PointerOffset>284</PointerOffset>
       <JapaneseText>キャラ切り替え</JapaneseText>

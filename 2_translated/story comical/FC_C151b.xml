@@ -25,40 +25,43 @@
       <PointerOffset/>
       <JapaneseText>そうか。
 お花畑とは言ってはいけなかったのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Should I have not have
+said they were delusional?</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん、今度から気をつけてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, you shouldn't have.
+Be more careful next time.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかった。
 では、今度からは
 綺麗なお花畑と言う事にしよう</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Understood. Then from now on, I'll say
+they're beautifully deluded, then.</EnglishText>
+      <Notes>This is a play on words in JP. お花畑 can mean a flower garden/bed or a field of flowers, but it can also mean delusional or having one's head in the clouds. Milla is saying 綺麗なお花畑, as in, a beautiful flower garden/bed/field, but it doubles over as "well I'll just POLITELY call them deluded, then".</Notes>
       <SpeakerId>31</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そういう問題じゃなくって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're missing the point!</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -69,7 +72,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -24,50 +24,55 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>今度から機械の扱いには気をつけよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll be more careful when dealing
+with machinery from now on.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いきなり斬ったりしたらだめだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't just go around
+suddenly slashing them like that.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>機械細工に防御力を期待してはいけない。
 そういう事なのだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So I can't expect defensive measures
+from machinery. So that's how it is.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん。
 期待してたのはミラだけだと思うよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right. I think you're the only one
+who had any other expectations.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうなのか？
 難しいものだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that right?
+These things sure are difficult to figure out.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -78,7 +83,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

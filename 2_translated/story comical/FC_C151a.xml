@@ -41,80 +41,85 @@
       <PointerOffset/>
       <JapaneseText>で〜きた♪
 エミルへの愛が詰まった特製ケーキ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All done! A special cake made with love for Emil!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これだけ甘くすれば
 アスベルも気に入ってくれるかしら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder if Asbel will like it if I make it this sweet...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>二人とも楽しそうだな。
 恋慕とはいいものだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those two seems to be having fun.
+Love is such a wonderful thing.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こういうのを、頭がお花畑と言うのだろう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't this what they call being delusional?</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちょ、ちょっと、ミラ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H-Hey, Milla?!</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なっ、誰の頭がお花畑なのよ！？
 いきなり失礼じゃない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wha--? Who's being delusional?!
+Don't you think you're being rude,
+saying that out of nowhere?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>私達が独りよがりで
 バカみたいに浮かれてるって
 そう言いたいの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you saying we're conceited
+and being foolishly happy?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>信じられない！
 絶対許さないんだから！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't believe you!
+I totally won't forgive you for this!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -125,7 +130,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -24,119 +24,124 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>やはりカレーは甘口が最高だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sweet curry really is the best!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>相変わらず、子どもっぽい趣味ね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The same childish taste as always, huh.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちがうぞ、シェリア。
 大人になって初めてわかる
 本当の甘口というものがあるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not it, Cheria. There's a real sweetness
+you only understand once you become an adult.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……たぶん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Probably.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それで今度はなにを守りたいの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So what is you're going to protect this time?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>この先にいるカイウスは
 マーボーカレーが好きらしいんだ。
 おかしいと思わないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Caius, up ahead there, seems to like
+mabo curry. Don't you find that odd?</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>マーボーカレーが好きな事が？
 別段おかしいとは思わないけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Liking mabo curry? I don't think anything
+is particularly odd about that...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちがう！
 マーボーカレーを甘口にしないなんて
 おかしいと思わないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No! Don't you think it's just odd
+to not have curry be sweet?</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>……そこなの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You think so?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺は彼のマーボーカレー好きを
 甘口カレー好きに変えてやりたい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to change his liking for
+mabo curry to liking sweet curry!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>守りたいんだ、甘口カレーを！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to protect it! The sweet curry!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それはむしろ……マーボーカレーを
 攻めてるんじゃない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't that more like... attacking mabo curry?</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -147,7 +152,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

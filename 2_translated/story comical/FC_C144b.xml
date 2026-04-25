@@ -41,82 +41,90 @@
       <PointerOffset/>
       <JapaneseText>では、その友人の女性に伝えておいてくれ。
 二度とパンを武器にしないように</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So now, I need to tell your friend something for me.
+Never use bread as a weapon again.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>一応、言っておく。
 だが、あいつが素直に聞くとは思えないぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll let her know. I don't think she's
+just gonna quietly listen to that, though.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そもそも私達も被害者なんだ。
 彼女と一戦交えようものなら
 容赦なくパンで殴られるのだからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're victims here too, to begin with.
+If you cross weapons with her in battle,
+she'll beat you mercilessly with her bread.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パンで殴られるなんて
 身体よりも心にダメージが残りそうね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Being beaten with bread seems like it would
+leave more emotional damage than physical...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかってくれるのか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Will she even understand...?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>大丈夫だ。
 いざとなったら
 俺が直接その女性と話し合う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It'll be alright. If it comes down to it,
+I'll speak to the woman directly.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パンによる秋雨のような
 怒濤の突きが飛んでこようとも
 俺は一歩も退くつもりはない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if her vigorous jabs are like an autumn rain
+of bread, I have no intention of withdrawing
+even one step.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パンの気持ちは、俺が守り抜いてみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will make sure to protect the bread's feelings!</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -127,7 +135,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>
