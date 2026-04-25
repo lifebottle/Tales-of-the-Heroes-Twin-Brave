@@ -1,0 +1,89 @@
+<MenuText>
+  <Strings>
+    <Section>Section 1</Section>
+    <Entry>
+      <PointerOffset>52</PointerOffset>
+      <JapaneseText>既にテイルズ オブ ザ ヒーローズ　ツインブレイヴのインストールデータが存在します。
+このインストールデータを削除して、新たなインストールデータを作成しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>210</PointerOffset>
+      <JapaneseText>スリープモードに移行したため、データインストールが中断されました。
+やりなおしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>297</PointerOffset>
+      <JapaneseText>データインストールを行なう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>325</PointerOffset>
+      <JapaneseText>データインストールを行ない読み込みを高速化します
+xxxMB以上の空き容量がある記録メディアが必要です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>423</PointerOffset>
+      <JapaneseText>データの削除</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>437</PointerOffset>
+      <JapaneseText>記録メディアに保存されているデータを削除します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>485</PointerOffset>
+      <JapaneseText>データインストール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>505</PointerOffset>
+      <JapaneseText>データインストールのデータを使用しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>549</PointerOffset>
+      <JapaneseText>セーブデータのデータインストール設定が
+『無効』に設定されています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>616</PointerOffset>
+      <JapaneseText>『有効』に切り替えますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

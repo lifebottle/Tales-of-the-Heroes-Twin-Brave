@@ -1,0 +1,224 @@
+<MenuText>
+  <Strings>
+    <Section>Section 1</Section>
+    <Entry>
+      <PointerOffset>120</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122</PointerOffset>
+      <JapaneseText>絆レベル:%03d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>137</PointerOffset>
+      <JapaneseText>HP:%05d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>146</PointerOffset>
+      <JapaneseText>NEXT:%07d/%07d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>162</PointerOffset>
+      <JapaneseText>攻撃力:%04d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>175</PointerOffset>
+      <JapaneseText>LV:%03d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>146</PointerOffset>
+      <JapaneseText>NEXT:%07d/%07d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>184</PointerOffset>
+      <JapaneseText>GALD : %09d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>197</PointerOffset>
+      <JapaneseText>次へ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>197</PointerOffset>
+      <JapaneseText>次へ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>203</PointerOffset>
+      <JapaneseText>早送り</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>211</PointerOffset>
+      <JapaneseText>クリア報酬、%dガルドを手に入れた！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>247</PointerOffset>
+      <JapaneseText>クリア報酬を手に入れられなかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281</PointerOffset>
+      <JapaneseText>報酬武器、入手条件達成！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>307</PointerOffset>
+      <JapaneseText>連動サイトから報酬武器を入手できます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>345</PointerOffset>
+      <JapaneseText>%s
+HPの上限が上昇しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>372</PointerOffset>
+      <JapaneseText>HP %d → %d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>385</PointerOffset>
+      <JapaneseText>より多くのアクセサリーを
+装備できるようになりました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>438</PointerOffset>
+      <JapaneseText>攻撃力が上昇しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>460</PointerOffset>
+      <JapaneseText>攻撃力 %d → %d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>477</PointerOffset>
+      <JapaneseText>パートナーゲージの
+回復時間が短くなりました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>522</PointerOffset>
+      <JapaneseText>パートナーに新しい術・技を</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>550</PointerOffset>
+      <JapaneseText>設定できるようになりました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>578</PointerOffset>
+      <JapaneseText>連携秘奥義が使用可能になりました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>612</PointerOffset>
+      <JapaneseText>秘奥義中に△ボタンを押すと発動します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>650</PointerOffset>
+      <JapaneseText>連携秘奥義の</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>664</PointerOffset>
+      <JapaneseText>使用可能回数が増えました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

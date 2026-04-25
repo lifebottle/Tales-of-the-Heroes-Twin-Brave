@@ -1,0 +1,261 @@
+<MenuText>
+  <Strings>
+    <Section>Section 1</Section>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>142</PointerOffset>
+      <JapaneseText>制限時間内に最高hitsを狙え！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>172</PointerOffset>
+      <JapaneseText>制限時間内に最高K.O.を狙え！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>202</PointerOffset>
+      <JapaneseText>最短時間で目標を撃破せよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>230</PointerOffset>
+      <JapaneseText>最短時間で敵を全滅せよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>256</PointerOffset>
+      <JapaneseText>報酬条件：hits %d以上</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279</PointerOffset>
+      <JapaneseText>報酬条件：K.O. %d以上</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>302</PointerOffset>
+      <JapaneseText>報酬条件：%02d:%02d以内</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>327</PointerOffset>
+      <JapaneseText>報酬額：%dGALD</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>343</PointerOffset>
+      <JapaneseText>鋼体+%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>352</PointerOffset>
+      <JapaneseText>威力+%d％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>363</PointerOffset>
+      <JapaneseText>hits受付時間・%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>381</PointerOffset>
+      <JapaneseText>hits+%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>390</PointerOffset>
+      <JapaneseText>小</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>394</PointerOffset>
+      <JapaneseText>大</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398</PointerOffset>
+      <JapaneseText>ブレイヴ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>408</PointerOffset>
+      <JapaneseText>アシスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>418</PointerOffset>
+      <JapaneseText>ディフェンス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>432</PointerOffset>
+      <JapaneseText>ウェイト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>442</PointerOffset>
+      <JapaneseText>コンティニューしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>468</PointerOffset>
+      <JapaneseText>戦闘準備に戻りますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>492</PointerOffset>
+      <JapaneseText>今回のプレイ内容は失われます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>522</PointerOffset>
+      <JapaneseText>モード選択に戻りますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>492</PointerOffset>
+      <JapaneseText>今回のプレイ内容は失われます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>548</PointerOffset>
+      <JapaneseText>ステージの最初からやり直しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>492</PointerOffset>
+      <JapaneseText>今回のプレイ内容は失われます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>584</PointerOffset>
+      <JapaneseText>タイトル画面に戻りますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>492</PointerOffset>
+      <JapaneseText>今回のプレイ内容は失われます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>612</PointerOffset>
+      <JapaneseText>プレイヤー選択に戻りますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>492</PointerOffset>
+      <JapaneseText>今回のプレイ内容は失われます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>642</PointerOffset>
+      <JapaneseText>ステージ選択に戻りますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>492</PointerOffset>
+      <JapaneseText>今回のプレイ内容は失われます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>
