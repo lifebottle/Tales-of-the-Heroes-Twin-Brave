@@ -24,7 +24,7 @@
       <PointerOffset/>
       <JapaneseText>ボーナス宝箱出現！</JapaneseText>
       <EnglishText>A bonus treasure chest has appeared!</EnglishText>
-      <Notes>Needs name. TL done.</Notes>
+      <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -33,7 +33,7 @@
       <PointerOffset/>
       <JapaneseText>ＨＰゲージが付いているバリケードは破壊可能です</JapaneseText>
       <EnglishText>Barricades with HP bars can be destroyed.</EnglishText>
-      <Notes>Needs name. TL done.</Notes>
+      <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <Status>Editing</Status>
