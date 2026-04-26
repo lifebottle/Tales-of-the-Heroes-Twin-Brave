@@ -15,119 +15,121 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>雑魚じゃねぇみたいだな</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Looks like we're not dealing with small fry here.</EnglishText>
+      <Notes>Uses "we're", but I'm uncertain if this pops up while Cless is present.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おもしろくなってきやがった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is getting interesting.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あいつ……ほっとくわけにはいかねぇな</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>That guy... I can't just leave him alone.</EnglishText>
+      <Notes>Unsure if this refers to Cless or an enemy.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレも気を引き締めてかからねぇとな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I need to be careful and brace myself, too...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>少しはデキるみてぇだな</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Looks like you can actually
+do a little something here.</EnglishText>
+      <Notes>Uses "you", but might be "they".</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あいつ……やるじゃねぇか</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>This guy... He's pretty good, huh.</EnglishText>
+      <Notes>Uses "guy", but no gender confirmation yet.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ここまでやるとは思わなかったぜ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I didn't think they'd take it this far.</EnglishText>
+      <Notes>Uses "they'd", but need context for gender.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>こんな奴……見た事ねぇよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>This guy...
+I've never seen someone like him before.</EnglishText>
+      <Notes>Uses "guy" and "him", but needs more context.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あいつに近付いたら危険だな</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>It's dangerous to get near that guy.</EnglishText>
+      <Notes>Uses "guy". Needs more context to confirm.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレがやるしかねぇんだろうな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guess it's gotta be me.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>よくもやりやがったな！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>How dare you do that!</EnglishText>
+      <Notes>May be "they". Needs context.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>退く気はねぇみたいだな！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Seems like you aren't gonna retreat!</EnglishText>
+      <Notes>Not sure if this is a "they" case.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>射貫いてやるよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll shoot a bull's eye!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

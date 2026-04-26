@@ -15,119 +15,120 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ふんっ、少しはデキるみてぇだな</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Hmph. Looks like you can
+actually do something small.</EnglishText>
+      <Notes>Unknown actual subject matter.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>認めてやってもいいぜ、おまえの事</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I guess I can acknolwedge you.</EnglishText>
+      <Notes>Unknown actual subject matter.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いつまでも調子のってんじゃねぇ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Don't think you can be cocky forever!</EnglishText>
+      <Notes>Unknown actual subject matter.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>来いよ。俺が相手になってやる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come. I'll be your opponent!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いい動きしてる奴がいるな</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>You have good moves.</EnglishText>
+      <Notes>Unknown actual subject matter.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あいつ、なかなかおもしれぇじゃねぇか</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>He's pretty interesting, huh?</EnglishText>
+      <Notes>Unknown actual subject matter.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いい気になってんじゃねぇぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't get carried away.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まだ止められないのかよ……！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Can I still not stop them...?!</EnglishText>
+      <Notes>Unknown actual subject matter.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>圧倒的だな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is overwhelming...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺は負けねぇからな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I won't lose...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺を怒らせたいらしいな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like you wanna piss me off!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>逃げんなよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not letting you run!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>死んでも恨むんじゃねぇぞ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Don't hold a grudge against me if I die!</EnglishText>
+      <Notes>Not sure if this is accurate.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
 </SceneText>

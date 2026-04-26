@@ -26,48 +26,51 @@
       <JapaneseText>私はだめだな。
 知らず知らずのうちに
 みなの怒りを買っていたようだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm no good at this. It would seem I've
+unknowingly caused everyone a
+great deal of anger.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>しょうがないよ。
 ミラは知らない事が多すぎるんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's no helping that.
+There are so many things you don't know about.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>大丈夫。　僕が側にいるから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's alright. I'm right here next to you.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>感謝しているよ、ジュード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm grateful, Jude.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>心からな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>From the bottom of my heart...</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -78,7 +81,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

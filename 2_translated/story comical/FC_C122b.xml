@@ -42,68 +42,73 @@
       <JapaneseText>甘い物の食べ過ぎは身体によくない。
 今後は、バランスの良い
 食生活を心がけてくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eating so many sweet things isn't good
+for your health. From now on, you should
+dedicate yourself to having good,
+balanced eating habits.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くっ、なぜ僕が
 説教などされなければならない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kh. Why am I the one who
+needs to be preached at?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ピーチパイに……出会えなかった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I didn't... encounter any peach pie...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん、
 このクレープうめぇな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yup. This crepe is awesome.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お、こっちのパフェもいけるじゃねぇか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, this parfait over here looks good, too.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おい、どういう事だ！
 お前の相棒もかなり食べているぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, what is the meaning of this?!
+Your partner is eating a bunch of them, too.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うっ、ユーリ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahh... Yuri...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -114,7 +119,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

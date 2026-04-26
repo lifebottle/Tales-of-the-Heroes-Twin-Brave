@@ -15,119 +15,119 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>強敵のようだな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like a tough enemy...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くっ、これ以上やらせるわけには……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Kh... I can't let this go on...</EnglishText>
+      <Notes>Subject ("I" in this case might be "we").</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>誰にも止められないのか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Is there nobody who can stop them?</EnglishText>
+      <Notes>Subject.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あの敵を相手に、俺はどこまでやれるんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How far can I go with this enemy as my opponent?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いい動きだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Good move.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あれ程の達人がいるとは……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I didn't think there was such a master at this...</EnglishText>
+      <Notes>Needs context. Not sure where this line comes in, so this might have to be something that's corrected after beta testing.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まだ余裕があるというのか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Is there still more room?</EnglishText>
+      <Notes>Need proper context.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>早くなんとかしなければ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>We've gotta hurry and do something!</EnglishText>
+      <Notes>Subject.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>無限に続くというのか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is this gonna go on indefinitely...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>俺は、奴に勝てるのか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Can I win against this one?</EnglishText>
+      <Notes>Used "this one" because I'm usure of the gender of whoever he's fighting for this specific line.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くそっ！　守れなかった……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Dammit! I couldn't protect her...</EnglishText>
+      <Notes>Unknown gender specification. Using "her" for now for Cheria, but I'll need more context.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>来るというのなら、容赦はしない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you get any closer, I won't hold back.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>アスベル・ラントだ。いかせてもらうぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Asbel Lhant. I'm going for it!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

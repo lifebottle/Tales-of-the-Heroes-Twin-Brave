@@ -24,113 +24,117 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>いい加減にしてくれ、ユーリ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Knock it off already, Yuri!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>君のせいで
 僕の言葉はすべて説得力を失ってしまう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because of you, my words are
+losing all of their persuasion!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレのせいだってのかよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why's that my fault?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どう考えても君のせいだろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No matter how you look at this, it is your fault!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だったら、どうするんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So what are you gonna do about it?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕は順序を間違っていたようだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems I got the order of things wrong.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>真っ先に更生させるべきは、君だった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're the first one who needs to start anew.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレがおとなしく
 お前の言う事聞くとでも思ってんのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you actually think I'm just gonna quietly
+listen to whatever it is you have to say?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>思っていないさ。　だから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think you will. So...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>想いは剣に乗せて……か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're gonna put those feelings
+into your sword... right?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいぜ。
 かかってこいよ、フレン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sounds good.
+Come at me, Flynn.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>容赦はしない……ユーリ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I won't hold back... Yuri!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -141,7 +145,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

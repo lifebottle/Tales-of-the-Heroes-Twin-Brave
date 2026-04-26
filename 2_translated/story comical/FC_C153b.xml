@@ -24,39 +24,40 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>セネルに泳ぎを教わればいいんじゃないかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe it'd be good to take
+swimming lessons from Senel?</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>確かにそれは名案だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That does seem like a good idea.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だが、べつにそうまでして
 泳ぎたいわけじゃないからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, I don't exactly care to swim all that much.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>じゃあ……泳ぐのもうやめようよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then... how about you just stop swimming?</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -67,7 +68,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

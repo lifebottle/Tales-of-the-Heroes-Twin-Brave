@@ -25,70 +25,75 @@
       <PointerOffset/>
       <JapaneseText>どうやら
 君を更生させる事は僕には無理らしい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So in the end, it looks like I won't
+be able to get you to start anew.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そういうこった。
 何事も諦めが肝心ってな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's how it is.
+Giving up is the most essential part.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>とりあえず
 今度誰かを説得しに行くときは
 君を連れていかないようにするよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In any case, next time I need to persuade
+someone, I won't bring you along.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そりゃ嬉しいね。　せいせいするぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Happy to hear it. That's a relief.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だがまぁ、
 なにかあったときはいつでも言えよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, well, if anything happens,
+you can tell me anytime.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>違う道を歩いてるからこそ
 出来る事もあるはずだから、な</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Since we walk different paths,
+there's gotta be stuff we can both do, right?</EnglishText>
+      <Notes>More literally, it's just like, "there's stuff that can be done". I believe the implication here is their usual, we walk different paths, but there are still things both of us can do from our own end of things.</Notes>
       <SpeakerId>24</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ……そうだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... That's right.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -99,7 +104,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

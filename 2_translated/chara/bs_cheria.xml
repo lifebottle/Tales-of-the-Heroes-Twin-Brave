@@ -15,119 +15,120 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>あの敵、注意が必要ね</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>We need to be cautious of that enemy.</EnglishText>
+      <Notes>Subject.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>危険だわ……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>That was dangerous...</EnglishText>
+      <Notes>Used past tense, but may need to change that based on context.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>誰にもとめられないというの……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Does this mean nobody can stop them...?</EnglishText>
+      <Notes>Subject.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>恐ろしい敵だわ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Such a terrifying enemy...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>注意した方がいい相手みたいね</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Seems like an opponent we
+need to be cautious against.</EnglishText>
+      <Notes>Uses "we", but I'm not sure if this is her and Asbel or a case where's she by herself.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これ以上やらせるわけには……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I can't continue like this...</EnglishText>
+      <Notes>May need context.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これ程の実力だなんて……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>To think, he has this much skill...</EnglishText>
+      <Notes>Needs context for gender.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>信じられない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't believe it...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まだ続いていくというの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is this going to continue on?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わたしに、あの敵を止められるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Can I actually stop this enemy?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>許せない……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I won't forgive you...!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>退いてはくれないのね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm guessing you're not going to retreat.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わたしにだって、護りたいものがある！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have something I want to protect, too!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

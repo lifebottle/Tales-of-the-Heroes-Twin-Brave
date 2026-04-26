@@ -42,71 +42,78 @@
       <JapaneseText>あなたは神子でしょう？
 ならば、神子らしく
 品行方正を心がけるべきです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're a Chosen, correct? In which case,
+as a Chosen should, you should aim to
+have exceptional conduct.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>へへっ、ゼロス怒られてやんの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehe, Zelos is getting scooolded.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>君もだ！神子のそばにいる者として、
 勢いで突っ込むのではなく、
 品行方正を心がけてくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You, as well! As someone by the
+Chosen's side, you shouldn't be
+rushing into things with such impulse,
+instead aiming to have exceptional conduct.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな事言うけどさぁ〜。
 そっちのお友達も
 全然、品行方正じゃないよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You say that, but... your friend over there
+doesn't have exceptional conduct at all, does he?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだよな。
 さっき、法なんて守る気ないって
 はっきりと言ってたし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's right. Earlier, he said totally clearly
+that he has no interest in following the law.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、言ったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, I did say that, actually.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>くっ、ユーリ、君って奴は……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ack! Yuri, you're so...!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -117,7 +124,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

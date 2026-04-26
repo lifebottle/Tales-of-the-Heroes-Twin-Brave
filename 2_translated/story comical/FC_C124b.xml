@@ -41,67 +41,70 @@
       <PointerOffset/>
       <JapaneseText>なんにでもやる気を見せて
 もっと積極的に行動してくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You should be enthusiatic about everything
+you do, and be more proactive in what you do.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>熱い気持ちを忘れずにね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't forget your feelings of passion.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ま、そういうこったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, that's his spiel.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そのわりにはあんたの相方
 あんまやる気あるように見えねぇけどな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Despite that though, your partner
+doesn't look all that enthusiastic.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだね。
 燃える心とかなさそう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's true. Doesn't look like he
+has much of a passionate heart.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まぁ確かにねぇな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, that's pretty much true.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ユーリ……いい加減にしてくれ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yuri... Knock it off already...!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -112,7 +115,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

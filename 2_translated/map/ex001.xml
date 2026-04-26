@@ -23,29 +23,29 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>増援が現れた！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reinforcements have arrived!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>更に、増援が現れた！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>More reinforcements have arrived!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>野次馬乱入！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curious onlookers jump in?!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -53,11 +53,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>閉じ込められた！敵の追っ手を倒せ！！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>You're trapped! Defeat the enemy pursuers!!</EnglishText>
+      <Notes>Need name. Translation is done.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

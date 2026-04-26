@@ -24,48 +24,52 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>今度から肉を焼くときは気をつけよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll be more careful when grilling meat from now on.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>やっぱり灰はやりすぎだったね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I knew using ashes was just going too far.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>猟師というのは大変だな。
 獣を倒したら必ず肉を食べねばならないんだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It must tough being a hunter. Once you
+defeat an animal,you have to be sure
+to eat the meat, right?</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>肉のない魔物はどうするんだろう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do they do with monsters
+that don't have meat...?</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>肉のない魔物は狩らないんだよ、ミラ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They don't hunt monsters
+that don't have meat, Milla...</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -76,7 +80,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

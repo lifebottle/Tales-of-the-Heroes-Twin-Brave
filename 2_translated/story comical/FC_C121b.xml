@@ -42,71 +42,79 @@
       <JapaneseText>君達が悪い人間じゃないのはわかってる。
 だけど、人は話し言葉次第で
 周りのみんなに誤解されてしまうものなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know you guys aren't bad people. But depending
+on what you say and how, the people around you
+could misunderstand what you mean.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だからもっと
 きちんとした話言葉を学んでくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you should take the time to
+learn how to speak more precisely.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>きちんと話しすぎて
 そっちのイメージもたれても
 めんどくせぇと思うけどな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you talk too precisely though,
+I think it'd be pretty annoying to leave
+people having that kind of image of you.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>んだよ！
 お前の相棒の話し方も
 オレらと大差ねェじゃねェか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the hell?! Your partner's way of talkin'
+ain't even all that different from how we talk!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いやいや。
 おまえらよりはマシなんじゃねぇか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nah, nah. Compared to you guys,
+I'm totally less objectionable.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも品行方正な感じじゃないだろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But you don't even GIVE the feeling
+of having good conduct!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>うっ、それを言われると……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ack... When you say it like that...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -117,7 +125,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>
