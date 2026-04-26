@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset>68</PointerOffset>
       <JapaneseText>戻る</JapaneseText>
-      <EnglishText>Return</EnglishText>
+      <EnglishText>Back</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>74</PointerOffset>
@@ -20,7 +20,7 @@
     <Entry>
       <PointerOffset>80</PointerOffset>
       <JapaneseText>再生</JapaneseText>
-      <EnglishText>Replay</EnglishText>
+      <EnglishText>Play</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Editing</Status>
@@ -39,31 +39,31 @@
       <EnglishText>Settings</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>104</PointerOffset>
       <JapaneseText>確認</JapaneseText>
       <EnglishText>Confirm</EnglishText>
-      <Notes/>
+      <Notes>need to check the context to see how different it is with the other confirm button in the same file</Notes>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>110</PointerOffset>
       <JapaneseText>初期設定に戻す</JapaneseText>
-      <EnglishText>Restore Default Settings</EnglishText>
+      <EnglishText>Restore Defaults</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>126</PointerOffset>
       <JapaneseText>設定完了</JapaneseText>
-      <EnglishText>Complete Setup</EnglishText>
-      <Notes/>
+      <EnglishText>Setup Complete</EnglishText>
+      <Notes>need to see context</Notes>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>136</PointerOffset>
@@ -76,7 +76,7 @@
     <Entry>
       <PointerOffset>142</PointerOffset>
       <JapaneseText>進む</JapaneseText>
-      <EnglishText>Continue</EnglishText>
+      <EnglishText>Next</EnglishText>
       <Notes/>
       <Id>10</Id>
       <Status>Editing</Status>
@@ -95,7 +95,7 @@
     <Entry>
       <PointerOffset>184</PointerOffset>
       <JapaneseText>モデル回転</JapaneseText>
-      <EnglishText>Model Rotation</EnglishText>
+      <EnglishText>Rotate Model</EnglishText>
       <Notes/>
       <Id>12</Id>
       <Status>Editing</Status>
@@ -103,8 +103,6 @@
     <Entry>
       <PointerOffset>196</PointerOffset>
       <JapaneseText>ぬいぐるめっとON/OFF</JapaneseText>
-      <EnglishText>Plush Toy ON/OFF</EnglishText>
-      <Notes>Unsure.</Notes>
       <Id>13</Id>
       <Status>Problematic</Status>
     </Entry>
@@ -135,10 +133,10 @@
     <Entry>
       <PointerOffset>248</PointerOffset>
       <JapaneseText>並べ替え</JapaneseText>
-      <EnglishText>Reorder</EnglishText>
-      <Notes>Needs context.</Notes>
+      <EnglishText>Sort</EnglishText>
+      <Notes/>
       <Id>17</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -157,7 +155,7 @@
     <Entry>
       <PointerOffset>284</PointerOffset>
       <JapaneseText>キャラ切り替え</JapaneseText>
-      <EnglishText>Swap Character</EnglishText>
+      <EnglishText>Change Character</EnglishText>
       <Notes/>
       <Id>19</Id>
       <Status>Editing</Status>
@@ -165,7 +163,7 @@
     <Entry>
       <PointerOffset>300</PointerOffset>
       <JapaneseText>情報切り替え</JapaneseText>
-      <EnglishText>Switch Information</EnglishText>
+      <EnglishText>Change Info</EnglishText>
       <Notes/>
       <Id>20</Id>
       <Status>Editing</Status>

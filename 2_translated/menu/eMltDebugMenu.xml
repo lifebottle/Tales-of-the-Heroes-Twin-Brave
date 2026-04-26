@@ -6,10 +6,12 @@
       <JapaneseText>MLTを用いたテキスト表示です。
 ゲーム内のテキストはソースに書くのではなく、
 mlt_editor.xlsによってバイナリ化したテキストを使いましょう。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is text displayed using MLT. Instead of writing in-game
+text directly in the source code, use text that has been
+converted to binary format using mlt_editor.xls.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -17,50 +19,50 @@ mlt_editor.xlsによってバイナリ化したテキストを使いましょう
     <Entry>
       <PointerOffset>192</PointerOffset>
       <JapaneseText>メニューサンプル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Menu Sample</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>210</PointerOffset>
       <JapaneseText>プレイヤー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Player</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>222</PointerOffset>
       <JapaneseText>パートナー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Partner</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>234</PointerOffset>
       <JapaneseText>所持金</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>242</PointerOffset>
       <JapaneseText>アクセサリ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Accessory</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>254</PointerOffset>
       <JapaneseText>アンロック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unlock</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
