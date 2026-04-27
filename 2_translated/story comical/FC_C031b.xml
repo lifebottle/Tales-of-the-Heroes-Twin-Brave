@@ -41,92 +41,100 @@
       <PointerOffset/>
       <JapaneseText>そこまで騎士になりたいなら
 上官に君の事を推薦してみるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you want to become a knight that much, I can put
+in a recommendation for you to my superior officer.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>素質は十分みたいだからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You seem to have quite the potential.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>本当に！？　ありがとう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really?! Thank you!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちょ、ちょっと待ってくれよ！
 騎士って、忙しいんじゃねぇのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wa-Wait a second here!
+Aren't knights busy people?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それは当然だ。
 命令とあらば、どんなときでも
 どんな場所にでも出向くのが仕事だからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course we are. If we receive an order,
+it's our job to go anywhere at any time.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>じゃあ無理だ。
 そんな事してたら
 毎日狩りをする時間がなくなっちまう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then this sure isn't happening. If I did that,
+I wouldn't have any time to hunt every day.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なに言ってるのよ、リッド！
 騎士になれるんだよ？
 もう狩りなんてしなくていいんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the heck are you saying, Reid?!
+You could become a knight.
+You wouldn't have to hunt anymore.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレが狩りやめたら
 村の年寄りや身体の弱い連中に
 誰が肉を届けてやれるんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I stop hunting, who's gonna deliver meat to the
+elderly folks and the folks with weaker
+constitutions in the village?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あっ……そうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah... Good point.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -137,7 +145,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -40,14 +40,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ゼロスのファッションセンスはゼロッス！</JapaneseText>
-      <EnglishText>Zelos' fashion sense is zero!
-(TLN: In JP, R and L are essentially the same.
-The pronounciation for his name is Zerosu, which
-Cless is saying here. "Zerosu's fashion sense is zerosu", etc.)</EnglishText>
-      <Notes>Same situation as Kyle's. I imagine this is going to be a running theme. Cless is punning Zelos' name.</Notes>
+      <EnglishText>Zelos' fashion sense is zero!</EnglishText>
+      <Notes>Same situation as Kyle's.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

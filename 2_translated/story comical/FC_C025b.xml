@@ -24,116 +24,123 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうだった？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's going on?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あいつめ、ようやく白状したぞ。
 やはり食べ物をとってこさせたのは
 孤児院の子ども達の為だったらしい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That asshole finally confessed.
+Apparently she had me get that food
+for the sake of the orphanage children.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それどころか
 実際は人質などとっていなかったようだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In fact, it would seem she didn't
+even actually take any hostages.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだ、あいつもいいとこあるじゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well look at that, she's got
+some good qualities after all.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そのようだな。　ところでスタン……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems so. By the way, Stahn...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ん？　どうした？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hm? What's up?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>僕がもうお前を許したと思っているのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you actually think I've forgiven you?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>えぇぇ！？　許してくれてないの！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huuuh?! You haven't forgiven me?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>当たり前だ！
 食欲に負けて僕を裏切るとは
 友として恥ずかしいぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course not! I'm embarrassed to be
+the friend of someone who gave into
+his apetite and betrayed me!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はは、ごめんごめん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haha, sorry, sorry.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いいから、さっさと自分の食べた
 食料をもう一度とってこい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whatever, just hurry up and go get
+more of the food you ate on me!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わかったよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Gotcha!</EnglishText>
+      <Notes>The voice acing doesn't match the expression, so I'm a little unsure what to do with this one as far as English wording LOL.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -144,7 +151,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

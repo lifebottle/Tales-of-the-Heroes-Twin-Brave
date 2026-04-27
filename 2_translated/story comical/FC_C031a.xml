@@ -25,109 +25,116 @@
       <PointerOffset/>
       <JapaneseText>離せよ、ファラ。
 オレは村に戻るんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lemme go, Farah! I'm going back to the village!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だ〜め。
 ちゃんと新しい仕事を見つけるまで
 帰らせてあげないんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nooope. Until we can find proper
+new work, we're not going back.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレは今の生活で十分なんだ。
 新しい仕事なんて必要ねぇよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The way I'm living right now is good enough.
+I don't need any new work.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わたしね、リッドには
 もっとふさわしい仕事があると思うの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y'see, I think there's more
+fitting work out there for you.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレは思わないぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And I don't think there is.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな事ないって。
 たとえばほら、リッドって
 剣の腕だけはたつじゃない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't say that. For instance, like,
+you're only good with swords, right?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だから騎士なんて適職じゃないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So wouldn't being a knight be
+a suitable occupation for you?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ということで
 今から現職の騎士に決闘を申し込もう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And so that said, I'm gonna have you duel
+someone who already is a knight!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はぁ！？　なんでそうなるんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?! Why do I have to do that?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>現職の騎士に勝てれば
 リッドも自分の才能を認めるしかないでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you can defeat someone who's already a knight,
+you'd have to accept your own abilities, right?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>大丈夫！　イケる、イケる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's fine! No problem, no problem!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -138,7 +145,7 @@
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>
