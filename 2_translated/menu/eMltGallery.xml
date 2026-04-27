@@ -52,15 +52,15 @@
     <Entry>
       <PointerOffset>166</PointerOffset>
       <JapaneseText>本作で登場するテイルズ オブキャラクターの</JapaneseText>
-      <EnglishText>"Tales of" Characters In This Game</EnglishText>
+      <EnglishText>You can view the profiles of the</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>209</PointerOffset>
       <JapaneseText>プロフィールを見る事が出来ます</JapaneseText>
-      <EnglishText>You can view this profile.</EnglishText>
+      <EnglishText>"Tales of" Characters In This Game</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Editing</Status>
@@ -68,15 +68,15 @@
     <Entry>
       <PointerOffset>241</PointerOffset>
       <JapaneseText>プレイ中に観た事があるムービーを</JapaneseText>
-      <EnglishText>Movies Within the Game</EnglishText>
+      <EnglishText>You can view the</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275</PointerOffset>
       <JapaneseText>観る事が出来ます</JapaneseText>
-      <EnglishText>You can view this.</EnglishText>
+      <EnglishText>movies within the game</EnglishText>
       <Notes/>
       <Id>10</Id>
       <Status>Editing</Status>
@@ -84,15 +84,15 @@
     <Entry>
       <PointerOffset>293</PointerOffset>
       <JapaneseText>エンディングイラストを</JapaneseText>
-      <EnglishText>Ending Illustrations</EnglishText>
+      <EnglishText>You can view the</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>317</PointerOffset>
       <JapaneseText>閲覧する事が出来ます</JapaneseText>
-      <EnglishText>You can view this.</EnglishText>
+      <EnglishText>ending illustrations</EnglishText>
       <Notes/>
       <Id>12</Id>
       <Status>Editing</Status>
@@ -108,7 +108,7 @@
     <Entry>
       <PointerOffset>367</PointerOffset>
       <JapaneseText>キャラクター情報を閲覧します</JapaneseText>
-      <EnglishText>View Character Information.</EnglishText>
+      <EnglishText>View Character Information</EnglishText>
       <Notes/>
       <Id>14</Id>
       <Status>Editing</Status>
@@ -116,18 +116,18 @@
     <Entry>
       <PointerOffset>397</PointerOffset>
       <JapaneseText>ムービーを閲覧します</JapaneseText>
-      <EnglishText>View Movies.</EnglishText>
+      <EnglishText>View Movies</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>419</PointerOffset>
       <JapaneseText>イラストを閲覧します</JapaneseText>
-      <EnglishText>View Illustrations.</EnglishText>
+      <EnglishText>View Illustrations</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </MenuText>
