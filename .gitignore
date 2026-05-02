@@ -223,3 +223,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.xcf
+/tools/pmf_tools
+tools/eboot.hexproj
+/tools/eboot
