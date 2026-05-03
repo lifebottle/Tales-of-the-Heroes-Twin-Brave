@@ -281,11 +281,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>４秒以内に扉を封じるクリスタルを破壊せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy the crystal sealing the door within 4 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -299,11 +299,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>巨人兵士が出現！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Giant soldiers have appeared!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

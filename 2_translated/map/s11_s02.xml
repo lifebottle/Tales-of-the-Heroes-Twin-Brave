@@ -271,11 +271,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>２０秒以内に巨人兵士３体を撃破せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat 3 Giant Soldiers within 20 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -298,11 +298,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージでリーダーと門番を撃破せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat the Leader and the Gatekeeper without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -316,11 +316,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>門番を倒して先へ進め！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat the Gatekeeper and move forward!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

@@ -362,11 +362,12 @@
       <PointerOffset/>
       <JapaneseText>１２０秒以内に１２０Ｋ．Ｏ．を決めろ！
 門番を倒すと失敗になるぞ！　注意せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Score 120 K.O.s within 120 seconds!
+Defeating the gatekeeper results in failure! Be careful!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -389,11 +390,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>９０秒以内に公園内の敵を全て倒せ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat all enemies in the park within 90 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

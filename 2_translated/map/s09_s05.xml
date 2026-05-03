@@ -144,11 +144,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>…</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -306,11 +306,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>…!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -423,11 +423,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>…</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>40</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -477,11 +477,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>…!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -597,11 +597,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>１２秒以内に★を１０個集めろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Collect 10 ★ within 12 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>59</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

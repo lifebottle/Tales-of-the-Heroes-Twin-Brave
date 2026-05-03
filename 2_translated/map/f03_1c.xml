@@ -31,20 +31,20 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>６０秒以内に敵を全滅させろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wipe out all enemies within 60 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>隠し部屋出現！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Secret room revealed!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -58,11 +58,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージで敵を全滅させろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wipe out all enemies without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

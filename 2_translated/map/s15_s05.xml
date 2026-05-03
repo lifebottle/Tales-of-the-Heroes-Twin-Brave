@@ -288,11 +288,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>…</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -480,11 +480,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージで門番を倒せ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat the gatekeeper without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

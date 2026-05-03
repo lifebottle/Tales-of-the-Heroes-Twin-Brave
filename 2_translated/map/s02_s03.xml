@@ -514,11 +514,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>１０秒以内にノー・ダメージでクリスタルを破壊せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy the crystal without taking any damage within 10 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>48</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -541,11 +541,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>トラップが変化！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The traps have changed!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>51</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -79,11 +79,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>不審な奴だ！　捕まえろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That guy looks suspicious! Catch him!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -262,11 +262,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>隠し部屋開放！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Secret room unlocked!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

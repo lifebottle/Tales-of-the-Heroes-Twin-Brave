@@ -90,11 +90,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>…</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -355,11 +355,12 @@
       <PointerOffset/>
       <JapaneseText>８０秒以内に５０Ｋ．Ｏ．を決めろ！
 門を抜けると失敗になるぞ！　注意せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Achieve 50 K.O.s within 80 seconds!
+If you pass through the gate, it counts as a failure! Be careful!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

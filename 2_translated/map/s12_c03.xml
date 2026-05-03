@@ -79,11 +79,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>不審な奴だ！　捕まえろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That guy looks suspicious! Catch him!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -325,11 +325,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージで１０秒以内に★に辿り着け！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reach the ★ within 10 seconds without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

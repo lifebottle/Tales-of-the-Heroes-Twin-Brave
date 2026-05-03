@@ -32,11 +32,12 @@
       <PointerOffset/>
       <JapaneseText>１８０秒以内に３０Ｋ．Ｏ．を決め、★に辿り着け！
 クリスタルを破壊すると扉が開放されるぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Achieve 30 K.O.s within 180 seconds and reach the ★!
+Destroying the crystal will open the door!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

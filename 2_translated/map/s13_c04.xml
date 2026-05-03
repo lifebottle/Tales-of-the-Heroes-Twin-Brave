@@ -88,11 +88,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>不審な奴だ！　捕まえろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That guy looks suspicious! Catch him!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -380,11 +380,12 @@
       <PointerOffset/>
       <JapaneseText>１８０秒以内に３０Ｋ．Ｏ．を決め、★に辿り着け！
 クリスタルを破壊すると扉が開放されるぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Achieve 30 K.O.s within 180 seconds and reach the ★!
+Destroying the crystal will open the door!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

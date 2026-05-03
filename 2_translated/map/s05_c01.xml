@@ -290,11 +290,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージで１０秒以内に★に辿り着け！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reach the ★ within 10 seconds without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

@@ -79,11 +79,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>不審な奴だ！　捕まえろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That guy looks suspicious! Catch him!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -442,11 +442,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>３０秒以内に７Ｋ．Ｏ．を決めろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Score 7 K.O.s within 30 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -470,11 +470,12 @@
       <PointerOffset/>
       <JapaneseText>６０秒以内に３０Ｋ．Ｏ．を決めて★に辿り着け！
 門番を倒すと失敗になるぞ！　注意せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Score 30 K.O.s within 60 seconds and reach the ★!
+Defeating the gatekeeper results in failure! Be careful!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>43</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

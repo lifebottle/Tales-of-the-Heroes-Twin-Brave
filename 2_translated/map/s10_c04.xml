@@ -317,11 +317,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージで門番を倒せ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat the gatekeeper without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

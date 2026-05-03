@@ -351,11 +351,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージで３０秒以内に門番を倒せ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat the gatekeeper in under 30 seconds without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -378,11 +378,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>トラップが変化！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The traps have changed!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

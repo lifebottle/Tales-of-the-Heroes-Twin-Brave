@@ -567,11 +567,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>２５秒以内に次の扉を突破せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Break through the next door within 25 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -594,11 +594,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>５０秒以内に敵を全滅させろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wipe out all enemies within 50 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>56</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

@@ -281,11 +281,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>３０秒以内に７Ｋ．Ｏ．を決めろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Score 7 K.O.s within 30 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -309,11 +309,12 @@
       <PointerOffset/>
       <JapaneseText>６０秒以内に３０Ｋ．Ｏ．を決めて★に辿り着け！
 門番を倒すと失敗になるぞ！　注意せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Score 30 K.O.s within 60 seconds and reach the ★!
+Defeating the gatekeeper results in failure! Be careful!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

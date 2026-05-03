@@ -343,11 +343,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>判定チェック用です。後日消去します</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is for verification purposes. I'll delete it later.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

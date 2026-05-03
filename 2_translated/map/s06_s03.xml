@@ -314,11 +314,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>…</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -371,11 +371,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージで20秒以内に★まで辿り着け！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reach the ★ within 20 seconds without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -399,11 +399,12 @@
       <PointerOffset/>
       <JapaneseText>１２０秒以内に１００Ｋ．Ｏ．を決めろ！
 門を抜けると失敗になるぞ！　注意しろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Score 100 K.O.s within 120 seconds!
+If you go through the gate, it’s a failure! Be careful!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

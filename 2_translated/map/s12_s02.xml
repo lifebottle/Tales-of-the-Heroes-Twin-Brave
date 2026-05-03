@@ -63,11 +63,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>不審な奴だ！　捕まえろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That guy looks suspicious! Catch him!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -117,11 +117,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>…</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -300,11 +300,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>４秒以内に扉を封じるクリスタルを破壊せよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy the crystal sealing the door within 4 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -318,11 +318,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>巨人兵士が出現！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Giant soldiers have appeared!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
