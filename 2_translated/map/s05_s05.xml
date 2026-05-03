@@ -36,26 +36,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション開始！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Start!</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション成功！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Success!</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション失敗！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Failed!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -282,20 +282,20 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ボーナス宝箱出現！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bonus treasure chest has appeared!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>先へ進め！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press on!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

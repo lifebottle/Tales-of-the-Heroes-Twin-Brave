@@ -4,26 +4,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション開始！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Start!</EnglishText>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション成功！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Success!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション失敗！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Failed!</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -40,11 +40,11 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ボーナス宝箱出現！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bonus treasure chest has appeared!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

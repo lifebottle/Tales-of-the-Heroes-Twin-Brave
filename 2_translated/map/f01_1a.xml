@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション・成功！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission accomplished!</EnglishText>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>チュートリアル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tutorial</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>

@@ -4,34 +4,34 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション開始！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Start!</EnglishText>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション成功！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Success!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション失敗！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Failed!</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>確認用ミッション</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Review Mission</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -39,29 +39,29 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>３０秒以内に３５Ｋ．Ｏ．を決めろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Score 35 K.O.s within 30 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ボーナス宝箱出現！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bonus treasure chest has appeared!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>門番出現！　倒して先へ進め！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Gatekeeper has appeared! Defeat him and move forward!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

@@ -28,7 +28,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>Stan</JapaneseText>
-      <EnglishText>Stan</EnglishText>
+      <EnglishText>Stahn</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -36,7 +36,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>Lion</JapaneseText>
-      <EnglishText>Lion</EnglishText>
+      <EnglishText>Leon</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -52,26 +52,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション開始！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Start!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション成功！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Success!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション失敗！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Failed!</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -469,20 +469,20 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ボーナス宝箱出現！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bonus treasure chest has appeared!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>43</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>先へ進め！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press on!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>44</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -497,20 +497,20 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ボーナス宝箱出現！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bonus treasure chest has appeared!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>先へ進め！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press on!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>47</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

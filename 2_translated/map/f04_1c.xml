@@ -4,26 +4,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション開始！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Start!</EnglishText>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション成功！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Success!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミッション失敗！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mission Failed!</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -39,83 +39,83 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>★☆☆☆☆☆☆☆☆☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>★☆☆☆☆☆☆☆☆☆</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>★★☆☆☆☆☆☆☆☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>★★☆☆☆☆☆☆☆☆</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>★★★☆☆☆☆☆☆☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>★★★☆☆☆☆☆☆☆</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>★★★★☆☆☆☆☆☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>★★★★☆☆☆☆☆☆</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>★★★★★☆☆☆☆☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>★★★★★☆☆☆☆☆</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>★★★★★★☆☆☆☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>★★★★★★☆☆☆☆</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>★★★★★★★☆☆☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>★★★★★★★☆☆☆</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>★★★★★★★★☆☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>★★★★★★★★☆☆</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>★★★★★★★★★☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>★★★★★★★★★☆</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -132,20 +132,20 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ボーナス宝箱出現！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bonus treasure chest has appeared!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>先へ進め！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press on!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
