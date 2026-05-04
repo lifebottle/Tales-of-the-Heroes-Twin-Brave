@@ -66,7 +66,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージでリーダーと門番を撃破せよ！</JapaneseText>
-      <EnglishText>Defeat the Leader and the Gatekeeper without taking any damage!</EnglishText>
+      <EnglishText>Defeat the Leader and the Gatekeeper
+without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>

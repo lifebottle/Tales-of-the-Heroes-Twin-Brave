@@ -51,8 +51,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>けっこうやるみたいだね</JapaneseText>
-      <EnglishText>Looks like you can do a fair bit.</EnglishText>
-      <Notes>May be "they". Needs context.</Notes>
+      <EnglishText>Looks like they can do a fair bit.</EnglishText>
+      <Notes>Subject.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
       <Status>Problematic</Status>

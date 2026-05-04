@@ -39,7 +39,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ノー・ダメージで３０秒以内に門番を倒せ！</JapaneseText>
-      <EnglishText>Defeat the gatekeeper in under 30 seconds without taking any damage!</EnglishText>
+      <EnglishText>Defeat the gatekeeper in under 30 seconds
+without taking any damage!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>

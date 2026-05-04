@@ -15,8 +15,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>雑魚じゃねぇみたいだな</JapaneseText>
-      <EnglishText>Looks like we're not dealing with small fry here.</EnglishText>
-      <Notes>Uses "we're", but I'm uncertain if this pops up while Cless is present.</Notes>
+      <EnglishText>Looks like I'm not dealing with small fry here.</EnglishText>
+      <Notes>Pronoun subject.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
       <Status>Problematic</Status>
@@ -33,8 +33,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>あいつ……ほっとくわけにはいかねぇな</JapaneseText>
-      <EnglishText>That guy... I can't just leave him alone.</EnglishText>
-      <Notes>Unsure if this refers to Cless or an enemy.</Notes>
+      <EnglishText>That guy... I can't just leave him be.</EnglishText>
+      <Notes>Subject.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>2</Id>
       <Status>Problematic</Status>
@@ -51,9 +51,9 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>少しはデキるみてぇだな</JapaneseText>
-      <EnglishText>Looks like you can actually
+      <EnglishText>Looks like they can actually
 do a little something here.</EnglishText>
-      <Notes>Uses "you", but might be "they".</Notes>
+      <Notes>Subject.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
       <Status>Problematic</Status>

@@ -57,7 +57,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>門番出現！　倒して先へ進め！</JapaneseText>
-      <EnglishText>The Gatekeeper has appeared! Defeat him and move forward!</EnglishText>
+      <EnglishText>The Gatekeeper has appeared!
+Defeat him and move forward!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>

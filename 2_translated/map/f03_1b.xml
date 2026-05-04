@@ -39,7 +39,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>１０秒以内にノー・ダメージでクリスタルを破壊せよ！</JapaneseText>
-      <EnglishText>Destroy the crystal without taking any damage within 10 seconds!</EnglishText>
+      <EnglishText>Destroy the crystal without taking
+any damage within 10 seconds!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>

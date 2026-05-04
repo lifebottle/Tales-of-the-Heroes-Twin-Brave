@@ -69,7 +69,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>まさかこれ程とは……</JapaneseText>
-      <EnglishText>To this it would be this much...</EnglishText>
+      <EnglishText>To think it would be this much...</EnglishText>
       <Notes>Needs context. I'm assuming "this bad".</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -105,8 +105,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>仲間の仇は討つ！</JapaneseText>
-      <EnglishText>I will have vengeance against
-my companion's foe!</EnglishText>
+      <EnglishText>I will have vengeance
+against my companion's foe!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>

@@ -15,7 +15,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>あの敵、注意が必要ね</JapaneseText>
-      <EnglishText>We need to be cautious of that enemy.</EnglishText>
+      <EnglishText>I need to be cautious of that enemy.</EnglishText>
       <Notes>Subject.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>0</Id>
@@ -51,7 +51,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>注意した方がいい相手みたいね</JapaneseText>
-      <EnglishText>Seems like an opponent we
+      <EnglishText>Seems like an opponent I
 need to be cautious against.</EnglishText>
       <Notes>Uses "we", but I'm not sure if this is her and Asbel or a case where's she by herself.</Notes>
       <SpeakerId>0</SpeakerId>
@@ -70,7 +70,7 @@ need to be cautious against.</EnglishText>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これ程の実力だなんて……</JapaneseText>
-      <EnglishText>To think, he has this much skill...</EnglishText>
+      <EnglishText>To think, they have this much skill...</EnglishText>
       <Notes>Needs context for gender.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
